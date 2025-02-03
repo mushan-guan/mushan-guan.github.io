@@ -47,8 +47,8 @@ links:
     url: /hobbies/
   # - title: Startups
     # url: /startups/
-  - title: Work experiences
-    url: /work experiences/
+  - title: Career
+    url: /career/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
