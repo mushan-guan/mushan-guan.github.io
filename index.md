@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://mushan-guan.github.io/guanqibiao.jpg" class="floatpic">
+<img src="https://mushan-guan.github.io/guanqibiao.jpg" class="floatpic" width = 180 height = 240>
 
 Hi! Here is **Qibiao Guan (管其标)**.
 
@@ -14,11 +14,15 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 ## Skill
 
-**数据分析**：我熟练掌握基于linux、R、Python的bulk RNA-seq、bulk ATAC-seq、bulk ChIP-seq、single cell RNA-seq、10X Visium Spatial RNA-seq、HiC-seq、single cell ATAC-seq、WGS、WES、shinyAPP制作、single cell VDJ-seq等分析
+- **数据分析**：我熟练掌握基于linux、R、Python的bulk RNA-seq、bulk ATAC-seq、bulk ChIP-seq、single cell RNA-seq、10X Visium Spatial RNA-seq、HiC-seq、single cell ATAC-seq、WGS、WES、shinyAPP制作、single cell VDJ-seq等分析
 
-**实验技术**：我基本掌握分子实验（PCR、提质粒、WB），细胞实验（干细胞培养与定向分化、类器官培养、流式细胞术），神经科学实验（水迷宫/Y迷宫/粘附-移除等小鼠行为学测试），实验动物打药造模、灌注、组织切片与免疫荧光等技术
+  
 
-**英语水平**：我已经通过大学英语四六级考试，能够熟练阅读英文文献
+- **实验技术**：我基本掌握分子实验（PCR、提质粒、WB），细胞实验（干细胞培养与定向分化、类器官培养、流式细胞术），神经科学实验（水迷宫/Y迷宫/粘附-移除等小鼠行为学测试），实验动物打药造模、灌注、组织切片与免疫荧光等技术
+
+  
+
+- **英语水平**：我已经通过大学英语四六级考试，能够熟练阅读英文文献
 
 ------
 
