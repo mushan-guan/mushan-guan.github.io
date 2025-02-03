@@ -8,44 +8,38 @@ layout: page
 
 Here is **Qibiao Guan (管其标)**.<br>
 
-I am a graduate student in the Department of Engineering at the University of Cambridge, advised by [Prof. Özgür Akan](https://ioe.eng.cam.ac.uk/directory/akan), within [Internet of Everything (IoE) Group](https://ioe.eng.cam.ac.uk/). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/) at [Artificial Intelligence Group](https://www.cl.cam.ac.uk/research/ai/). Prior to Cambridge,  I have worked on System Engineering, Cybersecurity and Wireless Communication with [Prof. Zhezhuang Xu](https://scholar.google.com.hk/citations?user=iZ7LQRkAAAAJ&hl=zh-CN) and [Dr. Meng Yuan](https://myuan27.github.io/). Recently, I was honored to be selected as **AAAI-2024 and KDD-2024 Undergraduate Scholars**.<br>
+研究方向：利用单细胞多组学等技术系统解析神经损伤疾病（如脑卒中、脊髓损伤）、衰老相关神经退行性疾病（如阿尔茨海默病）以及颅骨骨缝早闭、第四脑室罕见肿瘤等儿童罕见神经疾病的病理机制
 
-If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - hc663 [at] cam.ac.uk
+科研状态：具有较强的自主学习能力，善于生物信息学分析(基于linux、R、Python的bulk RNA-seq、bulk ATAC-seq、bulk ChIP-seq、single cell RNA-seq、10X Visium Spatial RNA-seq、HiC-seq、single cell ATAC-seq、WGS、WES、shinyAPP制作、single cell VDJ-seq等分析)。实验技术方面：较熟练掌握分子实验(PCR、提质粒、WB)，细胞实验(干细胞培养与定向分化、类器官培养、流式细胞术)，神经科学实验(水迷宫/Y迷宫/粘附-移除等小鼠行为学测试)，实验动物打药造模、灌注、组织切片与免疫荧光等。英语水平较好，具有较强的信息搜索能力和文献调研能力，能够比较熟练地阅读中英文文献。人际交往方面具有较好的沟通能力，和实验室同仁相处愉快，能够积极承担实验室日常事务。身体健康，能够吃苦耐劳。
 
-**<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>**
+---
+
+## Research Focus
+
+- 单细胞多组学
+- 神经系统损伤性或退行性疾病
+- 神经系统肿瘤
+- 神经免疫
+- 神经再生
 
 ---
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Molecular Communication
-- Wireless Communication
-- AI-powered Communication
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
-
----
-
-## News and Updates
-
-- **June 2024**：Very excited to be selected as [KDD UC Scholar](https://kdd2024.kdd.org/undergraduate-consortium/). See you in Spain!
-- **May 2024：**My bachelor thesis won the Annual Best Thesis Award (Top 1/300).
-- **April 2024：**Our work *BLEGuard* has been accepted to [MobiSys 2024](https://www.sigmobile.org/mobisys/2024/) as a poster paper. See you in Japan!
-- **March 2024：**Very excited to get a MPhil offer from Engineering department at Cambridge University!
-- **Dec 2023：**Very excited to be selected as [AAAI UC Scholar](https://aaai.org/aaai-conference/undergraduate-consortium-program/). See you in Canada!
-- **Jun 2022：**Started research programme at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
-
-<br>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- Disease - Ischemic Stroke || Craniosynostoses || Vascular Dementia || Alzheimer's Disease || Spinal Cord Injury || Amyotrophic Lateral Sclerosis
+- Technique - Brain Organoid || Mesh Nano-electrode || BioPrint || Database || Bioinfomatics analysis
+- Biological Process - EMT/MET || Lipid Metabolism || Clonal Hematopoiesis
+- Organism - Homo sapiens || Mus musculus || Rattus norvegicus
+- System - Nervous system || Immune system
+- Tissue - Brain || Spleen || Skull || Meninge
+- Cell - hESC/NSC || Skull bone stem cell || Astrocyte || Microglia || Oligodendrocyte|| Endothelium || Double negative T cell
+- Gene - Hells || Gpnmb
 
 
 
 ## Web Star History
 
 - [Leave a star if you like it 🥰](https://github.com/mushan-guan/mushan-guan.github.io) 
-- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/mushan-guan/mushan-guan.github.io)留下一个Star吧！
 
 My WeChat account - gqb1900
 

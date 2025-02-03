@@ -6,49 +6,61 @@ title: Hobbies
 
 # Hobbies
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or hiking together, feel free to contact me!
+## 博物
 
-## Swimming & Surfing
+昆虫摄影、采集、标本制作、鉴定与记录
 
-<div class="third">
-<img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
-</div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 15-year swimming career. Recently, I am also keen on surfing.
+鼠妇、甲虫等节肢动物的饲养繁殖
 
-## Workshop
+野外鸟类摄影
 
-<div class="third">
-<img src="/images/prelection1.JPG">
-<img src="/images/speech1.JPG">
-<img src="/images/speech3.JPG">
-</div>
-<br>There must be something truly magical about standing on stage to give a fantastic speech, which considerably lifts my spirits and energizes my entire body. If you desire to master a specific knowledge in depth, just give a prelection. If you can explain to others for complete understanding, you are already an expert. I really enjoy the accomplishment of imparting my knowledge to others, so what I strive for is to be **a student's favorite professor** at the [best universities in my hometown].
+原生鱼采集、饲养
 
-[best universities in my hometown]:https://www.fzu.edu.cn/
+仓鼠饲养
 
+[iNaturalist](https://www.inaturalist.org/people/6364475)
 
-## Past Hobbies
+[iNaturalist2023年度个人总结](https://www.inaturalist.org/stats/2023/guanmushan)
 
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
+[iNaturalist2024年度个人总结](https://www.inaturalist.org/stats/2024/guanmushan)
 
-## My Cat
+[小红书](https://www.xiaohongshu.com/user/profile/63f389a4000000001001ce80?xhsshare=CopyLink&appuid=63f389a4000000001001ce80&apptime=1684507060)
 
-She is my love. Her name is Qbao (Q宝).
+[中国观鸟记录中心](http://www.birdreport.cn/member/index.html)
 
-<div>
-<img src="/images/cat.JPG">
-</div>
 <br>
 
-## Chat with me
 
-**Jan 2023:** I have set up the [online-coffee-time](https://calendly.com/lancecai/meet-with-lance) (Inspired by [Shangzhe Wu](https://elliottwu.com/)). Welcome to chat with me!
+## 摄影
 
-<!-- Calendly inline widget begin -->
+自然摄影、微距摄影
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+主要拍摄器材：
 
+- Canon EOS 6d
+- Canon EF 50mm F1.8 STM
+- Canon EF 17-40mm F4 USM
+- LAOWA FF 100mm F2.8 CA-Dreamer Macro 2X
+- TAMRON SP 150-600mm f/5-6.3 Di VC USD G2 (A022)
+- Kuangren k909
+- Godox TT520II
+- Raynox DCR-250 2.5x Super Macro Lens
+- SIRUI A1005+Y10
+
+<br>
+
+## 其他
+
+收藏（动物标本、邮票、古玩等）
+
+- 参加2023年第五届中国动物标本大赛，获得三等奖
+
+艺术
+
+- 参加中国科学院大学校科协主办的2022年科学与艺术融合创作大赛，获得优秀奖，作品在雁栖湖校区陈列
+- 参加中国科学院大学校科协主办的2023年科学与艺术融合创作大赛，获得三等奖
+- 参加中国科学院大学微生物研究所研究生部和团委主办的2023年“微”观天下生物学科文化创意品牌活动，获得三等奖
+
+徒步
+
+- 2024/05/02-04 内蒙古自治区阿拉善盟腾格里沙漠五湖穿越
