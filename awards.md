@@ -15,7 +15,6 @@ title: Awards
 - June 2024：Best Final Year Project Award of Maynooth (€500)
 - Oct 2023：Best Academic Performance of Maynooth (€100)
 - Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
 
 ## Competitions
 
