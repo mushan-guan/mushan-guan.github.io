@@ -4,25 +4,41 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Update: 20th Sep 2024
+> Update: 2025/02/03
 
-## Scholarships
+## 获奖经历
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
+- 2017 - 2018<br>院级：南京农业大学动物医学院新希望六和奖学金<br>
 
-## Competitions
+- 2017 - 2018<br>校级：南京农业大学单项进步奖学金
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- 2017-2019<br>院级：南京农业大学动物医学院口述历史活动三等奖
+
+- 2018 - 2019<br>校级：南京农业大学三好学生二等奖学金
+
+- 2018 - 2019<br>校级：南京农业大学优秀学生干部
+
+- 2018-2019<br>校级：南京农业大学优秀共青团干部
+
+- 2018-2019<br>校级：南京农业大学第四届生化知识竞赛三等奖
+
+- 2019-2019<br>院级：南京农业大学动物医学院团日活动先进个人
+
+- 2021-2019<br>校级：南京农业大学2021届毕业生“阅读之星” 
+
+- 2022-2019<br>中国科学院上海生命科学信息中心主办<br>2022年中国科学院第二季生物软件操作达人大赛三等奖
+
+- 2023-2019<br>中国科学院大学（校科协和外语系）主办<br>
+
+  2023年科普翻译大赛三等奖
+
+## 技能证书
+
+- 2017/12  教育部考试中心，全国大学英语四级证书
+- 2018/06  教育部考试中心，全国大学英语六级证书
+- 2018/12  英国剑桥大学考试委员会，剑桥商务英语证书考试(BEC)中级证书
+- 2020/11  教育部考试中心，全国大学日语四级证书
+- 2020/11  教育部考试中心，全国计算机等级考试二级MS Office证书
+- 2023/01  北京实验动物行业协会，实验动物从业人员上岗证<br>
 
 <br>

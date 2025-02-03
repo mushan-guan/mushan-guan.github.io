@@ -28,6 +28,8 @@ title: Hobbies
 
 [中国观鸟记录中心](http://www.birdreport.cn/member/index.html)
 
+参与撰写中国科学院大学官方公众号2022.04.02推文《[不瞒你说，这篇推文有点“臭”!](https://mp.weixin.qq.com/s/WrZ61y_5FgXF3VJMmBb7Kw)》
+
 曾参加2023年第五届中国动物标本大赛，获得三等奖，作品在国家动物博物馆陈列
 
 <br>
