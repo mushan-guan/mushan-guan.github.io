@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Work Experinces/index.html
-title: Work Experinces
+permalink: /career/index.html
+title: Career
 ---
 
 ## Work Experiences 工作经历
