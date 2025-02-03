@@ -2,7 +2,7 @@ title: Qibiao Guan
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://mushan-guan.github.io/
 
 # Owner/author information
 owner:
@@ -10,6 +10,7 @@ owner:
   avatar: hanlin.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: qibiaoguan@163.com
+  wechat: gqb1900
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
