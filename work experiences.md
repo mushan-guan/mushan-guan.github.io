@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/index.html
+permalink: /Work Experinces/index.html
 title: Work Experinces
 ---
 
