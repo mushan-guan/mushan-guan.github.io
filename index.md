@@ -26,29 +26,37 @@ Here is **Qibiao Guan (管其标)**.<br>
 
 ## Research Interests
 
-***Disease*** || Stroke | || Dementia | || AD | || ALS
+***Disease*** ||| Stroke | || Dementia | || AD | || ALS
 
-***Technique*** ||Organoid | || Mesh Nano-electrode | || Bioinfomatics
+***Technique*** |||Organoid | || Mesh Nano-electrode | || Bioinfomatics
 
 ***Biological Process*** || EMT/MET | || Lipid Metabolism | || Clonal Hematopoiesis
 
-***Organism*** || *Homo sapiens* | || *Mus musculus* | || *Rattus norvegicus*
+***Organism*** ||| *Homo sapiens* | || *Mus musculus* | || *Rattus norvegicus*
 
-***System*** || Nervous system | || Immune system
+***System*** ||| Nervous system | || Immune system
 
-***Tissue*** || Brain | || Spleen | || Skull | || Meninge
+***Tissue*** ||| Brain | || Spleen | || Skull | || Meninge
 
-***Cell*** || hESC/NSC | || Astrocyte | || Microglia | || Oligodendrocyte | || Endothelium
+***Cell*** ||| hESC/NSC | || Astrocyte | || Microglia | || Oligodendrocyte | || Endothelium
 
-***Gene*** || *Hells* | || *Gpnmb*
+***Gene*** ||| *Hells* | || *Gpnmb*
 
 
 
-## Web Star History
+## Contact
 
-- [Leave a star if you like it 🥰](https://github.com/mushan-guan/mushan-guan.github.io) 
+- [This website](https://github.com/mushan-guan/mushan-guan.github.io)
 
-My WeChat account - gqb1900
+- 中国科学院大学
+- 中国科学院动物研究所
+- 中国科学院干细胞与再生医学创新研究院
+- 北京干细胞与再生医学研究院
+- 干细胞与生殖生物学国家重点实验室
+- 干细胞与再生医学全国重点实验室
+- WeChat: gqb1900
+- Tel: 15365004034
+- E-mail: qibiaoguan@ioz.ac.cn; qibiaoguan@163.com
 
 <br>
 
