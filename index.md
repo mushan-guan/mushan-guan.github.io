@@ -26,14 +26,21 @@ Here is **Qibiao Guan (管其标)**.<br>
 
 ## Research Interests
 
-- Disease - Ischemic Stroke || Craniosynostoses || Vascular Dementia || Alzheimer's Disease || Spinal Cord Injury || Amyotrophic Lateral Sclerosis
-- Technique - Brain Organoid || Mesh Nano-electrode || BioPrint || Database || Bioinfomatics analysis
-- Biological Process - EMT/MET || Lipid Metabolism || Clonal Hematopoiesis
-- Organism - Homo sapiens || Mus musculus || Rattus norvegicus
-- System - Nervous system || Immune system
-- Tissue - Brain || Spleen || Skull || Meninge
-- Cell - hESC/NSC || Skull bone stem cell || Astrocyte || Microglia || Oligodendrocyte|| Endothelium || Double negative T cell
-- Gene - Hells || Gpnmb
+*Disease* || Ischemic Stroke || Craniosynostoses || Vascular Dementia || Alzheimer's Disease || Spinal Cord Injury || Amyotrophic Lateral Sclerosis
+
+*Technique* || Brain Organoid || Mesh Nano-electrode || BioPrint || Database || Bioinfomatics analysis
+
+*Biological Process* || EMT/MET || Lipid Metabolism || Clonal Hematopoiesis
+
+*Organism* || Homo sapiens || Mus musculus || Rattus norvegicus
+
+*System* || Nervous system || Immune system
+
+*Tissue* || Brain || Spleen || Skull || Meninge
+
+*Cell* || hESC/NSC || Skull bone stem cell || Astrocyte || Microglia || Oligodendrocyte|| Endothelium || Double negative T cell
+
+*Gene* || Hells || Gpnmb
 
 
 
