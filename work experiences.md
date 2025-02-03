@@ -4,7 +4,7 @@ permalink: /blogs/index.html
 title: Work Experinces
 ---
 
-## Work Experinces 工作经历
+## Work Experiences 工作经历
 
 2016/09 - 2017/06  南京农业大学，校科协，科普部干事
 
