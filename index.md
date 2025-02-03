@@ -6,11 +6,15 @@ layout: page
 
 <img src="https://mushan-guan.github.io/guanqibiao.jpg" class="floatpic">
 
-Here is **Qibiao Guan (管其标)**.<br>
+Hi! Here is **Qibiao Guan (管其标)**.<br>
 
-研究方向：利用单细胞多组学等技术系统解析神经损伤疾病（如脑卒中、脊髓损伤）、衰老相关神经退行性疾病（如阿尔茨海默病）以及颅骨骨缝早闭、第四脑室罕见肿瘤等儿童罕见神经疾病的病理机制<br>
+我是一名再生医学专业的研究生，我目前正在中国科学院动物研究所攻读医学博士学位，我的研究方向包括：利用单细胞多组学等技术系统解析神经损伤疾病（如缺血性脑卒中）、衰老相关神经退行性疾病（如阿尔茨海默病）以及颅骨骨缝早闭、第四脑室罕见肿瘤等儿童罕见神经疾病的病理机制<br>
 
-研究技能：具有较强的自主学习能力，善于生物信息学分析(基于linux、R、Python的bulk RNA-seq、bulk ATAC-seq、bulk ChIP-seq、single cell RNA-seq、10X Visium Spatial RNA-seq、HiC-seq、single cell ATAC-seq、WGS、WES、shinyAPP制作、single cell VDJ-seq等分析)。实验技术方面：较熟练掌握分子实验(PCR、提质粒、WB)，细胞实验(干细胞培养与定向分化、类器官培养、流式细胞术)，神经科学实验(水迷宫/Y迷宫/粘附-移除等小鼠行为学测试)，实验动物打药造模、灌注、组织切片与免疫荧光等
+------
+
+## Skill
+
+我具有较强的自主学习能力，善于生物信息学分析(基于linux、R、Python的bulk RNA-seq、bulk ATAC-seq、bulk ChIP-seq、single cell RNA-seq、10X Visium Spatial RNA-seq、HiC-seq、single cell ATAC-seq、WGS、WES、shinyAPP制作、single cell VDJ-seq等分析)。在实验技术方面，我基本掌握了分子实验(PCR、提质粒、WB)，细胞实验(干细胞培养与定向分化、类器官培养、流式细胞术)，神经科学实验(水迷宫/Y迷宫/粘附-移除等小鼠行为学测试)，实验动物打药造模、灌注、组织切片与免疫荧光等。此外，我已经通过大学英语四六级考试，能够熟练阅读英文文献。
 
 ------
 
