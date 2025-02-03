@@ -4,11 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+> (†: equal contribution, #: corresponding author)
 
 ## Paper
 
-- Stroke NSC<br>**Tingting Zhang**†, **Da Li**†, **Qibiao Guan**†, Baoyang Hu~<br>2025.<br>
+- Stroke NSC<br>**Tingting Zhang**†, **Da Li**†, **Qibiao Guan**†, Baoyang Hu#<br>2025.<br>
 
   <br>
 
@@ -18,7 +18,7 @@ title: Publications
 
 - [江苏省非洲马瘟传入和传播的定性风险分析和管理. 2021年农学学士学位论文](https://mushan-guan.github.io/mypaper/thesis/NJAU.pdf)<br>
 
-  Advisor: 南京农业大学农业农村部动物细菌学重点实验室，杨振副教授<br>
+  Advisor: 南京农业大学，农业农村部动物细菌学重点实验室，杨振副教授<br>
 
   <br>
 
@@ -28,9 +28,11 @@ title: Publications
 
 - 2021/01 – 2021/09<br>
 
-  南京农业大学，世界动物卫生组织(WOAH)猪链球菌病诊断国际参考实验室，师从潘子豪副教授<br>
+  南京农业大学，世界动物卫生组织(WOAH)猪链球菌病诊断国际参考实验室<br>
 
-  学习细胞实验，参与国内养殖场支原体、病毒的检测工作，配制与改良牛支原体固体培养基<br>
+  师从潘子豪副教授，学习细胞实验，参与国内养殖场支原体、病毒的检测工作，<br>
+
+  配制与改良牛支原体固体培养基<br>
 
 - 2021/01 – 2021/09<br>
 
@@ -44,4 +46,6 @@ title: Publications
 
 - 2018/03 – 2019/05<br>
 
-  南京农业大学，教育部动物健康与食品安全国际联合实验室，师从芮荣教授，主持校级SRT项目<br>[白藜芦醇对猪卵母细胞体外老化的抑制作用](https://mushan-guan.github.io/mypaper/thesis/VET.pdf)<br>畜牧与兽医. 2019年  第51卷 第5期（董妍，**管其标**，张雪彤，钱雨鑫，郭昕怡，芮荣）
+  南京农业大学，教育部动物健康与食品安全国际联合实验室，师从芮荣教授<br>
+
+  主持校级SRT项目<br>[白藜芦醇对猪卵母细胞体外老化的抑制作用](https://mushan-guan.github.io/mypaper/thesis/VET.pdf)<br>畜牧与兽医. 2019年  第51卷 第5期（董妍，**管其标**，张雪彤，钱雨鑫，郭昕怡，芮荣）
