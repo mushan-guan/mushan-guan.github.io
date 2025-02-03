@@ -1,56 +1,63 @@
 ---
 layout: page
 permalink: /blogs/index.html
-title: Blogs
+title: Work Experinces
 ---
 
-## Chinese Blogs 中文博客
+## Work Experinces 工作经历
 
-### 2024
+2016/09 - 2017/06  南京农业大学，校科协，科普部干事
 
-- [22岁，站在人生的交叉路口](https://caihanlin.com/blogs/22yrs)
-- [AAAI 2024 温哥华参会实录](https://caihanlin.com/blogs/aaai-24/)
-- [24Fall，英国硕士项目申请实录](https://caihanlin.com/blogs/24fall/)
+2016/09 - 2021/06  南京农业大学，南苑学生宿舍一舍132号，舍长
 
-### 2023
+2017/09 - 2019/09  南京农业大学，动物医学院动医163班团支部，团支书
 
-- [21岁，何妨吟啸且徐行](https://caihanlin.com/blogs/21yrs)<br>
-- [极简风Jekyll个人网站搭建指南](https://caihanlin.com/blogs/web)<br>
-- [本科生数学建模竞赛指南](https://caihanlin.com/blogs/team2023)<br>
-- [海外暑研申请指南](https://caihanlin.com/blogs/summer-res)<br>
+2018/07/11 - 2018/08/18  上海佩仕动物诊疗有限公司，宠物医疗助理
 
-### 2022
+2018/07/25 - 2018/08/02  广西桂林市力源集团，饲料部门调研生
 
-- [20岁，宽心且看月中桂](https://caihanlin.com/blogs/20yrs)<br>
-- [暂停、暂停、暂停](https://caihanlin.com/blogs/stop/)
+2018 南京市高淳区关心下一代工作委员会/高淳区淳文公益社会服务中心，高淳区留守儿童关爱支教项目志愿者
 
-### 2021
+2018/09 - 2019/06  南京农业大学，动物医学院力源读书成长俱乐部，读书小组组长
 
-- [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
+2019/05 - 2021/06  南京农业大学，植物保护学院中华虎凤蝶保护协会，协会成员
 
-### 2020
+2019/07/15 - 2019/07/21  南京农业大学，马科学研究中心，调研生
 
-- [18岁，缓慢受锤的黄金年代](https://caihanlin.com/blogs/18yrs)<br>
-- [本科博客，笔记，回忆录](https://mieclance.club/)
+2019/07 - 2019/09  无境深蓝(Better Blue)，Youth4Ocean LandDiver字幕组成员
 
-<br>
+2019/10/21 - 2019/12/28  南京农业大学，教学动物医院，宠物医疗助理
 
-## Leave a Message 欢迎留言
+2020/04/18 - 2020/05/19  南京卧龙湖乡村休闲俱乐部有限公司，西尔维娅马术学院，马工
 
-<br>
+2020/07/01 - 2020/08/06  南京汉世伟食品有限公司，南京市浦口区星甸猪场，饲养技术员
 
-{% include disqus.html %} 
+2020/08/10 - 2020/08/23  江苏省农业科学院，江苏省农学会，科技服务助理
 
-<br>
+2020/09/03 - 2020/09/07  南京农业大学，中国土地经济调研(CLES)，江苏省常州队队员，接受南京农业大学郑华伟副教授指导
 
-## Web Star History 点赞记录
+2021/07/13 - 2021/07/17  南京农业大学，中国土地经济调研(CLES)，江苏省扬州队队员，接受南京农业大学纪月清教授指导
 
-- [Leave a star if you like it 🥰](https://github.com/GuangLun2000/GuangLun2000.github.io) 
-- 如果你喜欢这个站点，请为我的[Github仓库](https://github.com/GuangLun2000/GuangLun2000.github.io)留下一个Star吧！
+2021/08 - 2022/04 个人考研线上辅导老师
 
-<br>[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
+**2021/11 - 至今 中国科学院大学，春分工程科普宣讲团团队高年级成员**
 
-My WeChat account - lancecai2002
+2022/05 山水自然保护中心，海淀城市绿地调查项目志愿者
 
-<br>
+2022/07 在南京市溧水区无想山开展科普活动
+
+2022/08; 2023/07 在北京市密云区新城子镇开展科普活动
+
+2023/02 宇宙实验媛UBG，记者
+
+2023/05/01 中国科学院动物研究所，国家动物博物馆，志愿者
+
+**2023/06/00 - 至今 北京科侨公益基金会，科海童行生命科学公益讲座讲师**
+
+2023/10/28-29 中国科学院第六届2023科学节“科学与中国”之夜动物研究所专场活动，细胞总动员讲师
+
+2024/05/20 中国科学院第二十届公众科学日动物研究所专场暨国家动物博物馆对外开放15周年纪念活动，科普讲师
+
+2024/08-10 在浙江省湖州市长兴县煤山镇中心小学开展科普活动
+
+**2024/10/05 - 至今 北京飞羽第十二届成员**
