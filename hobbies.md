@@ -44,6 +44,7 @@ title: Hobbies
 主要拍摄器材：<br>
 
 - Canon EOS 6d
+
 - Canon EF 50mm F1.8 STM
 - Canon EF 17-40mm F4 USM
 - LAOWA FF 100mm F2.8 CA-Dreamer Macro 2X
