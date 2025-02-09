@@ -14,7 +14,7 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 ## Skill
 
-- **数据分析**：我熟练掌握基于linux、R、Python的bulk RNA-seq、bulk ATAC-seq、bulk ChIP-seq、single cell RNA-seq、10X Visium Spatial RNA-seq、HiC-seq、single cell ATAC-seq、WGS、WES、shinyAPP制作、single cell VDJ-seq等分析
+- **数据分析**：我熟练掌握基于linux、R、Python的bulk RNA-seq、bulk ATAC-seq、bulk ChIP-seq、single cell RNA-seq、10X Visium spatial RNA-seq分析，基本掌握HiC-seq、single cell ATAC-seq、spatial ATAC-seq、WGS、WES、shinyAPP制作、single cell VDJ-seq等分析，正在学习分子对接与分子动力学、影像组学等分析手段
 
   
 
