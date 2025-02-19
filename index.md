@@ -14,7 +14,7 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 ## Skill
 
-- **数据分析**：我擅长基于linux、R、Python的全基因组测序、全外显子组测序、**bulk转录组测序**、**单细胞转录组测序**、**空间转录组测序(10X Visium)**、**bulk ATAC测序**、单细胞ATAC测序、空间ATAC测序、**bulk ChIP测序**、HiC测序、单细胞免疫组库测序、空间代谢组测序、影像组学等分析，正在学习分子对接与分子动力学、bulk代谢组测序与脂质组测序、bulk甲基化测序、单细胞甲基化测序、lncRNA测序、小RNA测序、空间免疫组库测序等分析手段（**加粗**为熟练掌握）
+- **数据分析**：我擅长基于linux、R、Python的全基因组测序、全外显子组测序、**bulk转录组测序**、**单细胞转录组测序**、**空间转录组测序(10X Visium平台)**、**bulk ATAC测序**、单细胞ATAC测序(基于ArchR/Signac)、空间ATAC测序(基于ArchR)、**bulk ChIP测序**、HiC测序、单细胞免疫组库测序(基于scRepertoire/Immunarch)、空间代谢组测序(基于Cardinal)、影像组学等分析，正在学习分子对接与分子动力学、bulk代谢组测序与脂质组测序、bulk甲基化测序、单细胞甲基化测序、lncRNA测序、小RNA测序、空间免疫组库测序等分析手段（**加粗**为熟练掌握）
 
   
 
