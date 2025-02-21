@@ -14,11 +14,11 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 ## Skill
 
-- **数据分析**：我擅长基于linux、R、Python的全基因组测序、全外显子组测序、**bulk转录组测序**、**单细胞转录组测序**、**空间转录组测序(10X Visium平台)**、**bulk ATAC测序**、单细胞ATAC测序(基于ArchR/Signac)、空间ATAC测序(基于ArchR)、**bulk ChIP测序**、HiC测序、单细胞免疫组库测序(基于scRepertoire/Immunarch)、空间代谢组测序(基于Cardinal)、影像组学等分析，正在学习分子对接与分子动力学、bulk代谢组测序与脂质组测序、bulk甲基化测序、单细胞甲基化测序、lncRNA测序、小RNA测序、空间免疫组库测序等分析手段（**加粗**为熟练掌握）
+- **数据分析**：我擅长基于linux、R、Python的全基因组/全外显子组测序 (基于GATK, ANNOVAR)、**bulk转录组测序**、**单细胞转录组测序 (10x Genomics Chromium、华大智造DNBelab C4、寻因生物Seekone DD)**、**空间转录组测序 (10x Genomics Visium)**、**bulk ATAC测序**、单细胞ATAC测序 (基于ArchR, Signac)、空间ATAC测序 (基于ArchR)、**bulk ChIP测序**、HiC测序、单细胞免疫组库测序 (基于scRepertoire/Immunarch)、空间代谢组测序 (基于Cardinal)、影像组学 (基于3D Slicer, PyRadiomics)等分析，正在学习分子对接与分子动力学、bulk代谢组测序 (基于TidyMass)、bulk脂质组测序、bulk甲基化测序、单细胞甲基化测序、lncRNA测序、小RNA测序、空间免疫组库测序等分析手段（**加粗**为熟练掌握）
 
   
 
-- **实验技术**：我基本掌握分子实验（PCR、提质粒、WB），细胞实验（干细胞培养与定向分化、类器官培养、流式细胞术），神经科学实验（水迷宫/Y迷宫/粘附-移除等小鼠行为学测试），实验动物打药造模、灌注、组织切片与免疫荧光等技术
+- **实验技术**：我基本掌握分子实验 (PCR、提质粒、WB)，细胞实验 (干细胞培养与定向分化、类器官培养、流式细胞术)，神经科学实验 (水迷宫/Y迷宫/粘附-移除等小鼠行为学测试)，实验动物打药造模、灌注、组织切片与免疫荧光等技术
 
   
 
