@@ -14,7 +14,7 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 ## Skill
 
-- **数据分析**：我擅长基于linux、R、Python的全基因组/全外显子组测序 (基于GATK, ANNOVAR)、**bulk转录组测序**、**单细胞转录组测序 (10x Genomics Chromium、华大智造DNBelab C4、寻因生物Seekone DD)**、**空间转录组测序 (10x Genomics Visium)**、**bulk ATAC测序**、单细胞ATAC测序 (基于ArchR, Signac)、空间ATAC测序 (基于ArchR)、**bulk ChIP测序**、HiC测序、单细胞免疫组库测序 (基于scRepertoire/Immunarch)、空间代谢组测序 (基于Cardinal)、影像组学 (基于3D Slicer, PyRadiomics)等分析，正在学习分子对接与分子动力学、bulk代谢组测序 (基于TidyMass)、bulk脂质组测序、bulk甲基化测序、单细胞甲基化测序、lncRNA测序、小RNA测序、空间免疫组库测序等分析手段（**加粗**为熟练掌握）
+- **数据分析**：我擅长基于linux、R、Python的全基因组/全外显子组测序 (基于GATK, ANNOVAR)、**bulk转录组测序**、**单细胞转录组测序** (**10x Genomics Chromium**、**华大智造DNBelab C4**、**寻因生物Seekone DD** .etc)、**空间转录组测序** (**10x Genomics Visium**、10x Genomics Visium HD、10x Genomics Xenium、华大Stereo-seq .etc)、**bulk ATAC测序**、单细胞ATAC测序 (基于ArchR, Signac)、空间ATAC测序 (基于ArchR)、**bulk ChIP测序**、HiC测序、单细胞免疫组库测序 (基于scRepertoire/Immunarch)、空间代谢组测序 (基于Cardinal)、影像组学 (基于3D Slicer, PyRadiomics) 等分析，正在学习分子对接与分子动力学、bulk代谢组测序 (基于TidyMass)、bulk脂质组测序、bulk甲基化测序、单细胞甲基化测序、lncRNA测序、小RNA测序、空间免疫组库测序等分析手段（**加粗**为熟练掌握）
 
   
 
