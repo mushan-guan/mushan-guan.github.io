@@ -18,15 +18,15 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
   - **全基因组/全外显子组测序** (基于GATK, ANNOVAR)
   - **bulk转录组测序**
-  - **单细胞转录组测序** (**10x Genomics Chromium**、**华大智造DNBelab C4**、**寻因生物Seekone DD**.etc)
-  - **空间转录组测序** (**10x Genomics Visium** / Visium HD / Xenium、华大Stereo-seq、MERFISH、seqFISH、Slide-seqV2.etc)
+  - **单细胞转录组测序** (**10x Genomics Chromium**, **华大智造DNBelab C4**, **寻因生物Seekone DD**.etc)
+  - **空间转录组测序** (**10x Genomics Visium** / Visium HD / Xenium, 华大Stereo-seq, MERFISH, seqFISH, Slide-seqV2.etc)
   - **bulk ATAC测序**
   - 单细胞ATAC测序 (基于ArchR, Signac.etc)
   - 空间ATAC测序 (基于ArchR.etc)
   - bulk ChIP测序
   - bulk HiC测序
   - 单细胞免疫组库测序 (基于scRepertoire/Immunarch.etc)
-  - 空间蛋白组测序 (4i、IMC、MIBI-TOF、NanoString；基于Squidpy.etc)
+  - 空间蛋白组测序 (4i, IMC, MIBI-TOF, NanoString；基于Squidpy.etc)
   - 空间代谢组测序 (基于Cardinal.etc)
   - 影像组学 (基于3D Slicer, PyRadiomics.etc)
   - 正在学习：
