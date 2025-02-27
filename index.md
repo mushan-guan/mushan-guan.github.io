@@ -25,19 +25,18 @@ Hi! Here is **Qibiao Guan (管其标)**.
   - 空间ATAC测序 (基于ArchR.etc)
   - bulk ChIP测序
   - bulk HiC测序
-  - 单细胞免疫组库测序 (基于scRepertoire/Immunarch.etc)
+  - 单细胞免疫组库测序 (基于scRepertoire / Immunarch.etc)
+  - bulk蛋白组测序
   - 空间蛋白组测序 (4i, IMC, MIBI-TOF, NanoString；基于Squidpy.etc)
+  - bulk代谢组测序 (基于SIMCA-P / TidyMass)
   - 空间代谢组测序 (基于Cardinal.etc)
   - 影像组学 (基于3D Slicer, PyRadiomics.etc)
   - 正在学习：
     - 分子对接与分子动力学
-    - bulk代谢组测序 (基于TidyMass)
     - bulk脂质组测序
     - bulk甲基化测序
-    - 单细胞甲基化测序
     - lncRNA测序
     - 小RNA测序
-    - 空间免疫组库测序
 
 
   <br>
