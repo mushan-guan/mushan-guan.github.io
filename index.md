@@ -15,28 +15,27 @@ Hi! Here is **Qibiao Guan (管其标)**.
 ## Skill
 
 - **数据分析**：我擅长基于linux、R、Python的生物信息学数据分析，包括以下技术（**加粗**为熟练掌握）
-
-  - **全基因组/全外显子组测序** (基于GATK, ANNOVAR)
-  - **bulk转录组测序**
-  - **单细胞转录组测序** (**10x Genomics Chromium**, **华大智造DNBelab C4**, **寻因生物Seekone DD**.etc)
-  - **空间转录组测序** (**10x Genomics Visium** / Visium HD / Xenium, 华大Stereo-seq, MERFISH, seqFISH, Slide-seqV2.etc)
-  - **bulk ATAC测序**
-  - 单细胞ATAC测序 (基于ArchR, Signac.etc)
-  - 空间ATAC测序 (基于ArchR.etc)
-  - bulk ChIP测序
-  - bulk HiC测序
-  - 单细胞免疫组库测序 (基于scRepertoire / Immunarch.etc)
-  - bulk蛋白组测序
-  - 空间蛋白组测序 (4i, IMC, MIBI-TOF, NanoString；基于Squidpy.etc)
-  - bulk代谢组测序 (基于SIMCA-P / TidyMass)
-  - 空间代谢组测序 (基于Cardinal.etc)
-  - 影像组学 (基于3D Slicer, PyRadiomics.etc)
+  - WGS / WES (基于GATK, ANNOVAR)
+  - **bulk RNA-seq**
+  - single-cell RNA-seq (**10x Genomics Chromium**, 华大智造DNBelab C4, 寻因生物Seekone DD.etc)
+  - spatial RNA-seq (**10x Genomics Visium** / Visium HD / Xenium, 华大Stereo-seq, MERFISH, seqFISH, Slide-seqV2.etc)
+  - **bulk ATAC-seq**
+  - single-cell ATAC-seq (基于ArchR, Signac.etc)
+  - spatial ATAC-seq (基于ArchR.etc)
+  - bulk ChIP-seq
+  - bulk HiC-seq
+  - single-cell VDJ-seq (基于scRepertoire / Immunarch.etc)
+  - bulk proteomics
+  - spatial proteomics (4i, IMC, MIBI-TOF, NanoString; 基于Squidpy.etc)
+  - bulk metabonomics (基于SIMCA-P / TidyMass)
+  - spatial metabonomics (基于Cardinal.etc)
+  - Radiomics (基于3D Slicer, PyRadiomics.etc)
   - 正在学习：
     - 分子对接与分子动力学
-    - bulk脂质组测序
-    - bulk甲基化测序
-    - lncRNA测序
-    - 小RNA测序
+    - bulk lipidomics
+    - BS-seq
+    - lncRNA-seq
+    - small RNA-seq
 
 
   <br>
