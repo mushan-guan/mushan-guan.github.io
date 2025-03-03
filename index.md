@@ -28,9 +28,9 @@ Hi! Here is **Qibiao Guan (管其标)**.
   - **bulk ATAC-seq** / ChIP-seq
     - Method: Fastp, Botiew2, Samtools, Deeptools, Picard, MACS2, Uropa, HOMER, Bedtools, Subread, DiffBind, sva, limma, edgeR, ChIPseeker, TOBIAS, ATACseqQC
   - single-cell ATAC-seq
-    - Method: ArchR, Signac
+    - Method: Cell Ranger ATAC, Seurat, ArchR, Signac, ChromVAR, Cicero, SnapATAC2
   - spatial ATAC-seq
-    - Method: ArchR
+    - Method: Seurat, ArchR
   - bulk HiC-seq
     - Method: Fastp, BWA, Samtools, HiCExplorer, cooler, juicer, hicrep, calder2, mustache, HiContacts, pyGenomeTracks
   - single-cell VDJ-seq
