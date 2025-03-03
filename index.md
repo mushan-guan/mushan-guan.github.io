@@ -25,9 +25,9 @@ Hi! Here is **Qibiao Guan (管其标)**.
   - bulk ChIP-seq
   - bulk HiC-seq
   - single-cell VDJ-seq (基于scRepertoire / Immunarch.etc)
-  - bulk proteomics / lipidomics (基于SIMCA-P / Cytoscape.etc)
+  - bulk proteomics (基于SIMCA-P / Cytoscape.etc)
   - spatial proteomics (4i, IMC, MIBI-TOF, NanoString; 基于Squidpy.etc)
-  - bulk metabonomics (基于MetaboAnalyst / MS-DIAL / SIMCA-P / TidyMass.etc)
+  - bulk metabonomics / lipidomics (基于MetaboAnalyst / MS-DIAL / SIMCA-P / TidyMass.etc)
   - spatial metabonomics (基于Cardinal.etc)
   - Radiomics (基于3D Slicer, PyRadiomics.etc)
   - 正在学习：
