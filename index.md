@@ -15,21 +15,37 @@ Hi! Here is **Qibiao Guan (管其标)**.
 ## Skill
 
 - **数据分析**：我擅长基于linux、R、Python的生物信息学数据分析，包括以下技术（**加粗**为熟练掌握）
-  - WGS / WES (基于GATK, ANNOVAR)
+  - WGS / WES
+    - Method: GATK, ANNOVAR
   - **bulk RNA-seq**
-  - single-cell RNA-seq (**10x Genomics Chromium**, 华大智造DNBelab C4, 寻因生物Seekone DD.etc)
-  - spatial RNA-seq (**10x Genomics Visium** / Visium HD / Xenium, 华大Stereo-seq, MERFISH, seqFISH, Slide-seqV2.etc)
-  - **bulk ATAC-seq**
-  - single-cell ATAC-seq (基于ArchR, Signac.etc)
-  - spatial ATAC-seq (基于ArchR.etc)
-  - bulk ChIP-seq
+    - Method: Fastp, SALMON, STAR, subread, kallisto, limma, DESeq2, edgeR, clusterProfiler, STRING, CytoScape, GSEA, GSVA, ClusterGVis, bulkPseudotime, WGCNA, ComplexHeatmap
+  - single-cell RNA-seq
+    - Platform: **10x Genomics Chromium**, 华大智造DNBelab C4, 寻因生物Seekone DD
+    - Method: Cell Ranger, Seurat, Scanpy, SCP, SoupX, DecontX, DoubletFinder, Scrublet, tricycle, SCTransform, Harmony, CCA, scVI, singleR, GPTcelltype, CellTypist, projectR, ProjecTILs, scvelo, Monocle v2/v3, Slingshot, PAGA, CytoTRACE v1/v2, PHATE, CellRank, Vector, DPT, AUCell, pertpy, MetaCell, drug2cell, SAMap, SEVTras, seismic, inferCNV, copyKat, cellsnp-lite, Ro/e, miloR, scProgram, cNMF, GeneNMF, CoGAPS, hdWGCNA, SCENIC, CellChat, CellPhoneDB, NicheNet, ROGUE, projectLSI
+  - spatial RNA-seq
+    - Platform: **10x Genomics Visium** / Visium HD / Xenium, 华大Stereo-seq, MERFISH, seqFISH, Slide-seqV2
+    - Method: Space Ranger, Seurat, Scanpy, Squidpy, Cell2location, RCTD, MIA, SpaCET, nicheDE, LIANA, MISTy, dbscan, Banksy, hotspot, Stereopy, LSGI, stlearn, commot, SOAPy_st, SPATA2, scvelo
+  - **bulk ATAC-seq** / ChIP-seq
+    - Method: Fastp, Botiew2, Samtools, Deeptools, Picard, MACS2, Uropa, HOMER, Bedtools, Subread, DiffBind, sva, limma, edgeR, ChIPseeker, TOBIAS, ATACseqQC
+  - single-cell ATAC-seq
+    - Method: ArchR, Signac
+  - spatial ATAC-seq
+    - Method: ArchR
   - bulk HiC-seq
-  - single-cell VDJ-seq (基于scRepertoire / Immunarch.etc)
-  - bulk proteomics (基于SIMCA-P / Cytoscape.etc)
-  - spatial proteomics (4i, IMC, MIBI-TOF, NanoString; 基于Squidpy.etc)
-  - bulk metabonomics / lipidomics (基于MetaboAnalyst / MS-DIAL / SIMCA-P / TidyMass.etc)
-  - spatial metabonomics (基于Cardinal.etc)
-  - Radiomics (基于3D Slicer, PyRadiomics.etc)
+    - Method: Fastp, BWA, Samtools, HiCExplorer, cooler, juicer, hicrep, calder2, mustache, HiContacts, pyGenomeTracks
+  - single-cell VDJ-seq
+    - Method: scRepertoire, Immunarch
+  - bulk proteomics
+    - Method: SIMCA-P, Cytoscape
+  - spatial proteomics
+    - Platform: 4i, IMC, MIBI-TOF, NanoString
+    - Method: Squidpy
+  - bulk metabonomics / lipidomics
+    - Method: MetaboAnalyst, MS-DIAL, SIMCA-P, TidyMass
+  - spatial metabonomics
+    - Method: Cardinal
+  - Radiomics
+    - Method: 3D Slicer, PyRadiomics
   - 正在学习：
     - 分子对接与分子动力学
     - BS-seq
