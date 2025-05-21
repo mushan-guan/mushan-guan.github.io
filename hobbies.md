@@ -44,8 +44,8 @@ title: Hobbies
 主要拍摄器材：<br>
 
 - Nikon Z50II
-- NIKKOR Z MC 105mm f/2.8 VR S
-- NIKKOR Z DX 16-50mm f/3.5-6.3 VR
+- Nikon Nikkor Z MC 105mm f/2.8 VR S
+- Nikon Nikkor Z DX 16-50mm f/3.5-6.3 VR
 - Canon EOS 6D
 - Canon EF 50mm f/1.8 STM
 - Canon EF 17-40mm f/4 USM
