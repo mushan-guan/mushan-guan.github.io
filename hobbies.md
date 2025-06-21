@@ -55,6 +55,10 @@ title: Hobbies
 - Godox TT520II
 - Raynox DCR-250 2.5x Super Macro Lens
 - SIRUI A1005+Y10 (TY50E)
+- 新驰仕户外移动电源220V 600W 24万mAh 960Wh
+- 300W / 500W 高压汞灯
+- 灯诱帐篷
+- 18650锂电池
 
 <br>
 
