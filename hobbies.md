@@ -24,6 +24,8 @@ title: Hobbies
 
 [iNaturalist2024年度个人总结](https://www.inaturalist.org/stats/2024/guanmushan)
 
+[iNaturalist2025年度个人总结](https://www.inaturalist.org/stats/2025/guanmushan)
+
 [小红书](https://www.xiaohongshu.com/user/profile/63f389a4000000001001ce80?xhsshare=CopyLink&appuid=63f389a4000000001001ce80&apptime=1684507060)
 
 [中国观鸟记录中心](http://www.birdreport.cn/member/index.html)
@@ -103,6 +105,9 @@ title: Hobbies
 - 2025/06/08 吉林省延边朝鲜族自治州**长白山天池**
 - 2025/06/14 北京市密云区白河大峡谷
 - 2025/06/17 河北省张家口市崇礼区翠云山
+- 2025/06/22 北京市门头沟区幽州大峡谷
+- 2025/06/24 北京市海淀区西山
+- 2025/06/25 北京市昌平区虎峪
 - 河北省承德市丰宁满族自治县坝上草原（计划中）
 - 内蒙古自治区乌兰察布市四王子旗大红山（计划中）
 - 内蒙古自治区赤峰市克什克腾旗乌兰布统大草原（计划中）
