@@ -4,13 +4,33 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, #: corresponding author)
-
 ## Paper
 
-- Stroke NSC<br>**Tingting Zhang**†, **Da Li**†, **Qibiao Guan**†, Baoyang Hu#<br>2025.<br>
+> (†: equal contribution, #: corresponding author)
 
-  <br>
+1. Stroke NSC<br>**Tingting Zhang**†, **Da Li**†, **Qibiao Guan**†, Baoyang Hu#<br>2025.<br>
+
+2. Stroke
+
+3. Dementia
+
+4. CH
+
+5. Brain Tumor
+
+6. Skull
+
+7. RBC
+
+8. Mitochondria
+
+9. de novo gene
+
+10. EMT
+
+11. Transdifferentiation
+
+   <br>
 
 ---
 
@@ -22,7 +42,7 @@ title: Publications
 
 ---
 
-## Early Project
+## Previous Project
 
 - 2021/01 – 2021/09<br>南京农业大学，世界动物卫生组织猪链球菌病诊断国际参考实验室<br>师从潘子豪副教授，学习细胞实验，参与国内养殖场支原体、病毒的检测工作，<br>配制与改良牛支原体固体培养基
 
