@@ -8,27 +8,27 @@ title: Publications
 
 > (†: equal contribution, #: corresponding author)
 
-1. Stroke NSC<br>**Tingting Zhang**†, **Da Li**†, **Qibiao Guan**†, Baoyang Hu#<br>2025.<br>
+- Stroke NSC<br>**Tingting Zhang**†, **Da Li**†, **Qibiao Guan**†, Baoyang Hu#<br>2025.<br>
 
-2. Stroke
+- Stroke
 
-3. Dementia
+- Dementia
 
-4. CH
+- CH
 
-5. Brain Tumor
+- Brain Tumor
 
-6. Skull
+- Skull
 
-7. RBC
+- RBC
 
-8. Mitochondria
+- Mitochondria
 
-9. de novo gene
+- de novo gene
 
-10. EMT
+- EMT
 
-11. Transdifferentiation
+- Transdifferentiation
 
    <br>
 
