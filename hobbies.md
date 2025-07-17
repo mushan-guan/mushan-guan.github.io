@@ -61,7 +61,7 @@ title: Hobbies
 - Godox TT520II
 - Raynox DCR-250 2.5x Super Macro Lens
 - SIRUI A1005+Y10 (TY50E)
-- 新驰仕户外移动电源220V 600W 24万mAh 960Wh (1台)
+- 梵帕/新驰仕户外移动电源 输出电压AC-220V/50Hz 最大输出功率600W 型号24万mAh 960Wh (1台)
 - 300W / 500W / 1000W高压汞灯
 - 昆虫灯诱帐篷 (1台)
 - 18650锂电池 (若干节)
