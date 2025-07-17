@@ -8,9 +8,11 @@ title: Hobbies
 
 <br>
 
-鸟类摄影与记录（记录国内鸟种数：305）
+昆虫摄影、采集、标本制作、鉴定与记录（记录北京昆虫种数：> 1000）
 
-昆虫摄影、采集、标本制作、鉴定与记录（记录北京昆虫种数：> 800）
+鸟类摄影与记录（记录国内野生鸟类种数：308）
+
+兽类摄影与记录
 
 鼠妇、甲虫等节肢动物的饲养繁殖
 
@@ -64,15 +66,72 @@ title: Hobbies
 
 <br>
 
-## 其他
 
-文化艺术<br>
+## 个人电脑配置
+
+<br>
+
+###### 1. 组装机 （17269）
+
+- CPU：i9-14900KF 24核心32逻辑处理器 3.2GHz散片（2720）
+- 散热：钛钽(TCOMAS) SJ-A090 360-体式水冷（399）
+- 主板：技嘉 Z790 AORUS ELITE AX D4 WIFI 小雕（1580）
+- 显卡：华硕TUF RTX4070Ti Super 专用16G，共享64G（6380）
+- 内存：金士顿FURY野兽骇客神条 32G 3200hz（1420）
+- 硬盘：宏碁掠夺者 SSD GM7 2TB PCIE4.0 读取速度7200（780）
+- 机械：希捷8TB 机械硬盘 银河企业版	（1350）
+- 电源：航嘉【旗舰系列】MVP K850W金牌全模组 PCIE5.0（580）
+- 机箱：骨伽 影武者X5 PRO 支持E-ATX/360水冷 黑色（298）
+- 显示器：HKC 34英寸带鱼屏 4K 144Hz 1000R曲面升降旋转 CG343U（1259）
+- Wi-Fi：Inter(R) Wi-Fi 6E AX211 160MHz
+- 以太网：Hyper-V Virtual Ethernet Adaptor
+- 系统：Win10 22H2，64 位操作系统, 基于 x64 的处理器
+
+![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977335037-ef08d71e-861c-487f-9ed0-ff0dffb0ae78.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977433074-42bccc7b-6b1d-45a3-b622-0c053788bb33.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977361489-e2302322-d1df-4b63-962e-2a20a4f810b3.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977402157-d5b9d4a1-cd60-4aa8-a39a-16db8bfa4421.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977414407-48685700-cccb-426a-a907-4052f53b07c7.png)
+
+
+
+![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1739167865453-1772d7d4-b5fa-4ea4-80d2-59cd9ef6e726.png)
+
+###### 2. 笔记本：机械革命MECHREVO 无界15X暴风雪 （原价4999，北京补贴1000）
+
+- CPU：AMD Ryzen 7 8845HS 8核心16逻辑处理器 3.80 GHz
+- 显卡：AMD Radeon 780M Graphics，专用0.4G，共享15.6G
+- 内存：32.0 GB
+- 系统：Win11，64 位操作系统, 基于 x64 的处理器
+- 硬盘：SSD 1TB
+- Wi-Fi：Intel(R) Wi-Fi 6 AX200 160MHz
+- 显示器：15.3英寸 120Hz 2.5K
+- 电池容量：99.9Wh
+- 摄像头：人脸识别
+
+![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1739169750594-904e7a0b-ce27-44ed-86cf-8a972c924fac.png)
+
+###### 3. 储芯一体机 （3138）
+
+- CPU：13th Gen Intel(R) CoreT i5-13500H  12核心16逻辑处理器 2.60 GHz
+- 显卡：Intel(R) Iris(R) Xe Graphics，共享16G
+- 内存：32.0 GB
+- 系统：Win10 22H2，64 位操作系统, 基于 x64 的处理器
+- 硬盘：SSD 1TB
+- Wi-Fi：Intel(R) Dual Band Wireless-AC 7265
+- 显示器：27英寸IPS直屏 2K
+
+<br>
+
+## 文化艺术
+
+<br>
 
 - 参加中国科学院大学校科协主办的2022年科学与艺术融合创作大赛<br>获得优秀奖，作品在雁栖湖校区陈列<br>
 - 参加中国科学院大学校科协主办的2023年科学与艺术融合创作大赛<br>获得三等奖<br>
 - 参加中国科学院微生物研究所主办的2023年“微”观天下生物学科文化创意品牌活动<br>获得三等奖
 
-观鸟|拍虫|寻兽|访古|旅游|登山|徒步 · 时间线<br>
+<br>
+
+## 观鸟|拍虫|寻兽|访古|旅游|登山|徒步 · 时间线
+
+<br>
 
 ***2016***
 
