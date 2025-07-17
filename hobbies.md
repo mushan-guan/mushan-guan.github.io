@@ -87,7 +87,7 @@ title: Hobbies
 - 以太网：Hyper-V Virtual Ethernet Adaptor
 - 系统：Win10 22H2，64 位操作系统, 基于 x64 的处理器
 
-
+<br>
 
 ###### 2. 笔记本：机械革命MECHREVO 无界15X暴风雪 （原价4999￥，北京补贴1000￥，鲁大师综合评分994921）
 
@@ -101,7 +101,7 @@ title: Hobbies
 - 电池容量：99.9Wh
 - 摄像头：人脸识别
 
-
+<br>
 
 ###### 3. 储芯一体机 （3138￥，鲁大师综合评分745947）
 
@@ -113,7 +113,7 @@ title: Hobbies
 - Wi-Fi：Intel(R) Dual Band Wireless-AC 7265
 - 显示器：27英寸IPS直屏 2K
 
-
+<br>
 
 ###### 4. 移动硬盘
 
