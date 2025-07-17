@@ -59,10 +59,10 @@ title: Hobbies
 - Godox TT520II
 - Raynox DCR-250 2.5x Super Macro Lens
 - SIRUI A1005+Y10 (TY50E)
-- 新驰仕户外移动电源220V 600W 24万mAh 960Wh
-- 300W / 500W 高压汞灯
-- 灯诱帐篷
-- 18650锂电池
+- 新驰仕户外移动电源220V 600W 24万mAh 960Wh (1台)
+- 300W / 500W / 1000W高压汞灯
+- 昆虫灯诱帐篷 (1台)
+- 18650锂电池 (若干节)
 
 <br>
 
@@ -71,7 +71,7 @@ title: Hobbies
 
 <br>
 
-###### 1. 组装机 （17269）
+###### 1. 组装机 （17269￥，鲁大师综合评分2545700）
 
 - CPU：i9-14900KF 24核心32逻辑处理器 3.2GHz散片（2720）
 - 散热：钛钽(TCOMAS) SJ-A090 360-体式水冷（399）
@@ -87,13 +87,9 @@ title: Hobbies
 - 以太网：Hyper-V Virtual Ethernet Adaptor
 - 系统：Win10 22H2，64 位操作系统, 基于 x64 的处理器
 
-![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977335037-ef08d71e-861c-487f-9ed0-ff0dffb0ae78.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977433074-42bccc7b-6b1d-45a3-b622-0c053788bb33.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977361489-e2302322-d1df-4b63-962e-2a20a4f810b3.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977402157-d5b9d4a1-cd60-4aa8-a39a-16db8bfa4421.png)![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1740977414407-48685700-cccb-426a-a907-4052f53b07c7.png)
 
 
-
-![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1739167865453-1772d7d4-b5fa-4ea4-80d2-59cd9ef6e726.png)
-
-###### 2. 笔记本：机械革命MECHREVO 无界15X暴风雪 （原价4999，北京补贴1000）
+###### 2. 笔记本：机械革命MECHREVO 无界15X暴风雪 （原价4999￥，北京补贴1000￥，鲁大师综合评分994921）
 
 - CPU：AMD Ryzen 7 8845HS 8核心16逻辑处理器 3.80 GHz
 - 显卡：AMD Radeon 780M Graphics，专用0.4G，共享15.6G
@@ -105,9 +101,9 @@ title: Hobbies
 - 电池容量：99.9Wh
 - 摄像头：人脸识别
 
-![img](https://cdn.nlark.com/yuque/0/2025/png/1402416/1739169750594-904e7a0b-ce27-44ed-86cf-8a972c924fac.png)
 
-###### 3. 储芯一体机 （3138）
+
+###### 3. 储芯一体机 （3138￥，鲁大师综合评分745947）
 
 - CPU：13th Gen Intel(R) CoreT i5-13500H  12核心16逻辑处理器 2.60 GHz
 - 显卡：Intel(R) Iris(R) Xe Graphics，共享16G
@@ -116,6 +112,20 @@ title: Hobbies
 - 硬盘：SSD 1TB
 - Wi-Fi：Intel(R) Dual Band Wireless-AC 7265
 - 显示器：27英寸IPS直屏 2K
+
+
+
+###### 4. 移动硬盘
+
+WD_BLACK P10 Game Drive 5TB (1块)
+
+WD_BLACK P10 Game Drive 2TB (3块)
+
+WD_BLACK My Passport 2TB (2块)
+
+KESU 2TB (1块)
+
+
 
 <br>
 
