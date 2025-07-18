@@ -56,7 +56,19 @@ title: Literature
 
 <br>
 
-## Lymphocyte
+## T Lymphocyte
+
+2025 **CMI**. *姚红红*. CD8+GZMK+CD27+CCR7+ T cells mobilized by splenic sympathetic nerves aggravate brain ischemia‒reperfusion injury via CCL19-positive endothelial cells
+
+脾脏交感神经活动在缺血性卒中后对外周免疫有重要调节作用，因此，干预脾脏交感神经活动是一种有前景的中风治疗策略。然而，脾脏-大脑-免疫轴的通信机制仍不完全明确。在本研究中，我们采用外科去神经化方案进行**脾脏交感神经去神经化（SDN）**，结果显著减轻了中风后的脑损伤。通过**单细胞RNA测序**，我们在急性缺血性卒中（AIS）患者中鉴定出了一种新型的GZMK+CD8+CD27+CCR7+ T细胞亚群，我们命名为**中风相关T细胞（Tsa）**。Tsa细胞的扩增与临床症状的严重程度呈正相关，且由脾脏交感神经系统驱动。中风引起的交感神经激活触发了脾脏去甲肾上腺素（NE）的释放，NE优先通过ADRB2与Tsa细胞结合，促进其动员。此外，缺血性损伤诱导了**内皮细胞特异性表达CCL19**，CCL19通过与Tsa细胞的CCR7受体结合，化学引导Tsa细胞进入脑实质，加剧了神经炎症损伤和神经功能缺损，在暂时性大脑中动脉闭塞（tMCAO）小鼠模型中得到了验证。我们开发了一种CCR7靶向肽，通过干扰这一趋化轴，减少了T细胞浸润，从而减轻了脑损伤。我们的研究结果突出了脾脏交感神经去神经化作为一种有前景的治疗策略，能够减轻缺血-再灌注损伤，并表明其作为急性缺血性卒中患者再灌注治疗的辅助治疗的潜力。
+
+
+
+<br>
+
+## B Lymphocyte
+
+
 
 
 
