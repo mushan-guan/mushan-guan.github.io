@@ -28,6 +28,14 @@ title: Literature
 
 
 
+<br>
+
+## Monocyte | Macrophage
+
+2025 ***NC***. [*史利根*](https://person.zju.edu.cn/ligens). Repair-associated macrophages increase after early-phase microglia attenuation to promote ischemic stroke recovery
+
+缺血性脑卒中的恢复过程涉及中枢神经系统与浸润性免疫细胞之间的动态相互作用。外周免疫细胞与脑内常驻的小胶质细胞在空间位点上存在竞争，但目前尚不清楚如何调节这种平衡会对卒中恢复产生何种影响。在本研究中，我们使用 PLX5622 在雄性小鼠短暂性大脑中动脉闭塞（tMCAO）模型中创造外周免疫细胞的空间位点，从而改变浸润免疫细胞与常驻小胶质细胞之间的竞争格局。我们发现，在卒中早期阶段抑制小胶质细胞可以促进长期功能恢复。该干预措施增强了**一类具有修复特性的单核细胞来源的巨噬细胞亚群**（称为 **RAMf**），该亚群表现出高表达 GPNMB 和 CD63、增强的脂质代谢以及促血管生成活性。将 RAMf 移植至中风小鼠体内可改善白质完整性并促进血管修复。我们进一步鉴定出 Mafb 是调控 RAMf 修复性表型的关键转录因子。这些发现强调了优化免疫细胞动态，以促进中风后康复的潜在治疗策略。
+
 
 
 <br>
@@ -38,7 +46,7 @@ title: Literature
 
 <br>
 
-## Oligodendrocyte | OPC
+## Oligodendrocyte | OPC | Demyelination | Remyelination
 
 
 
@@ -51,6 +59,8 @@ title: Literature
 <br>
 
 ## Neutrophil
+
+2023 Nat Immunol
 
 
 
@@ -70,8 +80,6 @@ title: Literature
 
 
 
-
-
 <br>
 
 ## B Lymphocyte
@@ -82,7 +90,7 @@ title: Literature
 
 <br>
 
-## Endothelium 
+## Endothelium | Angiogenesis
 
 
 
@@ -98,7 +106,63 @@ title: Literature
 
 
 
+<br>
+
+## GPNMB | PLD1
+
+2025 ***Brain Res***. *Xiaobo Li*. GPNMB attenuates neuroinflammation and improves ischemic stroke via modulation of PI3K/Akt and p38 MAPK signaling pathways
+
+在缺血性脑组织中，**GPNMB**表达显著上调，其表达在MCAO后的第3-7天达到峰值。在缺血性脑卒中患者中，血清 GPNMB 水平升高，并与卒中严重程度呈正相关。敲低GPNMB会加重脑卒中的不良结局，增强神经炎症，并导致更严重的神经元损伤。从机制上看，GPNMB 正调控PI3K/Akt/GSK3β 信号通路，同时负调控p38 MAPK、JNK和ERK通路。此外，GPNMB 的敲低会增强NF-κB的表达，后者是炎症反应的核心转录调控因子。
 
 
 
+<br>
+
+## 基础名词
+
+transient middle cerebral artery occlusion (tMCAO), OGD model
+
+brain water content
+
+infarct volume
+
+Longa score
+
+National Institutes of Health Stroke Scale (NIHSS)
+
+modified Rankin Scale (mRS)
+
+modified neurological severity score (mNSS)
+
+grip strength
+
+damage-associated molecular patterns (DAMPs)
+
+pro-inflammatory: IL-1β, IL-6, IL-17, IL-21, , TNFα, interferon-γ
+
+neurotrophic factors
+
+synaptic reg ulatory molecules
+
+microglial activation: Iba-1
+
+M1巨噬细胞/小胶质细胞: CD86+
+
+M2巨噬细胞/小胶质细胞: CD206+
+
+p65: the main subunit of nuclear factor-κB (NF-κB)
+
+glycogen synthase kinase 3β (GSK3β)
+
+p38 mitogen-activated protein kinase (MAPK)
+
+c-Jun N-terminal kinase (JNK)
+
+extracellular signal-regulated kinase (ERK)
+
+phosphoinositide 3-ki nase (PI3K)/Akt
+
+小胶质细胞清楚: PLX5622 (CSF1R抑制剂)
+
+Aβ的荧光染料: Methoxy-X04、thioflavine-S、Thiazine Red
 
