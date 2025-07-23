@@ -28,6 +28,18 @@ title: Literature
 
 
 
+2024 ***Sci Adv***. *高艳琴*. Arresting the bad seed: HDAC3 regulates proliferation  of different microglia after ischemic stroke
+
+
+
+
+
+2023 ***Genome Med***. *徐运*. Acute ischemia induces spatially and transcriptionally distinct microglial subclusters
+
+
+
+
+
 <br>
 
 ## Monocyte | Macrophage
@@ -56,12 +68,6 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 
 
-
-
-
-
-
-
 <br>
 
 ## Astrocyte
@@ -84,7 +90,7 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 ## Neutrophil
 
-2023 Nat Immunol
+2023 ***Nat Immunol***. *Marco Bacigaluppi*. Age-induced alterations of granulopoiesis  generate atypical neutrophils that aggravate  stroke pathology
 
 
 
