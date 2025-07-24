@@ -320,11 +320,7 @@ The average CTCF-binding site shows a similar pattern but has more pronounced nu
 
 脑血管相关的所有细胞类型: Neurons, Oligodendrocytes, Astrocytes, Tanycytes, Microglia, ECs, capillary ECs, arteriolar ECs, venous ECs, EM特有Plvap ECs, Mural, Pars tuberalis ,Fibroblasts, Ependymal, lmmune
 
-###### reporter mice
-
-*Pdgfrb*-CreERT2:Ai14; *Pdgfra*-H2B-EGFP; *Pdgfra*-H2B-GFP; *Pdgfrb*-CreERT2:Ai14 tdTomato; *Pdfgra*-CreERT2;*R26*-LSL-ER-HRP; *Pdgfra*-CreERT2:Ai14
-
-*Cdh5*-CreER:Ai14; *Slco1c1*-CreER:Ai14; *Glast*-CreER:Ai14;*GFAP*-EGFP; *Aldh1l1*-EGFP
+reporter mice：*Pdgfrb*-CreERT2:Ai14; *Pdgfra*-H2B-EGFP; *Pdgfra*-H2B-GFP; *Pdgfrb*-CreERT2:Ai14 tdTomato; *Pdfgra*-CreERT2;*R26*-LSL-ER-HRP; *Pdgfra*-CreERT2:Ai14；*Cdh5*-CreER:Ai14; *Slco1c1*-CreER:Ai14; *Glast*-CreER:Ai14;*GFAP*-EGFP; *Aldh1l1*-EGFP
 
 
 
