@@ -14,6 +14,8 @@ title: Literature
 
 <br>2025 ***Cell Rep***. *Vanessa Coelho-Santos*. Physiological and injury-induced  microglial dynamics across the lifespan
 
+<img src="E:\Personal_website\mushan-guan.github.io\academic\img3.png" style="zoom: 67%;" />
+
 通过**双光子活体成像**，确认在成年大脑皮层，小胶质细胞在基础状态下展现出高度分支的突起和相对静止的细胞体。它们对**激光诱导的局部损伤**的反应发生在几分钟内，并且邻近的小胶质细胞之间协调性很高。相比之下，新生小胶质细胞较为密集且更具活动性，但形态复杂性较低。它们对毛细血管或实质组织的激光诱导局部损伤反应缺乏协调性，反应延迟且持续数天。在衰老的大脑中，小胶质细胞的细胞体在基础状态下保持不动，但它们的突起变得较少分支。它们对局部损伤的反应是协调的，但较慢且不太敏感。这些研究揭示了小胶质细胞在整个生命周期中的形态、分布、动态变化和损伤反应的显著变化。
 
 **(成年期小胶分支较多且对脑实质或血管损伤反应较快，而新生期小胶和衰老期小胶的形态比较接近，都是分支较少，且对损伤反应都较慢。但新生期小胶动力学更加活跃，胞体密度更大且移动性更高，分支的伸缩长度与伸缩速度更高，而衰老期小胶动力学更加静默。)**
@@ -244,11 +246,9 @@ Human HELLS – also known as lymphoid specific helicase (Lsh), SMARCA6, or PASG
 
 
 
-<img src="https://cdn.nlark.com/yuque/0/2025/jpeg/1402416/1741164397873-b694f4ff-3b33-4fc1-96ea-51fad4decafa.jpeg" alt="img" style="zoom: 33%;" />
+<img src="E:\Personal_website\mushan-guan.github.io\academic\img1.jpg" style="zoom: 33%;" />
 
-
-
-<img src="https://cdn.nlark.com/yuque/0/2025/png/1402416/1741144215619-981bffd7-9c87-4939-bb73-85df3d68f7b5.png?x-oss-process=image%2Fformat%2Cwebp" alt="image.png" style="zoom: 67%;" />
+<img src="E:\Personal_website\mushan-guan.github.io\academic\img2.png" style="zoom:67%;" />
 
 Figure 1. Transcriptional mechanisms regulated by helicase lymphoid specific (HELLS). HELLS regulates transcription through different modalities and in a context-dependent manner. During the establishment of cell identity and cell fate, HELLS directly influences the accessibility of chromatin by depositing the histone variant MacroH2A through its ATP-binding domain. The ability of HELLS to cooperate with DNA methyltransferases (DNMTs) may facilitate the rapid propagation of repressed chromatin states. This mechanism leads to the silencing of developmental enhancers and the control of enhancer–promoter communication (A). During early cellular transformation and subsequent tumor progression, HELLS drives aberrant and excessive transcription by altering chromatin accessibility in an ATP-dependent manner. HELLS induces the formation of nucleosome-depleted regions (NDRs) at promoters of tumor cells, facilitating the recruitment of RNA polymerase (RNAP) and transcription factors (TFs) to target genes. HELLS employs this mechanism in E2F transcription factor 3 (E2F3)-dependent G1/S cell cycle genes and in immune related genes that require rapid transcriptional activation upon stimulation (B). In genes essential for maintaining cancer cell structure, characterized by high transcriptional activity, HELLS restricts the formation of co-transcriptional R-loops. This may be achieved through nucleosome remodeling in the vicinity of R-loops, thereby facilitating access to the RNA helicase DDX21 and the facilitates chromatin transcription (FACT) complex. Consequently, HELLS promotes efficient RNAP elongation, contributing to tumor aggressiveness (C).
 
@@ -261,8 +261,6 @@ HELLS 通过不同的方式并以情境依赖的方式调控转录。
 在早期细胞转化及后续肿瘤进展过程中，HELLS 通过 ATP依赖性方式改变染色质可及性，推动 异常且过度的转录。HELLS 在肿瘤细胞启动子区域诱导 核小体耗竭区（NDRs） 的形成，从而促进 RNA聚合酶（RNAP） 和 转录因子（TFs） 向靶基因的募集。HELLS 利用此机制，调控 依赖E2F转录因子3（E2F3）的G1/S细胞周期基因，以及那些在刺激下需要快速激活的 免疫相关基因（图B）。
 
 在那些对维持癌细胞结构至关重要、具有高转录活性的基因中，HELLS 抑制 共转录R-环结构（R-loops） 的形成。这可能通过对 R-环邻近区域的核小体重塑 实现，从而促进 RNA解旋酶DDX21 以及 染色质转录促进因子复合物（FACT） 的可及性。因此，HELLS 有助于 RNA聚合酶的有效延伸转录，从而促进肿瘤的侵袭性（图C）。
-
-
 
 
 
