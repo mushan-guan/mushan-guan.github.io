@@ -278,6 +278,8 @@ HELLS 通过不同的方式并以情境依赖的方式调控转录。
 
 2025 Cell Death Dis. Jueng Soo You. HELLS controls mitochondrial dynamics and genome stability in liver cancer by collusion with MIEF1
 
+![img](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41419-025-07589-x/MediaObjects/41419_2025_7589_Figa_HTML.png)
+
 本研究探究了HELLS的致癌机制。通过基因敲除与过表达，发现线粒体延伸因子1（MIEF1） 是HELLS分子网络在肝癌中的关键靶点。在预后不良的肝癌患者中，MIEF1表达水平显著升高，而抑制MIEF1表达则会削弱肿瘤能力，表明MIEF1是肝癌中的一个致癌基因。抑制HELLS-MIEF1轴会引起线粒体过度融合、能量耗竭，并进一步诱导细胞衰老。HELLS的敲低会全局性地增强组蛋白H3第9位赖氨酸三甲基化（H3K9me3），特别是在染色质热点区域，与 SUV39H1的上调及进一步的 DNA甲基化增加相关。这一过程稳定了基因组，并形成了过度融合的线粒体，从而减少了ROS和DNA损伤的水平。最终，肿瘤细胞进入饥饿和平静的状态。我们还通过MIEF1过表达和线粒体融合药物，进一步验证了 HELLS-MIEF1 轴的功能。
 
 
