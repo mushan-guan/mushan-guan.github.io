@@ -8,21 +8,43 @@ title: Literature
 
 <br>
 
-2025 ***Nat Neurosci***. *Marco Prinz*. Response of spatially defined microglia states with distinct chromatin accessibility in a mouse model of Alzheimer’s disease
+2025 ***NN***. *Marco Prinz*. Response of spatially defined microglia states with distinct chromatin accessibility in a mouse model of Alzheimer’s disease
 
 小胶质细胞的空间异质性仍然是一个关键问题，尤其在**阿尔茨海默病**（AD）潜在的细胞导向疗法中，这一问题尚未得到完全解答。对于靠近或远离β-淀粉样蛋白（Aβ）斑块的不同小胶质细胞状态及其对神经退行性疾病的贡献，尚未有清晰的理解。在本研究中，我们结合了**多色荧光细胞命运追踪**、**单细胞转录分析**、**表观遗传学分析**、**免疫组化和计算建模**，全面描述了斑块相关小胶质细胞（**PAM**）和非斑块相关小胶质细胞（non-PAM）在阿尔茨海默小鼠模型中的关系。我们发现，non-PAM是一个独特且高度动态的小胶质细胞状态，在雌性小鼠Aβ斑块沉积后转变为PAM。Non-PAM在应对淀粉样沉积时调节细胞群体的扩展，并迅速响应环境信号。事实上，**Csf1**信号通路在疾病进程中调节non-PAM向PAM的转变。我们的数据表明，小胶质细胞状态及其相互之间的动态变化可能对疾病产生不同的贡献，且这些状态可能成为阿尔茨海默病治疗的潜在靶点。
 
+<br>
+
 ------
 
-<br>2025 ***NC***. *Esteban Ballestar*. The Human Microglia Atlas (HuMicA) unravels changes in disease-associated microglia subsets across neurodegenerative conditions
+2025 ***NN***. *Renzo Mancuso*. Microglia heterogeneity, modeling and cell-state annotation in development and neurodegeneration
+
+<img src="https://mushan-guan.github.io/img14.png" style="zoom:60%;" >
+
+**人类小胶质细胞**表现出比其他物种小胶质细胞**更显著的转录异质性**。
+与小鼠研究一致，人类小胶质细胞也**来源于卵黄囊祖细胞**，并且是在发育最早期（大约妊娠 2.5 周）最先出现的细胞之一。
+到**妊娠 9 周**时，巨噬细胞可以被定义为小胶质细胞，并且它们是中枢神经系统中的主要细胞群，**表达 CX3CR1、P2RY12 和 SALL1**。
+在感染或炎症过程中，**胚胎期巨噬细胞会被成年骨髓来源的细胞替代**。
+一种**由 IL34 维持的小胶质细胞特定亚群**通过感知和处理活跃神经元释放的 ATP，**在防止纹状体多巴胺能神经元的过度激活中发挥关键作用**。
+小胶质细胞表达类固醇激素受体并对性激素作出反应**。
+结合 GWAS 和单细胞研究**揭示了若干阿尔茨海默病（AD）风险变异，这些变异在小胶质细胞中富集或特异性表达，例如 **TREM2、APOE\*ε4、CD33 和 ABCA7**。
+多个**帕金森病风险基因**在小胶质细胞中富集，包括 **LRRK2、PRKN、VPS13C 和 DNAJC13**。
+**ALS/FTD 相关基因**（如 **C9orf72（C9）、progranulin（GRN）和 TBK1**）在小胶质细胞中也有高表达。
+
+<br>
+
+------
+
+2025 ***NC***. *Esteban Ballestar*. The Human Microglia Atlas (HuMicA) unravels changes in disease-associated microglia subsets across neurodegenerative conditions
 
 <img src="https://mushan-guan.github.io/img8.png" style="zoom:60%;" >
 
 小胶质细胞的异常激活会导致神经炎症，这是神经退行性疾病发生和发展的关键因素之一。我们通过整合19个单核RNA测序和单细胞RNA测序数据集，构建了人类脑免疫细胞图谱。这些数据集涵盖了241个样本，来源包括阿尔茨海默病（Alzheimer’s disease）、自闭症谱系障碍（autism spectrum disorder）、癫痫（epilepsy）、多发性硬化症（multiple sclerosis）、路易体疾病（Lewy body diseases）、新冠肺炎（COVID-19）患者及健康对照者。我们整合形成的人类小胶质细胞图谱（Human Microglia Atlas, 简称 HuMicA）包含 90,716 个细胞/细胞核，揭示出九种细胞群体，分布于各种疾病状态中。我们识别出了四种疾病相关小胶质细胞亚型（disease-associated microglia）及疾病炎症型巨噬细胞亚群（disease-inflammatory macrophages），这些亚型此前曾在小鼠研究中被描述，而本研究首次证实它们在人体组织中也普遍存在。小胶质细胞表现出高度的可塑性，在不同病理状态下其亚群构成发生变化，提示其在塑造疾病表型中发挥作用。我们发现一个 AGPNMB 高表达的小胶质细胞亚群在阿尔茨海默病（AD）和多发性硬化症（MS）中明显扩增。原位杂交实验进一步证实 AD 脑组织中该亚群的增多，这引发了人们对该亚群在其他疾病中的潜在作用的进一步探讨。
 
+<br>
+
 ------
 
-<br>2025 ***Cell Rep***. *Vanessa Coelho-Santos*. Physiological and injury-induced  microglial dynamics across the lifespan
+2025 ***Cell Rep***. *Vanessa Coelho-Santos*. Physiological and injury-induced  microglial dynamics across the lifespan
 
 <img src="https://mushan-guan.github.io/img3.png" style="zoom:60%;" >
 
@@ -40,9 +62,35 @@ title: Literature
 
 随着大脑的衰老，小胶质细胞的分支变得较少。衰老的小胶质细胞还增加了与神经保护相关的基因表达，表明它们对伴随衰老的退行性过程做出了补偿性反应。然而，小胶质细胞也可能变得衰老或萎缩，表现为神经保护功能降低、促炎细胞因子释放增加以及抗炎信号通路减少，这些变化有助于慢性炎症状态、神经元功能障碍和细胞死亡的发生。
 
+<br>
+
 ------
 
+2024 ***Adv Sci***. *熊利泽*. Clec7a Worsens Long-Term Outcomes after Ischemic Stroke by Aggravating Microglia-Mediated Synapse Elimination
+
+缺血性中风是全球导致发病率和死亡率的主要原因。中枢神经系统中的小胶质细胞在神经保护和应对缺血性脑损伤中发挥着双重作用。在本研究中，采用缺血性中风模型来确定小胶质细胞在兴奋性突触吞噬过程中的参与情况。此外，还研究了通过药理学去除小胶质细胞对改善神经行为学结局和减轻脑损伤的效果。小胶质细胞的 RNA 测序揭示出与吞噬作用相关的途径活动和基因表达的增加，C 型凝集素样受体家族 7 成员 A（Clec7a）被识别为这一过程的关键调控因子。调控小胶质细胞中 Clec7a 的表达可以潜在地调节小胶质细胞对突触的吞噬，从而防止突触丧失，并改善缺血性中风后的神经行为学结局。进一步研究表明，小胶质细胞的 Clec7a 与神经元的髓系分化蛋白 2（MD2）相互作用，后者是介导中风后神经损伤的关键分子。我们提出了一个新的假设，认为 MD2 是小胶质细胞 Clec7a 的配体。这些发现表明，小胶质细胞 Clec7a 在缺血性中风小鼠模型中在介导突触吞噬中发挥关键作用，提示 Clec7a 可能成为缺血性中风的治疗靶点。
+
+
+
+文章首先通过染色观察到卒中后小胶吞噬与神经元突触受损的表型；
+
+通过行为学发现卒中小鼠的长时程神经功能受损；
+
+借助bulk RNA测序挖掘到小胶的目标基因Clec7a；
+
+建报告系确认被小胶过度吞噬的主要是兴奋性突触；
+
+BV2过表达Clec7a体外验证；
+
+小胶Clec7a调敲鼠体内验证（行为学结果改善、电生理验证敲除后神经元兴奋性降低）；
+
+通过质谱、分子动力学模拟、CoIP等方法发现了MD2是Clec7a的可能受体
+
+<img src="https://mushan-guan.github.io/img10.png" style="zoom:60%;" >
+
 <br>
+
+------
 
 2024 ***Sci Adv***. *高艳琴*. Arresting the bad seed: HDAC3 regulates proliferation  of different microglia after ischemic stroke
 
@@ -56,9 +104,9 @@ PU.1在中枢神经系统中其表达仅限于小胶质细胞，控制小胶质�
 
 值得注意的是，我们在tFCI后的第1天和第3天进行的行为学评估，以及第3天的MRI结果，似乎都表明小胶质细胞中HDAC3的缺失可能在早期阶段减轻了脑损伤，从而减少了小胶质细胞的丧失，并进一步降低了其增殖反应。为了排除这一可能性，我们将HDAC3-miKO小鼠的闭塞时间延长至90分钟，从而诱导出更大的梗死体积。为了检测tFCI后新生的小胶质细胞，我们采用了先前研究中所描述的腹腔注射EdU的方法。在接受90分钟闭塞处理的小鼠中，HDAC3缺失的小胶质细胞在tFCI后第3天仍表现出明显的自我更新障碍，这与接受60分钟闭塞处理的野生型小鼠中的小胶质细胞相比差异显著。这些结果表明，小胶质细胞的增殖潜力依赖于其所表达的HDAC3，而不是取决于初始脑损伤的严重程度。此外，为了进一步确定小胶质细胞数量减少是否也可能归因于其凋亡水平升高，我们使用TUNEL检测小胶质细胞的凋亡情况。结果显示，在纹状体梗死周边区域，HDAC3-miKO小鼠中TUNEL阳性（TUNEL⁺）凋亡小胶质细胞的数量显著减少，这意味着HDAC3缺失引起的小胶质细胞数量减少完全是由于其增殖缺陷所致，而非凋亡增加所引起。与之相一致的是，已有多项研究也报道了抑制HDAC3可以防止细胞凋亡的现象。
 
-------
-
 <br>
+
+------
 
 2024 ***Genome Med***. *Yang Wei*. Microglial heterogeneity in the ischemic stroke mouse brain of both sexes
 
@@ -73,9 +121,9 @@ PU.1在中枢神经系统中其表达仅限于小胶质细胞，控制小胶质�
 
 重要的是，我们提供了证据表明：类巨噬细胞型亚群可能代表长期以来寻找的中风诱导型小胶质细胞亚群，这类细胞伴随 CD45 表达上调。最后，考虑到 IFN 反应型亚群是中风脑中最主要的小胶质细胞群体，我们使用氟达拉滨（fludarabine）药理学性地靶向 STAT1 信号通路，结果发现氟达拉滨治疗能够改善长期中风预后。
 
-------
-
 <br>
+
+------
 
 2023 ***Genome Med***. *徐运*. Acute ischemia induces spatially and transcriptionally distinct microglial subclusters
 
@@ -122,11 +170,33 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 ## Astrocyte
 
+2024 ***Nature***. *Ana Martin-Villalba*. DNA methylation controls stemness of astrocytes in health and ischaemia
+
+星形胶质细胞是哺乳动物大脑中最丰富的细胞类型，它们为神经元提供结构和代谢支持，调节突触，并在受伤和疾病后变得反应性。然而，一小部分星形胶质细胞会定居在成年大脑的特定区域，这些星形胶质细胞在这些区域内会积极产生分化的神经元和胶质前体细胞，因此被称为神经干细胞。常见的实质性星形胶质细胞和休眠状态下的神经干细胞在转录组上有相似之处，尽管它们的功能截然不同。因此，干细胞活性是如何分子地编码的仍然未知。在本研究中，我们检查了神经干细胞及其后代、以及来自健康和缺血性成年小鼠大脑纹状体和皮质的星形胶质细胞的转录组、染色质可及性和甲基化组。我们识别出与星形胶质细胞或干细胞功能相关的不同甲基化谱。干细胞功能通过星形胶质细胞基因的甲基化和后期表达的干细胞基因的去甲基化来介导。大脑的缺血性损伤会诱导纹状体星形胶质细胞获得干细胞特性。我们展示了这一反应涉及将星形胶质细胞的甲基组重编程为干细胞的甲基组，并且在缺失去新甲基转移酶 DNMT3A 的情况下这一过程不存在。总的来说，我们揭示了 DNA 甲基化作为再生医学的一个有前景的靶点。
+
+<img src="https://mushan-guan.github.io/img12.png" style="zoom:60%;" >
+
+Upon activation, NSCs become **transit-amplifying progenitors** (TAPs) that undergo multiple rounds of division and give rise to **neuroblasts**. Neuroblasts then migrate along the rostral migratory stream (RMS) to the olfactory bulb, where they differentiate into interneurons that integrate into the existing neural circuitry. GLAST+ sorted cells comprise astrocytes, NSCs, TAPs and early neuroblasts
+
+The average TSS exhibits low methylation and is accessible.
+
+The average CTCF-binding site shows a similar pattern but has more pronounced nucleosome marks and decreased accessibility where CTCF binds.
+
 
 
 <br>
 
 ## Oligodendrocyte | OPC | Demyelination | Remyelination
+
+2024 PNAS. Lukas Valihrach. Spatiotemporal transcriptomic map of glial cell response in   a mouse model of acute brain ischemia
+
+非神经元细胞在脑缺血恢复中的作用尚未完全理解。为了揭示缺血后发生的关键分子和细胞过程，我们对雄性小鼠在损伤后的第一周内进行了空间和单细胞转录组学分析。皮质基因表达严重紊乱，表现为病灶核心的炎症和细胞死亡，以及由多种细胞类型在外围协调的胶质瘢痕形成。胶质瘢痕被识别为一个具有强烈细胞-细胞通讯的区域，显著的 ApoE-Trem2 信号通路调节了小胶质细胞的激活。对于三大主要胶质细胞群体，观察到一种与炎症反应相关的状态，类似于在神经退行性疾病背景下观察到的反应性状态。缺血诱导的少突胶质细胞状态的恢复谱支持了这样一个新兴假设：少突胶质细胞积极响应并调节神经炎症刺激。通过对来自不同小鼠缺血性脑损伤模型的其他空间转录组数据集的分析，进一步支持了这一发现。综合来看，我们提供了一个具有里程碑意义的转录组数据集，并伴随交互式可视化，全面展示了缺血后小鼠大脑中过程的时空组织结构。
+
+<img src="https://mushan-guan.github.io/img11.png" style="zoom:60%;" >
+
+<br>
+
+------
 
 
 
@@ -150,9 +220,11 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 在本研究中，我们探讨了 ILC2s 在中风恢复期免疫适应中的作用。结果显示，脑组织内 ILC2s 的动态变化有助于中风诱导的神经发生，其中由 ILC2s 分泌的两性调节素（Areg）起到了关键作用。此外，给予 Areg 或 ILC2s 的过继转移可增强神经发生并改善中风后的神经功能结局。
 
+<br>
+
 ------
 
-<br>2025 ***Adv Sci***. *徐运*. MeCP2 Lactylation Protects against Ischemic Brain Injury by Transcriptionally Regulating Neuronal Apoptosis
+2025 ***Adv Sci***. *徐运*. MeCP2 Lactylation Protects against Ischemic Brain Injury by Transcriptionally Regulating Neuronal Apoptosis
 
 乳酸在脑病理生理过程中发挥多种作用，包括缺血性中风。本研究探讨了赖氨酸乳酰化（lysine lactylation，一种由乳酸介导的表观遗传修饰）在脑缺血中的作用。采用小鼠短暂性大脑中动脉闭塞模型（tMCAO），发现脑内乳酸水平和整体蛋白乳酰化水平均升高。蛋白质组学分析显示缺血半暗带（penumbra）中存在显著的非组蛋白乳酰化。研究进一步发现，转录调节因子 MeCP2 的乳酰化是防止中风诱导的神经元死亡的一种保护机制。通过化学或遗传方法抑制 MeCP2 乳酰化会增加梗死体积并加重神经功能缺损。从机制上看，MeCP2 在 K210/K249 位点的乳酰化可抑制凋亡相关基因（包括 Pdcd4 和 Pla2g6）的转录，从而减轻神经元凋亡。此外，HDAC3 和 p300 被确定为调控中风后 MeCP2 乳酰化的关键酶。研究结果表明，MeCP2 乳酰化可能是缓解神经元损伤并改善中风预后的潜在治疗靶点。
 
@@ -184,9 +256,11 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 这篇文章做了颅骨，但没选TB作为分析对象，正文没有一个字提到TB只在最后讨论部分提及TB主要在卒中后期发挥作用所以不去研究，但不难看出其实是因为对照组组织内也存在很多TB甚至对照组颅骨的TB超过实验组。
 
+<br>
+
 ------
 
-<br>2023 ***Nat Immunol***. *Marco Bacigaluppi*. Age-induced alterations of granulopoiesis  generate atypical neutrophils that aggravate  stroke pathology
+2023 ***Nat Immunol***. *Marco Bacigaluppi*. Age-induced alterations of granulopoiesis  generate atypical neutrophils that aggravate  stroke pathology
 
 在本研究中，我们探讨了**衰老相关免疫系统变化对卒中的影响**。在实验性脑卒中模型中，与年轻小鼠相比，老年小鼠在**缺血脑微循环中出现了更多中性粒细胞阻塞**，导致 **“无再灌注”（no-reflow）现象加剧和卒中结局更差**。
 
@@ -220,17 +294,37 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 在本研究中，我们采用外科去神经化方案，在中风小鼠模型中进行脾脏交感神经去神经化（SDN），并报告了SDN在中风背景下有效减少缺血‒再灌注损伤。接下来，我们对AIS患者在再灌注治疗前后外周血单核细胞（PBMCs）的单细胞RNA测序（scRNA-seq）数据进行了无偏分析。我们鉴定出AIS患者中一个之前未被识别的GZMK+CD8+CD27+CCR7+ T细胞亚群，命名为中风相关T细胞（Tsa），该亚群的扩增与临床症状的严重程度显著正相关。中风引起的交感神经激活触发脾脏去甲肾上腺素（NE）的释放，NE通过β2-肾上腺素受体（ADRB2）选择性地信号化，驱动Tsa细胞的动员。随后，Tsa细胞通过中风后特定内皮细胞亚群分泌的CCL19通过CCL19/CCR7轴进行脑内渗透。因此，脑内Tsa细胞放大了神经炎症，且这种致病级联反应通过CCR7靶向肽抑制剂有效地被中断。我们的研究表明，SDN作为一种临床可行的策略，能够优化再灌注结果，同时识别CCR7抑制作为平行的治疗途径。
 
-<br>
-
-## B Lymphocyte
-
-
-
 
 
 <br>
 
-## Endothelium | Angiogenesis
+## BBB | Endothelium | Angiogenesis
+
+2025 ***NN***. *Patrick A. Murphy*. Endothelial TDP-43 depletion disrupts core blood-brain barrier pathways in neurodegeneration
+
+<img src="https://mushan-guan.github.io/img16.png" style="zoom:60%;" >
+
+内皮细胞有助于维持血脑屏障，但在多种神经退行性疾病中会发生功能退化。在本研究中，我们采用一种专门的方法，从死后人类皮质样本中分离出EC和小胶质细胞细胞核（共 92 位供体，其中 50 名男性、42 名女性，年龄 20–98 岁），并利用细胞核内转录组与表位的索引技术，实现了在单细胞核分辨率下同时分析核蛋白和 RNA 转录本。我们在阿尔茨海默病、肌萎缩侧索硬化症和额颞叶变性中，识别出一种疾病相关的毛细血管 EC 亚群。这些毛细血管表现出核内 β-连环蛋白（β-catenin）及其下游基因的减少，同时 TNF/NF-κB 标志物升高。值得注意的是，这些转录变化与核内TDP-43的丢失相关，后者是一种在神经元细胞核中也会被耗竭的 RNA 结合蛋白。在人类和小鼠 EC 中破坏 TDP-43 可复制这些改变，提示 TDP-43 缺失是导致神经退行性疾病中血脑屏障破坏的重要因素。
+
+<br>
+
+------
+
+2024 ***NN***. *顾成华*. Characteristics of blood-brain barrier heterogeneity between brain regions revealed by profiling vascular and perivascular cells
+
+<img src="https://mushan-guan.github.io/img15.png" style="zoom:60%;" >
+
+血脑屏障（Blood–Brain Barrier，BBB）保护大脑并维持神经元的稳态。BBB 的特性可以在不同脑区间有所差异，以支持区域性功能，但 BBB 异质性如何产生仍知之甚少。在本研究中，我们利用单细胞和空间转录组学对比了小鼠的正中隆起（median eminence，属于一种天然血管渗漏的脑室周围器官）与皮质。我们在内皮细胞和血管周围细胞中识别出了数百个差异分子。通过电子显微镜和基于水的组织透明化方法，我们揭示了这些区域中 ECs 与血管周围细胞在解剖结构特化和相互作用模式上的显著差异。最后，我们鉴定出了候选的区域富集型 EC–血管周围细胞配体–受体对。我们的研究结果表明，ECs 的分子特化和独特的 EC–血管周围细胞相互作用共同促进了 BBB 功能的异质性。该研究平台可用于探究其他脑区的 BBB 异质性，并可能推动中枢神经系统区域特异性治疗的开发。
+
+
+
+脑血管相关的所有细胞类型: Neurons, Oligodendrocytes, Astrocytes, Tanycytes, Microglia, ECs, capillary ECs, arteriolar ECs, venous ECs, EM特有Plvap ECs, Mural, Pars tuberalis ,Fibroblasts, Ependymal, lmmune
+
+###### reporter mice
+
+*Pdgfrb*-CreERT2:Ai14; *Pdgfra*-H2B-EGFP; *Pdgfra*-H2B-GFP; *Pdgfrb*-CreERT2:Ai14 tdTomato; *Pdfgra*-CreERT2;*R26*-LSL-ER-HRP; *Pdgfra*-CreERT2:Ai14
+
+*Cdh5*-CreER:Ai14; *Slco1c1*-CreER:Ai14; *Glast*-CreER:Ai14;*GFAP*-EGFP; *Aldh1l1*-EGFP
 
 
 
@@ -238,7 +332,11 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 ## Erythrocyte | HSC
 
+2022 ***Dev Cell***. *程涛*. Temporal molecular program of human hematopoietic stem and progenitor cells after birth
 
+<img src="https://mushan-guan.github.io/img13.png" style="zoom:60%;" >
+
+造血干细胞和前体细胞（HSPCs）是血液系统的起源，并在整个生命周期中维持造血功能。在此，我们报告了来自新生儿、婴儿、儿童、成人和衰老阶段的人类骨髓来源的 HSPCs 的转录组普查，揭示了两种由 CD52 表达区分的多能前体细胞亚群。从出生到成人阶段，干细胞和多能前体细胞共享类似的转录组变化，并且在婴儿阶段后，红系潜能得到了增强。通过整合转录组、染色质可及性和功能数据，我们进一步表明，衰老的造血干细胞（HSCs）表现出向巨核细胞分化的偏向。最后，与脐带血中的 HSCs 相比，新生儿骨髓来源的 HSCs 更为静止，且具有更高的长期再生能力和持久的自我更新能力。总的来说，这项工作提供了 HSPCs 的完整转录组景观，并识别了它们在出生后稳态造血中的动态变化，从而帮助探索发育和疾病中的造血机制。
 
 <br>
 
@@ -352,9 +450,9 @@ HELLS 通过不同的方式并以情境依赖的方式调控转录。
 
 在那些对维持癌细胞结构至关重要、具有高转录活性的基因中，HELLS 抑制 共转录R-环结构（R-loops） 的形成。这可能通过对 R-环邻近区域的核小体重塑 实现，从而促进 RNA解旋酶DDX21 以及 染色质转录促进因子复合物（FACT） 的可及性。因此，HELLS 有助于 RNA聚合酶的有效延伸转录，从而促进肿瘤的侵袭性（图C）。
 
-------
-
 <br>
+
+------
 
 2025 ***Genome Biol***. *Alexander Meissner*. HELLS is required for maintaining proper DNA modification at human satellite repeats
 
@@ -382,41 +480,43 @@ DNA甲基化调控涉及多个层级的染色质相互作用，这一过程需�
 
 ATAC‑seq 数据处理流程: 原始ATAC-seq读段也使用 **cutadapt（版本2.4）** 进行接头和质量剪切，参数为：`--quality-cutoff 20 --overlap 5 --minimum-length 25 --adapter AGATCGGAAGAGC -A AGATCGGAAGAGC`，其对应的输入样本也按相同方式处理。处理后的读段使用 **BWA（版本0.7.17）** 中的 “mem” 命令对齐到人类基因组（chm13版本），使用默认参数。然后，使用 **samtools（版本1.10）** 的 “sort” 和 “index” 命令生成排序并建立索引的 BAM 文件。重复读段使用 **GATK（版本4.1.4.1）** 中的 “MarkDuplicates” 命令（默认参数）识别并去除。在对各组处理组和对应输入样本的**相关性进行严谨检验并验证高度一致性后**，将其FASTQ文件**合并并重新处理为一个整体池样本**。最后，使用 **MACS2 “callpeak”（版本2.1.2）** 对合并后的样本进行**峰值识别**。
 
+<br>
+
 ------
 
-<br>2025 ***Cell Death Dis***. *Jueng Soo You*. HELLS controls mitochondrial dynamics and genome stability in liver cancer by collusion with MIEF1
+2025 ***Cell Death Dis***. *Jueng Soo You*. HELLS controls mitochondrial dynamics and genome stability in liver cancer by collusion with MIEF1
 
 ![img](https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41419-025-07589-x/MediaObjects/41419_2025_7589_Figa_HTML.png)
 
 本研究探究了HELLS的致癌机制。通过基因敲除与过表达，发现线粒体延伸因子1（MIEF1） 是HELLS分子网络在肝癌中的关键靶点。在预后不良的肝癌患者中，MIEF1表达水平显著升高，而抑制MIEF1表达则会削弱肿瘤能力，表明MIEF1是肝癌中的一个致癌基因。抑制HELLS-MIEF1轴会引起线粒体过度融合、能量耗竭，并进一步诱导细胞衰老。HELLS的敲低会全局性地增强组蛋白H3第9位赖氨酸三甲基化（H3K9me3），特别是在染色质热点区域，与 SUV39H1的上调及进一步的 DNA甲基化增加相关。这一过程稳定了基因组，并形成了过度融合的线粒体，从而减少了ROS和DNA损伤的水平。最终，肿瘤细胞进入饥饿和平静的状态。我们还通过MIEF1过表达和线粒体融合药物，进一步验证了 HELLS-MIEF1 轴的功能。
 
-------
-
 <br>
+
+------
 
 2024 ***NAR***. *Yoichi Shinkai*. The C-terminal 4CXXC-type zinc finger domain of CDCA7 recognizes hemimethylated DNA and modulates activities of chromatin remodeling enzyme  HELLS
 
 染色质重塑酶HELLS能在核小体上与细胞分裂周期相关蛋白7（CDCA7） 相互作用，并参与高等生物中 DNA甲基化的调控。这些基因的突变会导致免疫缺陷、着丝粒不稳定和面部异常综合征，该疾病还伴随卫星重复序列区域的DNA低甲基化。我们通过多种 CDCA7突变体蛋白，研究了人CDCA7在HELLS功能中的关键结构域。结果发现：CDCA7的中心区域对于与HELLS结合、激活其ATP酶活性和实现核小体滑动是必不可少的；N端区域有抑制HELLS ATP酶活性的倾向；C端的4CXXC型锌指结构域有助于HELLS-CDCA7复合物在DNA依赖性ATP酶活性中识别 CpG位点与半甲基化CpG DNA；CDCA7具有对含有半甲基化CpG的DNA的结合偏好，并且在小鼠胚胎干细胞中，观察到 CDCA7与HELLS共同形成依赖复制的着丝粒异染色质灶。然而，当CDCA7的锌指结构域发生ICF相关突变时，这些表型全部丧失。CDCA7很可能在招募HELLS方面发挥作用，激活其染色质重塑功能，并有效诱导DNA甲基化，尤其是在半甲基化的复制位点。
 
-------
-
 <br>
+
+------
 
 2024 ***NAR***. *Valentina Fragliasso*. HELLS regulates transcription in T-cell lymphomas by reducing unscheduled R-loops and by facilitating RNAPII progression 
 
 染色质修饰因子正逐渐被认为是多种癌症的重要决定因素。间变性大细胞淋巴瘤(ALCL)是一类高度异质性的T细胞淋巴瘤，目前其治疗手段仍然有限。HELLS是一种具有多功能的染色质重塑蛋白，它通过参与DNA损伤反应来影响基因组不稳定性。尽管已有研究提出HELLS具有转录调控功能，但目前尚无关于其如何调控转录的具体机制线索。本研究结合多组学与功能性实验方法，系统解析了HELLS在ALCL中的转录调控图谱。在一组包含44位ALCL患者的大型队列中，研究了HELLS调控程序的临床影响。我们证明，HELLS定位于靶基因启动子的内含子区域，通过减少共转录R-loop的持续存在、促进DNA损伤修复，从而促进RNA聚合酶II (RNAPII)在基因体上的延伸转录。重要的是，特异性敲低HELLS能使ALCL细胞对多种化疗药物更为敏感，并显示出协同增强作用。
 
-------
-
 <br>
+
+------
 
 2024 ***Sci Adv***. *Hironori Funabiki*. CDCA7 is an evolutionarily conserved hemimethylated DNA sensor in eukaryotes
 
 SNF2家族ATP酶HELLS及其激活因子CDCA7的突变会导致免疫缺陷、着丝粒不稳定和面部异常综合征（ICF综合征），其特征为异染色质区域的DNA低甲基化。至今尚不清楚为何CDCA7-HELLS是唯一一个缺失会导致DNA甲基化维护丧失的核小体重塑复合物。在本研究中，我们鉴定了CDCA7的独特锌指结构域，该结构域是一个进化上保守的半甲基化感应锌指（hemimethylation-sensing zinc finger, HMZF）结构域。通过冷冻电镜（cryo-EM）分析CDCA7-核小体复合物的结构，我们发现HMZF结构域能够识别核小体核心颗粒内的外侧DNA大沟中的半甲基化CpG，而UHRF1，即维持甲基转移酶DNMT1的关键激活因子，却无法识别该区域。CDCA7将HELLS招募至半甲基化的染色质，并促进UHRF1介导的H3泛素化，这与复制不耦合的维持性DNA甲基化 (replication- uncoupled maintenance DNA methylation)相关。我们提出，CDCA7-HELLS核小体重塑复合物通过感应半甲基化的CpG，帮助在染色质上维持DNA甲基化，而该区域对于UHRF1和DNMT1是不可及的。
 
-------
-
 <br>
+
+------
 
 2023 ***Cell***. *Robert A. Martienssen*. Chromatin remodeling of histone H3 variants by DDM1 underlies epigenetic inheritance of DNA methylation
 
@@ -424,33 +524,33 @@ SNF2家族ATP酶HELLS及其激活因子CDCA7的突变会导致免疫缺陷、着
 
 核小体会阻碍DNA甲基转移酶的结合，除非它们被“DNA甲基化降低1”（DECREASE in DNA METHYLATION 1, DDM1/LSH/HELLS）重塑，该蛋白是一种类似Snf2的表观遗传遗传调控主因子。我们发现 DDM1促进了组蛋白变体H3.3向H3.1的替换。在DDM1突变体中，通过去除 H3.3伴侣蛋白HIRA，DNA甲基化部分恢复，而 H3.1伴侣蛋白CAF-1则变得必不可少。单颗粒冷冻电镜（cryo-EM）结构分析显示，DDM1与变体核小体结合的分辨率为 3.2 Å，揭示其与H3.3在组装所需残基附近及未修饰的H4尾部相互作用。其N端自抑制结构域会抑制活性，而解旋酶结构域中的二硫键则有助于活性的发挥。DDM1在细胞周期过程中与H3.1和H3.3共定位，并且与 DNA甲基转移酶MET1/Dnmt1共定位，但其功能会被H4K16乙酰化 阻断。雄性生殖系的H3.3变体MGH3/HTR10对DDM1重塑具有抗性，并在精子细胞中作为表观遗传遗传的“占位核小体”。
 
-------
-
 <br>
+
+------
 
 2023 ***Elife***. *Thomas Carroll*. Coevolution of the CDCA7-HELLS ICF-related nucleosome remodeling complex and DNA methyltransferases 
 
 5-甲基胞嘧啶（5mC）及其催化酶 DNA甲基转移酶（DNMTs） 在真核生物中普遍保守存在，但在进化过程中也常出现丢失的现象。哺乳动物SNF2家族ATP酶HELLS及其植物直系同源物DDM1，在维持5mC方面起着关键作用。HELLS、其激活因子CDCA7以及新的DNA甲基转移酶DNMT3B的突变会导致免疫缺陷-着丝粒不稳定-面部异常综合征（ICF综合征），这是一种与DNA甲基化丧失相关的遗传疾病。本研究考察了CDCA7、HELLS与DNMTs之间的协同进化关系。虽然DNMT3、维持型DNA甲基转移酶DNMT1、HELLS和CDCA7在脊椎动物和绿色植物中高度保守，但在其他进化类群中则经常共同丢失。这些基因的存在-缺失模式并非随机；几乎所有拥有CDCA7的真核生物物种也同时具有HELLS以及DNMT1（或另一种维持型甲基转移酶DNMT5）。我们在蜕皮动物（Ecdysozoa）中进行的 存在-缺失共进化模式（CoPAP）分析进一步揭示了CDCA7、HELLS、DNMT1及其激活因子UHRF1之间的协同进化关联。我们提出一个假说：在丢失HELLS或DNA甲基化机制的物种中，CDCA7可能变得不再必需；反之，CDCA7的缺失可能触发了DNA甲基化机制被其他染色质调控机制所取代。本研究表明，CDCA7在依赖HELLS的DNA甲基化维持中所具有的独特专一功能，可能是从最早期的真核共同祖先进化保留下来的。
 
-------
-
 <br>
+
+------
 
 2023 ***Comput Struct Biotechnol J***. *Xia Jinglin*. HELLS modulates the stemness of intrahepatic cholangiocarcinoma through  promoting senescence-associated secretory phenotype
 
 衰老相关分泌表型（SASP）与肝内胆管癌（ICC） 的肿瘤发生和进展密切相关。然而，SASP与ICC干性之间的关系仍不清楚。本研究中，我们采用一类线性回归（OCLR） 和单样本基因集富集分析（ssGSEA） 算法，计算ICC的干性指数。通过Pearson相关分析，在ICC中共识别出 14个衰老相关干性基因（SRSGs）。随后，基于这14个基因，利用一致性聚类分析（consensus clustering）建立了ICC的SRSGs相关分型。结果显示，不同类型的ICC在预后、免疫状态、代谢特征和致癌特征方面表现出显著差异。此外，我们通过PCA分析构建了ICC的风险评分模型。该风险评分与干性、免疫浸润、代谢和致癌特征呈正相关，但与预后呈负相关。高风险评分患者可能对免疫治疗具有较好的反应。进一步地，我们使用3D纤维蛋白凝胶筛选出具有干性特征的肿瘤再生细胞（TRC）。研究发现，在ICC-TRC中，属于14个SRSGs之一的HELLS显著上调。而沉默HELLS表达显著减少了克隆体积，抑制了细胞迁移与侵袭能力，并削弱了ICC-TRC中的SASP表达。总之，本研究提供了一种新的ICC分型与风险评分方法，并揭示了肿瘤干性样细胞（CSLCs）如何通过HELLS获得活跃SASP的分子机制。
 
-------
-
 <br>
+
+------
 
 2020 ***NAR***. *Anna L. Chambers*. The human HELLS chromatin remodelling protein promotes end resection to facilitate homologous recombination and contributes to DSB repair within heterochromatin
 
 真核生物中高效的双链断裂（DSB）修复需要对染色质结构进行调控。ATP依赖性的染色质重塑酶在不同的DNA修复途径中发挥作用，贯穿细胞周期的不同阶段，并适应多样化的染色质环境。然而，在G2期异染色质中重塑因子对双链断裂修复的贡献尚不清楚。人类HELLS蛋白是Snf2样染色质重塑因子家族成员，在多种癌症以及部分ICF综合征病例中存在突变或失调。我们发现HELLS促进了双端断裂的同源重组（HR），并在 G2期异染色质区域的修复 中发挥作用。HELLS通过促进 DNA末端切除 和CtIP在电离辐射诱导灶（IR-induced foci）的积累来推动HR的启动。我们还鉴定出 HELLS与CtIP的相互作用，并证实 HELLS的ATP酶结构域 对促进DSB修复是必需的。HELLS在 维持基因组稳定性方面的这一功能，很可能与其在癌症生物学中的作用密切相关，并且表明在特定基因组背景下，高效修复需要不同的染色质重塑活性。
 
-------
-
 <br>
+
+------
 
 2017 ***NAR***.  *Ireneusz Litwin*. The LSH/HELLS homolog Irc5 contributes to cohesin association with chromatin in yeast
 
