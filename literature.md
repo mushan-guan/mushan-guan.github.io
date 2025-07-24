@@ -28,7 +28,7 @@ title: Literature
 
 随着大脑的衰老，小胶质细胞的分支变得较少。衰老的小胶质细胞还增加了与神经保护相关的基因表达，表明它们对伴随衰老的退行性过程做出了补偿性反应。然而，小胶质细胞也可能变得衰老或萎缩，表现为神经保护功能降低、促炎细胞因子释放增加以及抗炎信号通路减少，这些变化有助于慢性炎症状态、神经元功能障碍和细胞死亡的发生。
 
-
+<br>
 
 2024 ***Sci Adv***. *高艳琴*. Arresting the bad seed: HDAC3 regulates proliferation  of different microglia after ischemic stroke
 
@@ -46,7 +46,7 @@ PU.1在中枢神经系统中其表达仅限于小胶质细胞，控制小胶质�
 
 
 
-
+<br>
 
 2023 ***Genome Med***. *徐运*. Acute ischemia induces spatially and transcriptionally distinct microglial subclusters
 
@@ -153,6 +153,132 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 <br>
 
 ## CNS tumor
+
+
+
+<br>
+
+## 淋巴特异性解旋酶 HELLS | LSH
+
+<br>
+
+2025 Trends Cell Biol. Valentina Fragliasso. HELLS: the transcriptional sentinel
+
+染色质重塑因子HELLS的作用历来与 DNA甲基化和DNA损伤修复相关。最近的研究揭示了HELLS在转录调控中的一种意想不到的、多模式且直接的参与。本文旨在讨论，HELLS是如何通过不同且特定情境下的机制，调控一组功能相关基因的表达，从而促进转录的可塑性与表型适应性，最终维护基因组的组织与稳定性。
+
+参与DNA methylation
+
+参与DNA damage repair
+
+作为transcriptional sentinel
+
+转录、DNA 复制和修复期间，染色质结构被连续修饰，从而暴露特定基因区域，并使 DNA 互作酶进入 DNA。依赖于 ATP 的染色质重构复合体会利用 ATP 水解的能量来重新定位、组装、迁移和重组核小体，从而改变染色质结构。这些复合体存在一个保守的 SNF2 样催化 ATP 酶亚基，该亚基属于以下四个家族中的一个：SWI/SNF、CHD/Mi-2、ISWI/SNF2L 和 INO80。依赖于 ATP 的染色质重构物在发育、癌症和干细胞生物学中发挥关键作用。
+
+哺乳动物转换/蔗糖不发酵 (SWI/SNF) 家族也称 BAF 复合体（Brg/Brm 相关因子），被认为能改变核小体定位和结构，从而调控基因表达。SWI/SNF 复合体的 ATP 酶亚基是 BRM 或 BRG1；这些分子还包含结合乙酰化赖氨酸残基的溴结构域。BAF 复合体存在于各种细胞特异性、最近确定的、疾病特异性的异源构型中，每种构型共含有 12-14 个亚基，但始终包括核心亚基 BRM、或 BRG1、BAF170、BAF155 和 BAF47（也称 hSNF5）。这些构型会在细胞命运决定期间发生变化，例子包括胚胎干细胞中的 esBAF、神经元祖细胞中的 npBAF，以及分裂期后神经元中的 nBAF，它们每个均含特定亚基构型。这些编码 BAF 复合体组分的基因在超过 20% 的人癌细胞中会发生突变，并且已成为集中抗癌努力工作的中心。
+
+染色质域解旋酶 DNA 结合 (CHD) ATP 酶家族有一个标签染色质域，它会结合甲基化赖氨酸残基。这个家族的 ATP 酶亚基包括 CHD1-9。但因其在核小体重构和脱乙酰酶 (NuRD) 复合体中发挥作用，对 CHD3 和 4 的特征鉴定最为广泛。较大的多亚基 NuRD 复合体含有 HDAC1 和 2 种蛋白，结合具有组蛋白脱乙酰酶活性的 ATP 依赖性染色质重构，从而在胚胎发育和癌症期间调节转录激活和抑制。
+
+模拟转换 (ISWI) 家族可调控核小体滑动和间隙。ISWI 复合体中的催化 ATP 酶是 SNF2L 或 SNF2H，可将 1-3 个辅亚基组装成为 7 独特的复合体。该家族的创始成员核小体重构因子 (NuRF) 含有 SNF2L，并且是发育期间基因激活所必需的。
+
+人 INO80 家族中的 ATP 酶包括 INO80、Tip60 和 SRCAP，它们可组装成为较大的多亚基复合体，以将变异的组蛋白交换成为染色质结构。人 INO80 会驱逐核小体来辅助修复双链断裂，从而让修复因子进入 DNA。
+
+###### 基因家族
+
+HELLS属于SNF2家族
+
+Human HELLS – also known as lymphoid specific helicase (Lsh), SMARCA6, or PASG
+
+###### Structure of HELLS
+
+- two helicase ATPase domains (解旋酶 ATP 酶活性结构域)
+
+- Nucleosome positioning during transcription is dynamically regulated by ATP dependent chromatin remodeling enzymes. These enzymes can evict histone octamers, exchange histones, and manipulate nucleosome structure through sliding and distortion
+
+- an autoinhibitory domain that restricts its intrinsic nucleosome remodeling activity in vitro
+
+###### Function of HELLS
+
+- primarily expressed in proliferating lymphoid tissues and stem cells
+- HELLS mutations contribute to the rare immunodeficiency–centromeric instability–facial anomalies (ICF) syndrome, characterized by immunodeficiency, developmental defects, and mental retardation
+- reshapes chromatin, influencing the binding of RNA polymerase (RNAP) and specificTFs, fine-tuning the expression of cell-identity associated transcriptional programs
+- Catalyzing the incorporation of specific histone variants (**macroH2A1** and **macroH2A2** histones) into single nucleosomes. MacroH2A incorporation is usually linked to transcriptional repression, and HELLS utilizes this mechanism primarily in repetitive sequences and distal and proximal developmental enhancers where it exerts its silencing effects
+- Slide nucleosomes
+
+- In embryonic stem cells, HELLS-dependent sliding affects CpG sites exposed to DNA methyltransferase activity, contributing to the formation of pericentromeric heterochromatin foci
+- HELLS can slide nucleosomes in only a single direction and in the presence of the cell division cycle associated 7 (CDCA7) protein, which is necessary for the full functionality of HELLS
+
+- specific remodeling mechanisms
+- **promote transcription**
+
+- enhances promoter accessibility by creating nucleosome-deprived regions (NDRs). These NDRs serve as binding platforms for RNA polymerase and transcription factors, thereby guaranteeing transcriptional initiation
+
+- HELLS interactions with other remodeling complexes, nucleosomes, and other transcriptional regulators are ***cell-type specific***. These findings support the hypothesis that remodeling functions of HELLS and, consequently, its ability to ***repress*** or **promote** transcription may be ***context-dependent***
+- **HELLS and transcriptional priming**
+
+- **Tens of thousands of regulatory elements** undergo a dynamic shift between active and inactive states during development and differentiation, driving a concerted change in chromatin structure
+- HELLS pervasively occupies the mammalian genome and directly influences the accessibility of enhancers and promoters, contributing to the overall distribution of nuoleosomes and the stability of chromatin states
+- During embryonic development, the regulation of **enhancer–promoter communication** is crucial for lineage commitment. This interplay serves to orchestrate RNAP recruitment, thereby priming transcription and ultimately contributing to the activation of specific genes.
+- TFs play a crucial role in this communication, not only by **recognizing specific DNA sequences** and **influencing local chromatin accessibility**, but also by **recruiting chromatin remodelers** that shape the three dimensional topological organization of the genome.
+- **During the early stages of embryogenesis**, HELLS limits the accessibility of distal and proximal developmental enhancers and reduces the engagement of **lineage-specific TFs** such as GATA binding protein 3 (**GATA3**), myogenic differentiation 1 (**MYOD**), SRY-box transcription factor 6 (**SOX6**) and achaete–scute family basic helix–loop–helix (**BHLH**) transcription factor 1 (**ASCL1**)
+- **During development**, HELLS shuts down the expression of pluripotency genes such as a subset of homeobox (**Hox**) and POU class 5 homeobox 1 (**Oct4**). In these contexts, HELLS alters the chromatin landscape in part by catalyzing the incorporation of **macroH2A1** and **macroH2A2** histones. (A图) This creates an inaccessible chromatin landscape that acts as a highly energetic barrier to RNAP passage. It is plausible that HELLS'ability to cooperate with DNA methyltransferases contributes to the faster propagation of these repressed chromatin states.
+- Nevertheless, HELLS has been shown to cooperate directly with different **transcription factors** to modulate specific gene expression programs. This relationship is frequently restrained in cancer, where the shifts in chromatin organization drive tumorigenesis leading to a globally dysregulated state. A growing number of studies have revealed that HELLS is abnormally expressed in human cancers. Also in these settings, HELLS has been largely associated with active transcriptional elements such as enhancers and promoters, which fuel the increased overall transcription needed for tumor cell proliferation. **A recent study revealed that HELLS modifies chromatin accessibility by creating NDRs at immune-related promoters in T cell lymphoma cells**. While the exact mechanism remains elusive, this process appears to facilitate RNAP recruitment and TF binding, ultimately leading to enhanced transcriptional activity. The promoters of immune-related genes are associated with enriched levels of **H3K4me3**. This mark is normally found around the transcriptional starting site of actively transcribed genes, further indicating that changes in the entire chromatin structure are necessary for their precise gene expression. Notably, this set of genes, like those of cell identity during the differentiation, can be activated and transcribed within minutes after stimulation. Recruitment of RNAP at the target promoter is a crucial step for these genes. A delay in this step has catastrophic consequences for the cell, with a delay in primary response and the execution of transcriptional programs.
+
+- **HELLS and TFs: a complex dance in gene regulation**
+
+- HELLS can act as a potent transcriptional co-activator, physically interacting with TFs to enhance their recruitment and DNA-binding affinity at target gene promoters. This function as a co-activator has been exemplified, for the first time, by the interaction with E2F transcription factor 3 (E2F3). This occurs through the E2F3 coiled-coil domain and the interaction is stabilized by the E2F3-marked box. **HELLS–E2F3 interaction aids the induction of E2F-target genes and cell-cycle re-entry, establishing a proliferative circuit.** This network is also restrained in tumors with sustained cell proliferation and tumor aggressiveness. Von Eyss et al. showed that 74% of all HELLS-bound promoters display an E2F-like motif and that a massive surge of E2F3A at E2F promoters cannot compensate for the loss of HELLS in the target gene and S-phase induction (B图). Although the direct association with RNAP occupancy has not been investigated, most HELLS-bound promoters overlap with the active marker of transcription **H3K4me3**, further indicating the creation of a permissive environment for RNAP recruitment.
+- Recent findings demonstrated that HELLS’ repertoire extends beyond E2Fs. HELLS also promotes YY1 transcription factor (**YY1**) transcriptional activity by facilitating its recruitment to target genes. This interaction is essential for ensuring the aberrant expression of cytoskeleton-associated genes and plays a role in tumor aggressiveness. The loss of HELLS leads to YY1 displacement from DNA in lymphoma cells, indicating a precise hierarchy that selectively drives gene programs. Collectively, HELLS gains access to lineage-specific factors to their respective binding sites, ensuring the execution of precise transcriptional programs. The interplay between HELLS and TFs offers potential therapeutic targets for cancer and other diseases. Targeting HELLS interactions with transcriptional factors could disrupt selective transcriptional networks and halt disease progression.
+
+- **HELLS and R-loops: a dynamic duo in the regulation of RNAP elongation**
+
+- Transcription is a primary source of genome instability. The unwinding of DNA by RNAP during elongation generates torsional stress and is a major source of DNA supercoiling throughout the genome. Stable RNA–DNA hybrids formed between the nascent RNA and the DNA upstream of the RNAP, known as R-loops, can hinder both the elongation and the stability of the chromatin template.
+- When massive transcription is required, such as in sustaining the proliferation of cancer cells, the elongating RNAP alone is not able to transcribe through the gene body due to the structural impediments imposed by the R-loops. Thus, RNAP passage is likely to require assistance in moving through nucleosomes without unscheduled obstacles. A recent study has demonstrated that HELLS co-localizes with R-loops, and its dysregulation results in the accumulation of R-loops nearby or at the same sites where RNAP stalls. This phenomenon also induces the accumulation of damaging events on the same genomic sites affected by R-loop persistence, leading to genomic instability in lymphoma. HELLS creates a permissive chromatin landscape in which the RNAP can successfully elongate, increasing the transcript level. This specific regulation occurs in selected target genes central to cancer cell structure maintenance, such as Rho-GTPase and cytoskeleton organization. Due to their structural nature, these genes are required to be transcribed at high levels and in a continuum manner to guarantee cellular support. The molecular mechanisms underlying HELLS involvement in resolving R-loops are likely to be multitiered and remain to be elucidated. Based on its pleiotropic activities, HELLS may help resolve R-loops through different mechanisms. HELLS may remodel nucleosome positioning in R-loop-flanking regions, thus making chromatin accessible to RNA-helicase DExD-box helicase 21 (DDX21) and the facilitates chromatin transcription (FACT) complex, which generally resolves R loops in those regions (C图).
+- Alternatively, based on ATP-binding domain sequence homology with its ortholog in plant decrease in DNA methylation 1 (DDM1), HELLS could clear cotranscriptional R-loops directly. Given the importance of HELLS in development and tumorigenesis, establishing the exact principles of HELLS-mediated resolution of R loops is important for understanding the mechanisms of cancer propensity and identifying new therapy targets.
+
+
+
+###### Questions about HELLS
+
+- The first includes understanding its recruitment to target genes. As a chromatin remodeler, HELLS lacks DNA sequence specificity. Presumably, beyond CDCA7, other pioneering TFs act as interpreters, providing the specificity of HELLS in establishing cell identity and responding to environmental cues. 
+- Second, what is the precise mechanism through which HELLS makes chromatin accessible to RNAP and TFs? HELLS could exert this function by the eviction or sliding of nucleosomes favoring the binding of locus-specific TFs priming the transcription.
+- By virtue of its central and multifunctional functions in tumors, there is substantial interest in identifying compounds capable of inhibiting HELLS activity. Such pharmacological inhibitors hold promise not only as monotherapy but also in synergistic combination with conventional and targeted therapies. HELLS downregulation could potentially circumvent resistance to DNA damaging agents by hindering repair mechanisms and disrupting critical gene expression networks
+
+
+
+<img src="https://cdn.nlark.com/yuque/0/2025/jpeg/1402416/1741164397873-b694f4ff-3b33-4fc1-96ea-51fad4decafa.jpeg" alt="img" style="zoom: 33%;" />
+
+
+
+<img src="https://cdn.nlark.com/yuque/0/2025/png/1402416/1741144215619-981bffd7-9c87-4939-bb73-85df3d68f7b5.png?x-oss-process=image%2Fformat%2Cwebp" alt="image.png" style="zoom: 67%;" />
+
+Figure 1. Transcriptional mechanisms regulated by helicase lymphoid specific (HELLS). HELLS regulates transcription through different modalities and in a context-dependent manner. During the establishment of cell identity and cell fate, HELLS directly influences the accessibility of chromatin by depositing the histone variant MacroH2A through its ATP-binding domain. The ability of HELLS to cooperate with DNA methyltransferases (DNMTs) may facilitate the rapid propagation of repressed chromatin states. This mechanism leads to the silencing of developmental enhancers and the control of enhancer–promoter communication (A). During early cellular transformation and subsequent tumor progression, HELLS drives aberrant and excessive transcription by altering chromatin accessibility in an ATP-dependent manner. HELLS induces the formation of nucleosome-depleted regions (NDRs) at promoters of tumor cells, facilitating the recruitment of RNA polymerase (RNAP) and transcription factors (TFs) to target genes. HELLS employs this mechanism in E2F transcription factor 3 (E2F3)-dependent G1/S cell cycle genes and in immune related genes that require rapid transcriptional activation upon stimulation (B). In genes essential for maintaining cancer cell structure, characterized by high transcriptional activity, HELLS restricts the formation of co-transcriptional R-loops. This may be achieved through nucleosome remodeling in the vicinity of R-loops, thereby facilitating access to the RNA helicase DDX21 and the facilitates chromatin transcription (FACT) complex. Consequently, HELLS promotes efficient RNAP elongation, contributing to tumor aggressiveness (C).
+
+图1. 由淋巴特异性解旋酶（HELLS）调控的转录机制。
+
+HELLS 通过不同的方式并以情境依赖的方式调控转录。
+
+在细胞身份与命运建立的过程中，HELLS 通过其 ATP结合结构域 介导 组蛋白变体 MacroH2A 的沉积，从而直接影响染色质的可及性。HELLS 与 DNA甲基转移酶（DNMTs） 的协同作用，可能有助于 抑制性染色质状态的快速传播。该机制可导致 发育增强子沉默 以及对 增强子与启动子之间通讯的调控（图A）。
+
+在早期细胞转化及后续肿瘤进展过程中，HELLS 通过 ATP依赖性方式改变染色质可及性，推动 异常且过度的转录。HELLS 在肿瘤细胞启动子区域诱导 核小体耗竭区（NDRs） 的形成，从而促进 RNA聚合酶（RNAP） 和 转录因子（TFs） 向靶基因的募集。HELLS 利用此机制，调控 依赖E2F转录因子3（E2F3）的G1/S细胞周期基因，以及那些在刺激下需要快速激活的 免疫相关基因（图B）。
+
+在那些对维持癌细胞结构至关重要、具有高转录活性的基因中，HELLS 抑制 共转录R-环结构（R-loops） 的形成。这可能通过对 R-环邻近区域的核小体重塑 实现，从而促进 RNA解旋酶DDX21 以及 染色质转录促进因子复合物（FACT） 的可及性。因此，HELLS 有助于 RNA聚合酶的有效延伸转录，从而促进肿瘤的侵袭性（图C）。
+
+
+
+
+
+
+
+<br>
+
+2025 Genome Biol. Alexander Meissner. HELLS is required for maintaining proper DNA modification at human satellite repeats
+
+
+
+<br>
+
+2025 Cell Death Dis. Jueng Soo You. HELLS controls mitochondrial dynamics and genome stability in liver cancer by collusion with MIEF1
+
+本研究探究了HELLS的致癌机制。通过基因敲除与过表达，发现线粒体延伸因子1（MIEF1） 是HELLS分子网络在肝癌中的关键靶点。在预后不良的肝癌患者中，MIEF1表达水平显著升高，而抑制MIEF1表达则会削弱肿瘤能力，表明MIEF1是肝癌中的一个致癌基因。抑制HELLS-MIEF1轴会引起线粒体过度融合、能量耗竭，并进一步诱导细胞衰老。HELLS的敲低会全局性地增强组蛋白H3第9位赖氨酸三甲基化（H3K9me3），特别是在染色质热点区域，与 SUV39H1的上调及进一步的 DNA甲基化增加相关。这一过程稳定了基因组，并形成了过度融合的线粒体，从而减少了ROS和DNA损伤的水平。最终，肿瘤细胞进入饥饿和平静的状态。我们还通过MIEF1过表达和线粒体融合药物，进一步验证了 HELLS-MIEF1 轴的功能。
 
 
 
@@ -344,7 +470,7 @@ triglyceride (TG)
 
 ## Flow Cytometry
 
-
+<br>
 
 microglia: CD45intCD11b+Ly6G−CD11C−
 
