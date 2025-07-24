@@ -112,7 +112,23 @@ C57BL/6J MCAO小鼠在第5天接受RAMf移植在第14天取样发现促进髓鞘
 
 2023 ***Nat Immunol***. *Marco Bacigaluppi*. Age-induced alterations of granulopoiesis  generate atypical neutrophils that aggravate  stroke pathology
 
+在本研究中，我们探讨了**衰老相关免疫系统变化对卒中的影响**。在实验性脑卒中模型中，与年轻小鼠相比，老年小鼠在**缺血脑微循环中出现了更多中性粒细胞阻塞**，导致 **“无再灌注”（no-reflow）现象加剧和卒中结局更差**。
 
+老年小鼠在卒中后展现出更显著的**粒细胞生成反应**，使血液中积累了以下几类**成熟和非典型不成熟中性粒细胞**：
+
+- **CD101⁺CD62L^lo 成熟中性粒细胞**，
+- **CD177^hiCD101^loCD62L^lo 不成熟中性粒细胞**，
+- **CD177^loCD101^loCD62L^hi 不成熟中性粒细胞**。
+
+这些中性粒细胞具有**更强的氧化应激、吞噬能力以及促凝特性**。
+
+在老年小鼠中，由 **CD62L^lo 中性粒细胞产生的趋化因子CXCL3** 被发现是推动上述老化相关中性粒细胞发育及其致病性的关键因素。
+
+此外，对**造血干细胞进行年轻化处理**可逆转老年相关的中性粒细胞生成异常，从而 **改善卒中预后**。
+
+在老年缺血性脑卒中患者中，血液白细胞的**单细胞蛋白组谱分析**也识别出了与 **再灌注不良及功能结局不良相关的CD62L^lo中性粒细胞亚群**。
+
+<img src="https://mushan-guan.github.io/img5.png" style="zoom:60%;" >
 
 <br>
 
@@ -364,6 +380,20 @@ SNF2家族ATP酶HELLS及其激活因子CDCA7的突变会导致免疫缺陷、着
 
 精确的染色体分离对所有活细胞来说都是至关重要的，因为细胞分裂过程中染色体分配不均可能导致基因组不稳定性，从而引发癌变和发育障碍。来自酿酒酵母（*Saccharomyces cerevisiae*）的 Irc5 是保守的 Snf2家族ATP依赖性DNA转移酶成员之一，其功能尚不清楚。本研究发现 Irc5是黏着复合物（cohesin complex）的一个新型相互作用因子。Irc5 能与cohesin亚基Scc1相互结合，并促进cohesin在染色质上的结合。敲除 Irc5会降低cohesin在着丝粒和染色体臂上的水平，导致姐妹染色单体过早分离。此外，在缺失Irc5的细胞中，rDNA区域的cohesin占据率下降，导致rDNA重复序列的丢失。我们还表明，Irc5的DNA转移酶活性是其参与黏着途径功能所必需的。最后，我们证明，在缺乏Irc5的情况下，黏着加载复合物成员Scc2的染色质结合水平下降，且Scc1与Scc2之间的物理相互作用也减少。综上所述，我们的结果表明，Irc5 是一种辅助因子，参与了cohesin与染色质的结合过程。
 
+
+
+<br>
+
+## DNMT3A
+
+<br>2023 ***MedComm***. *李子孝*. DNMT3A dysfunction promotes neuroinflammation and exacerbates acute ischemic stroke
+
+与不确定意义克隆性造血（CHIP）相关的体细胞突变是中风的危险因素。其中，DNMT3A是CHIP中突变最频繁的基因，但其在急性缺血性脑卒中（AIS）中对临床功能结局的影响尚不明确。在一项包含 8524名缺血性卒中患者的高质量队列研究中，我们发现 DNMT3A驱动的CHIP显著与这些患者的神经功能残疾有关。在tMCAO小鼠模型中，我们发现脑梗死半暗带的DNMT3A蛋白水平升高。使用DNMT3A抑制剂RG108处理后，血液中中性粒细胞的增殖增加，并促进中性粒细胞向脑半暗带的浸润，增强小鼠模型的促炎反应。此外，抑制DNMT3A还会显著增加梗死体积并加重神经行为功能障碍。
+
+结论：DNMT3A的体细胞突变与部分AIS患者的神经功能障碍加重相关，其机制可能与中性粒细胞在缺血脑组织中的增殖与浸润增加有关。这些发现为卒中后脑组织的促炎活化和组织损伤提供了可能的机制，表明该领域需要进一步研究。
+
+
+
 <br>
 
 ## GPNMB | PLD1
@@ -426,7 +456,7 @@ electrophysiology was then used to ex amine the long- term functional integrity 
 
 damage-associated molecular patterns (DAMPs)
 
-pro-inflammatory factors: IL-1β, IL-6, IL-17, IL-21, TNFα, interferon-γ, Tnf, Il1b, Cxcl10, Il1a, Nfkbib
+pro-inflammatory factors: IL-1β, IL-6, IL-17, IL-21, TNFα, interferon-γ, Tnf, Il1b, Cxcl10/IP10, Il1a, Nfkbib
 
 anti-inflammatory genes: Ccl22, Arg1, Ccl7, Itgax, Mmp12
 
@@ -455,6 +485,8 @@ c-Jun N-terminal kinase (JNK)
 extracellular signal-regulated kinase (ERK)
 
 phosphoinositide 3-ki nase (PI3K)/Akt
+
+Lin–SCA-1+c-Kit+ compartment
 
 
 
@@ -490,6 +522,36 @@ SMI32/MBP ratio越低代表越好
 
 pH3: a mitotic chromosome condensation marker labeling anaphase and telophase
 
+horseradish peroxidase (HRP)
+
+ROS检测: dihydroethidium (DHE)
+
+3-nitrotyrosine (3NT)
+
+anti-Ly6G抗体类中性粒细胞清除: 1A8
+
+7/4+ neutrophils
+
+MPO+ neutrophils
+
+Ly6G+CXCR2+ neutrophils
+
+fibrinogen/fibrin+ deposits
+
+Ter119+ erythrocyte
+
+NaBH4+ erythrocyte
+
+citH3+ neutrophil extracellular  traps (NETs)
+
+SiglecF+ eosinophils
+
+
+
+PEdKO mice, which lack P- and E-selectins, have augmented circulating CD62L low neutrophils
+
+
+
 
 
 <br>
@@ -508,7 +570,7 @@ immediate early genes: Egr1, Jund, Klf2
 
 G1-S phase: Pcna, Cdk2, and Ccne1
 
-G2- M phase: Cdk1, Ccnb1, and Birc5
+G2-M phase: Cdk1, Ccnb1, and Birc5
 
 M phase: Kntc1, Cdca8, and Sgo1
 
