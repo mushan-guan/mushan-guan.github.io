@@ -246,17 +246,11 @@ Human HELLS – also known as lymphoid specific helicase (Lsh), SMARCA6, or PASG
 
 
 
-<img src="E:\Personal_website\mushan-guan.github.io\academic\img1.jpg" style="zoom: 33%;" />
-
-<img src="E:\Personal_website\mushan-guan.github.io\academic\img2.png" style="zoom:67%;" />
-
-<img src="E:\Personal_website\mushan-guan.github.io\academic\img2.png" alt="i" style="zoom:67%;" />
 
 
+<img src="E:\Personal_website\mushan-guan.github.io\img1.jpg" style="zoom: 33%;" />
 
-![](E:\Personal_website\mushan-guan.github.io\academic\img2.png)
-
-
+<img src="E:\Personal_website\mushan-guan.github.io\img2.png" alt="img2" style="zoom:67%;" />
 
 Figure 1. Transcriptional mechanisms regulated by helicase lymphoid specific (HELLS). HELLS regulates transcription through different modalities and in a context-dependent manner. During the establishment of cell identity and cell fate, HELLS directly influences the accessibility of chromatin by depositing the histone variant MacroH2A through its ATP-binding domain. The ability of HELLS to cooperate with DNA methyltransferases (DNMTs) may facilitate the rapid propagation of repressed chromatin states. This mechanism leads to the silencing of developmental enhancers and the control of enhancer–promoter communication (A). During early cellular transformation and subsequent tumor progression, HELLS drives aberrant and excessive transcription by altering chromatin accessibility in an ATP-dependent manner. HELLS induces the formation of nucleosome-depleted regions (NDRs) at promoters of tumor cells, facilitating the recruitment of RNA polymerase (RNAP) and transcription factors (TFs) to target genes. HELLS employs this mechanism in E2F transcription factor 3 (E2F3)-dependent G1/S cell cycle genes and in immune related genes that require rapid transcriptional activation upon stimulation (B). In genes essential for maintaining cancer cell structure, characterized by high transcriptional activity, HELLS restricts the formation of co-transcriptional R-loops. This may be achieved through nucleosome remodeling in the vicinity of R-loops, thereby facilitating access to the RNA helicase DDX21 and the facilitates chromatin transcription (FACT) complex. Consequently, HELLS promotes efficient RNAP elongation, contributing to tumor aggressiveness (C).
 
