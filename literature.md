@@ -14,7 +14,7 @@ title: Literature
 
 <br>2025 ***Cell Rep***. *Vanessa Coelho-Santos*. Physiological and injury-induced  microglial dynamics across the lifespan
 
-<img src="E:\Personal_website\mushan-guan.github.io\academic\img3.png" style="zoom: 67%;" />
+<img src="https://mushan-guan.github.io/img3.png" style="zoom:60%;" >
 
 通过**双光子活体成像**，确认在成年大脑皮层，小胶质细胞在基础状态下展现出高度分支的突起和相对静止的细胞体。它们对**激光诱导的局部损伤**的反应发生在几分钟内，并且邻近的小胶质细胞之间协调性很高。相比之下，新生小胶质细胞较为密集且更具活动性，但形态复杂性较低。它们对毛细血管或实质组织的激光诱导局部损伤反应缺乏协调性，反应延迟且持续数天。在衰老的大脑中，小胶质细胞的细胞体在基础状态下保持不动，但它们的突起变得较少分支。它们对局部损伤的反应是协调的，但较慢且不太敏感。这些研究揭示了小胶质细胞在整个生命周期中的形态、分布、动态变化和损伤反应的显著变化。
 
