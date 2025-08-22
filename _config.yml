@@ -36,12 +36,12 @@ links:
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-  # - title: Startups
-    # url: /startups/
+  - title: Startups
+    url: /startups/
   - title: Career
     url: /career/
   - title: Mg
-    url: /paper_mic/
+    url: /paper_mg/
   - title: AC
     url: /paper_ac/
   - title: OLC
