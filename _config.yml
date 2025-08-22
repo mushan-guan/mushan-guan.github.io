@@ -38,8 +38,28 @@ links:
     url: /hobbies/
   - title: Career
     url: /career/
-  - title: Startups
-    url: /startups/
+  - title: Mg
+    url: /paper_mg/
+  - title: AC
+    url: /paper_ac/
+  - title: OLC
+    url: /paper_olc/
+  - title: Neut
+    url: /paper_neut/
+  - title: MonoMac
+    url: /paper_monomac/
+  - title: Tc
+    url: /paper_Tc/
+  - title: Neuron
+    url: /paper_neuron/
+  - title: BBB
+    url: /paper_BBB/
+  - title: CNStumor
+    url: /paper_CNStumor/
+  - title: Gene
+    url: /paper_gene/
+  - title: Other
+    url: /paper_other/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
