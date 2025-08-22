@@ -524,7 +524,7 @@ SNF2家族ATP酶HELLS及其激活因子CDCA7的突变会导致免疫缺陷、着
 
 2023 ***Cell***. *Robert A. Martienssen*. Chromatin remodeling of histone H3 variants by DDM1 underlies epigenetic inheritance of DNA methylation
 
-<[img src="https://github.com/mushan-guan/mushan-guan.github.io/blob/main/paper_pic/HELLS/img4.png" style="zoom:70%;" >
+<[img](https://github.com/mushan-guan/mushan-guan.github.io/blob/main/paper_pic/HELLS/img4.png) style="zoom:70%;" >
 
 核小体会阻碍DNA甲基转移酶的结合，除非它们被“DNA甲基化降低1”（DECREASE in DNA METHYLATION 1, DDM1/LSH/HELLS）重塑，该蛋白是一种类似Snf2的表观遗传遗传调控主因子。我们发现 DDM1促进了组蛋白变体H3.3向H3.1的替换。在DDM1突变体中，通过去除 H3.3伴侣蛋白HIRA，DNA甲基化部分恢复，而 H3.1伴侣蛋白CAF-1则变得必不可少。单颗粒冷冻电镜（cryo-EM）结构分析显示，DDM1与变体核小体结合的分辨率为 3.2 Å，揭示其与H3.3在组装所需残基附近及未修饰的H4尾部相互作用。其N端自抑制结构域会抑制活性，而解旋酶结构域中的二硫键则有助于活性的发挥。DDM1在细胞周期过程中与H3.1和H3.3共定位，并且与 DNA甲基转移酶MET1/Dnmt1共定位，但其功能会被H4K16乙酰化 阻断。雄性生殖系的H3.3变体MGH3/HTR10对DDM1重塑具有抗性，并在精子细胞中作为表观遗传遗传的“占位核小体”。
 
