@@ -66,6 +66,14 @@ title: Literature
 
 ------
 
+2025 Cell Rep. Spatiotemporal profiling reveals the impact of caloric restriction in the aging mammalian brain
+
+
+
+<br>
+
+------
+
 2024 ***Adv Sci***. *熊利泽*. Clec7a Worsens Long-Term Outcomes after Ischemic Stroke by Aggravating Microglia-Mediated Synapse Elimination
 
 缺血性中风是全球导致发病率和死亡率的主要原因。中枢神经系统中的小胶质细胞在神经保护和应对缺血性脑损伤中发挥着双重作用。在本研究中，采用缺血性中风模型来确定小胶质细胞在兴奋性突触吞噬过程中的参与情况。此外，还研究了通过药理学去除小胶质细胞对改善神经行为学结局和减轻脑损伤的效果。小胶质细胞的 RNA 测序揭示出与吞噬作用相关的途径活动和基因表达的增加，C 型凝集素样受体家族 7 成员 A（Clec7a）被识别为这一过程的关键调控因子。调控小胶质细胞中 Clec7a 的表达可以潜在地调节小胶质细胞对突触的吞噬，从而防止突触丧失，并改善缺血性中风后的神经行为学结局。进一步研究表明，小胶质细胞的 Clec7a 与神经元的髓系分化蛋白 2（MD2）相互作用，后者是介导中风后神经损伤的关键分子。我们提出了一个新的假设，认为 MD2 是小胶质细胞 Clec7a 的配体。这些发现表明，小胶质细胞 Clec7a 在缺血性中风小鼠模型中在介导突触吞噬中发挥关键作用，提示 Clec7a 可能成为缺血性中风的治疗靶点。
@@ -516,7 +524,7 @@ SNF2家族ATP酶HELLS及其激活因子CDCA7的突变会导致免疫缺陷、着
 
 2023 ***Cell***. *Robert A. Martienssen*. Chromatin remodeling of histone H3 variants by DDM1 underlies epigenetic inheritance of DNA methylation
 
-<img src="https://mushan-guan.github.io/img4.png" style="zoom:70%;" >
+<img src="https://mushan-guan.github.io/Hells/img4.png" style="zoom:70%;" >
 
 核小体会阻碍DNA甲基转移酶的结合，除非它们被“DNA甲基化降低1”（DECREASE in DNA METHYLATION 1, DDM1/LSH/HELLS）重塑，该蛋白是一种类似Snf2的表观遗传遗传调控主因子。我们发现 DDM1促进了组蛋白变体H3.3向H3.1的替换。在DDM1突变体中，通过去除 H3.3伴侣蛋白HIRA，DNA甲基化部分恢复，而 H3.1伴侣蛋白CAF-1则变得必不可少。单颗粒冷冻电镜（cryo-EM）结构分析显示，DDM1与变体核小体结合的分辨率为 3.2 Å，揭示其与H3.3在组装所需残基附近及未修饰的H4尾部相互作用。其N端自抑制结构域会抑制活性，而解旋酶结构域中的二硫键则有助于活性的发挥。DDM1在细胞周期过程中与H3.1和H3.3共定位，并且与 DNA甲基转移酶MET1/Dnmt1共定位，但其功能会被H4K16乙酰化 阻断。雄性生殖系的H3.3变体MGH3/HTR10对DDM1重塑具有抗性，并在精子细胞中作为表观遗传遗传的“占位核小体”。
 
