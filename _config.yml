@@ -1,5 +1,5 @@
 title: Qibiao Guan
-# tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
+# tagline: Here is personal website of Qibiao Guan. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
 url: https://mushan-guan.github.io/
@@ -11,20 +11,11 @@ owner:
   # bio: Two roads diverged in woods, I took the one less traveled by.
   # email: qibiaoguan@163.com
   # wechat: gqb1900
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
   github: mushan-guan
-  # linkedin: hanlincai
-  # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # bilibili: 594030035
-  # researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  # zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  # researchgate: 
   # lastfm:
   # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
   # google_plus:
 
 # Analytics and webmaster tools stuff goes here
@@ -41,8 +32,6 @@ links:
     url: /
   - title: Publications
     url: /publications/
-  - title: Literature 
-    url: /literature/
   - title: Awards
     url: /awards/
   - title: Hobbies
@@ -51,6 +40,30 @@ links:
     # url: /startups/
   - title: Career
     url: /career/
+  - title: Mg
+    url: /paper_mic/
+  - title: AC
+    url: /paper_ac/
+  - title: OLC
+    url: /paper_olc/
+  - title: Neut
+    url: /paper_neut/
+  - title: MonoMac 
+    url: /paper_monomac/
+  - title: Tc
+    url: /paper_Tc/
+  - title: Neuron
+    url: /paper_neuron/
+  - title: Tc
+    url: /paper_Tc/
+  - title: BBB
+    url: /paper_BBB/
+  - title: CNStumor
+    url: /paper_CNStumor/
+  - title: Gene
+    url: /paper_gene/
+  - title: Other
+    url: /paper_other/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -82,9 +95,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: mushan
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# Latest update in 2023/12/10 by Hanlin Cai.
