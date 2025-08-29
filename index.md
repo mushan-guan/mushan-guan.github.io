@@ -31,6 +31,8 @@ Hi! Here is **Qibiao Guan (管其标)**.
     - Method: Cell Ranger ATAC, Seurat, ArchR, Signac, ChromVAR, Cicero, SnapATAC2
   - spatial ATAC-seq
     - Method: Seurat, ArchR
+  - BS-seq
+    - Method: Fastp, bismark, BatMeth2
   - bulk HiC-seq
     - Method: Fastp, BWA, Samtools, HiCExplorer, cooler, juicer, hicrep, calder2, mustache, HiContacts, pyGenomeTracks
   - single-cell VDJ-seq
@@ -48,7 +50,6 @@ Hi! Here is **Qibiao Guan (管其标)**.
     - Method: 3D Slicer, PyRadiomics
   - 正在学习：
     - 分子对接与分子动力学
-    - BS-seq
     - lncRNA-seq
     - small RNA-seq
 
