@@ -31,7 +31,7 @@ Hi! Here is **Qibiao Guan (管其标)**.
     - Method: Cell Ranger ATAC, Seurat, ArchR, Signac, ChromVAR, Cicero, SnapATAC2
   - spatial ATAC-seq
     - Method: Seurat, ArchR
-  - BS-seq
+  - WGBS-seq
     - Method: Fastp, bismark, BatMeth2
   - bulk HiC-seq
     - Method: Fastp, BWA, Samtools, HiCExplorer, cooler, juicer, hicrep, calder2, mustache, HiContacts, pyGenomeTracks
