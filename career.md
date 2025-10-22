@@ -136,7 +136,7 @@ title: Career
 
   
 
-- **2024/10/05 - 至今**<br>**北京飞羽成员(第十二届)**<br>前往北京奥林匹克森林公园，进行公众鸟类科普([2025/5/24]([微信公众平台](https://mp.weixin.qq.com/s/rgNDxVmxa6neXBrtmJQtdQ)), 2025/12/21)
+- **2024/10/05 - 至今**<br>**北京飞羽成员(第十二届)**<br>前往北京奥林匹克森林公园，进行公众鸟类科普([2025/5/24](https://mp.weixin.qq.com/s/rgNDxVmxa6neXBrtmJQtdQ), 2025/12/21)
 
   
 
