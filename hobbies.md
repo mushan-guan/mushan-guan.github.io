@@ -61,25 +61,29 @@ title: Hobbies
 
 自然摄影、微距摄影
 
-主要拍摄器材：<br>
+主要器材：<br>
 
-- Nikon Z50II
-- Nikon Nikkor Z MC 105mm f/2.8 VR S
-- Nikon Nikkor Z DX 16-50mm f/3.5-6.3 VR
-- Canon EOS 6D
-- Canon EF 50mm f/1.8 STM
-- Canon EF 17-40mm f/4 USM
-- LAOWA FF 100mm f/2.8 CA-Dreamer Macro 2X
-- TAMRON SP 150-600mm f/5-6.3 Di VC USD G2 (A022)
-- Kuangren k909
-- Godox TT520II
-- Raynox DCR-250 2.5x Super Macro Lens
-- SIRUI A1005+Y10 (TY50E)
+- 尼康 (Nikon) Z50II (1台)
+- 尼康 (Nikon) Nikkor Z MC 105mm f/2.8 VR S (1台)
+- 尼康 (Nikon) Nikkor Z DX 16-50mm f/3.5-6.3 VR (1台)
+- 佳能 (Canon) EOS 6D (1台)
+- 佳能 (Canon) EF 50mm f/1.8 STM (1台)
+- 佳能 (Canon) EF 17-40mm f/4 USM (1台)
+- 老蛙 (LAOWA) FF 100mm f/2.8 CA-Dreamer Macro 2X (1台)
+- 腾龙 (TAMRON) SP 150-600mm f/5-6.3 Di VC USD G2 (A022) (1台)
+- 狂人 (Kuangren) k909 (1台)
+- 神牛 (Godox) TT520II (1台)
+- 雷诺士 (Raynox) DCR-250 2.5x Super Macro Lens (1台)
+- 思锐 (SIRUI) A1005+Y10 (TY50E) 相机三脚架 (1台)
 - 梵帕/新驰仕户外移动电源 输出电压AC-220V/50Hz 最大输出功率600W 型号24万mAh 960Wh (1台)
 - 300W / 500W / 1000W高压汞灯
 - 昆虫灯诱帐篷 (1台)
-- 18650锂电池 (若干节)
-- 优威视讯野生动物红外自动监视仪 UVL2 + 64G SD卡 (1台)
+- 镜姿显微镜 TV 粗调微调款 28000倍 5寸显示屏 195消色差物镜 (1台)
+- 艾睿 (InfiRay outdoor) 巡逻舰R1+ 手持一体机热成像 (1台)
+- 优威视讯 (UOVision) 野生动物红外自动监视仪 UVL2 + 64G SD卡 (1台)
+- 博冠 (BOSMA) 驴友8×42望远镜
+- 萨迦 (SAGA) 观雀II 20-60X80ED观鸟单筒望远镜 (1台)
+- 5号碱性电池、18650锂电池及充电器、21700锂电池及充电器 (若干节)
 
 <br>
 
