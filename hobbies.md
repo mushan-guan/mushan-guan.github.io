@@ -69,8 +69,11 @@ title: Hobbies
 - 佳能 (Canon) EOS 6D (1台)
 - 佳能 (Canon) EF 50mm f/1.8 STM (1台)
 - 佳能 (Canon) EF 17-40mm f/4 USM (1台)
-- 老蛙 (LAOWA) FF 100mm f/2.8 CA-Dreamer Macro 2X (1台)
-- 腾龙 (TAMRON) SP 150-600mm f/5-6.3 Di VC USD G2 (A022) (1台)
+- 老蛙 (LAOWA) FF 100mm f/2.8 CA-Dreamer Macro 2X 佳能EF卡口 (1台)
+- 腾龙 (TAMRON) 150-500mm f/5-6.7 Di III VC VXD (A057) 尼康Z卡口 (1台)
+- 腾龙 (TAMRON) SP 150-600mm f/5-6.3 Di VC USD G2 (A022) 佳能EF卡口 (1台)
+- 卡色 (Kase) MCUV III 82mm (1片)
+- 卡色 (Kase) CPL III 62mm (1片)
 - 狂人 (Kuangren) k909 (1台)
 - 神牛 (Godox) TT520II (1台)
 - 雷诺士 (Raynox) DCR-250 2.5x Super Macro Lens (1台)
@@ -579,6 +582,8 @@ title: Hobbies
 - 2025/10/19 北京市房山区乐活中堤，东城区国家大剧院 柏林爱乐弦乐四重奏音乐会
 - 2025/10/24 北京市门头沟区小店子村京西古道(**放置红外相机**)
 - 2025/10/31 北京市门头沟区小店子村京西古道(**检查红外相机**)
+- 2025/11/13 7:55 北京市大兴区大兴机场 → 11:00 四川省成都市天府机场T2 厦航MF8437 49A；13:40 天府机场T2 → 15:45 云南省临沧市沧源佤族自治县佤山机场 49A；沧源县鑫矗酒店(葫芦湖公园店)
+- 2025/11/17 13:45 云南省临沧市沧源佤族自治县佤山机场 → 14:50 云南省昆明市长水机场 49A；17:15 长水机场 → 20:15 北京市大兴区大兴机场 62A
 
 
 
