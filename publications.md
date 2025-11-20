@@ -8,27 +8,7 @@ title: Publications
 
 > (†: equal contribution, #: corresponding author)
 
-- Stroke NSC<br>**Tingting Zhang**†, **Da Li**†, **Qibiao Guan**†, Baoyang Hu#<br>2025.<br>
-
-- Stroke
-
-- Dementia
-
-- CH
-
-- Brain Tumor
-
-- Skull
-
-- RBC
-
-- Mitochondria
-
-- de novo gene
-
-- EMT
-
-- Transdifferentiation
+- Tingting Zhang†, Da Li†, **Qibiao Guan**, Bin An, Yun Sun, Qiang Wang, Yukai Wang, Baoyang Hu#. Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke. *CNS Neuroscience & Therapeutics*. 2025.<br>
 
    <br>
 
