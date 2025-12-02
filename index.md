@@ -23,7 +23,7 @@ Hi! Here is **Qibiao Guan (管其标)**.
     - Platform: **10x Genomics Chromium**, 华大智造DNBelab C4, 寻因生物Seekone DD
     - Method: Cell Ranger, Seurat, Scanpy, SCP, SoupX, DecontX, DoubletFinder, Scrublet, tricycle, SCTransform, Harmony, CCA, scVI, singleR, GPTcelltype, CellTypist, projectR, ProjecTILs, scvelo, Monocle v2/v3, Slingshot, PAGA, CytoTRACE v1/v2, PHATE, CellRank, Vector, DPT, AUCell, pertpy, MetaCell, drug2cell, SAMap, SEVTras, seismic, inferCNV, copyKat, cellsnp-lite, Ro/e, miloR, scProgram, cNMF, GeneNMF, CoGAPS, hdWGCNA, SCENIC, CellChat, CellPhoneDB, NicheNet, ROGUE, projectLSI
   - spatial RNA-seq
-    - Platform: **10x Genomics Visium** / Visium HD / Xenium, 华大Stereo-seq, MERFISH, seqFISH, Slide-seqV2
+    - Platform: **10x Genomics Visium** / Visium HD / Xenium, **华大Stereo-seq**, MERFISH, seqFISH, Slide-seqV2
     - Method: Space Ranger, Seurat, Scanpy, Squidpy, Cell2location, RCTD, MIA, SpaCET, nicheDE, LIANA, MISTy, dbscan, Banksy, hotspot, Stereopy, LSGI, stlearn, commot, SOAPy_st, SPATA2, scvelo
   - **bulk ATAC-seq** / ChIP-seq
     - Method: Fastp, Botiew2, Samtools, Deeptools, Picard, MACS2, Uropa, HOMER, Bedtools, Subread, DiffBind, sva, limma, edgeR, ChIPseeker, TOBIAS, ATACseqQC
@@ -31,8 +31,10 @@ Hi! Here is **Qibiao Guan (管其标)**.
     - Method: Cell Ranger ATAC, Seurat, ArchR, Signac, ChromVAR, Cicero, SnapATAC2
   - spatial ATAC-seq
     - Method: Seurat, ArchR
-  - WGBS-seq
-    - Method: Fastp, bismark, BatMeth2
+  - **BS-seq**
+    - Method: Fastp, bismark, BatMeth2, methylKit
+  - Illumina Methylation BeadArray (EPIC, 450k)
+    - ChAMP
   - bulk HiC-seq
     - Method: Fastp, BWA, Samtools, HiCExplorer, cooler, juicer, hicrep, calder2, mustache, HiContacts, pyGenomeTracks
   - single-cell VDJ-seq
