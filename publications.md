@@ -4,11 +4,11 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-## Paper
+## Papers
 
 > (†: equal contribution, #: corresponding author)
 
-- Tingting Zhang†, Da Li†, **Qibiao Guan**, Bin An, Yun Sun, Qiang Wang, Yukai Wang, Baoyang Hu#. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). *CNS Neuroscience & Therapeutics*. 2026.<br>
+- Tingting Zhang†, Da Li†, **Qibiao Guan**, Bin An, Yun Sun, Qiang Wang, Yukai Wang#, Baoyang Hu#. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). *CNS Neuroscience & Therapeutics*. 2026.<br>
 
    <br>
 
