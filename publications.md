@@ -16,10 +16,6 @@ title: Publications
 
 ## Degree Thesis
 
-- 基于多组学对缺血性脑卒中与卒中后认知障碍的研究. 2026年医学博士学位论文<br>Advisor: 中国科学院，动物研究所，胡宝洋研究员<br>
-
-
-
 - [江苏省非洲马瘟传入和传播的定性风险分析和管理. 2021年农学学士学位论文](https://mushan-guan.github.io/mypaper/thesis/NJAU.pdf)<br>Advisor: 南京农业大学，农业农村部动物细菌学重点实验室，杨振副教授<br>
 
   <br>
