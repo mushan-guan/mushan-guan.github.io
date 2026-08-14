@@ -448,7 +448,15 @@ footer a:hover {
 
 
 
-/* 只让 publication-list 里的有序列表显示为阿拉伯数字 */
-.publication-list ol {
-    list-style-type: decimal !important;
+/* 缩小列表项之间的行距（适用于正文中的列表） */
+#main li,
+.page__content li {
+    margin-bottom: 0.2em !important;   /* 控制项目之间的上下间距，数值越小越紧凑 */
+    line-height: 1.5 !important;       /* 控制单行文字的高度，默认1.65，调小可压缩 */
+}
+
+/* 如果列表项里的文字有段落标签，也一并压缩 */
+#main li p,
+.page__content li p {
+    margin-bottom: 0.1em !important;
 }
