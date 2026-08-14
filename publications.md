@@ -11,37 +11,37 @@ classes: wide
 
 **Published Articles**
 
-1. Tingting Zhang†, Da Li†, **Qibiao Guan**, Bin An, Yun Sun, Qiang Wang, Yukai Wang#, Baoyang Hu#. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). **CNS Neuroscience & Therapeutics**. 2026.<br>
+1.Tingting Zhang†, Da Li†, **Qibiao Guan**, Bin An, Yun Sun, Qiang Wang, Yukai Wang#, Baoyang Hu#. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). **CNS Neuroscience & Therapeutics**. 2026.<br>
 
 <br>
 
 **Manuscripts Under Review**
 
-2. <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke</font>. †1-3 (Acta Pharmaceutica Sinica B)
+2.<font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke</font>. †1-3 (Acta Pharmaceutica Sinica B)
 
-3. <font color='A8C0D8'>CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle</font>. †1-2
+3.<font color='A8C0D8'>CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle</font>. †1-2
 
-4. <font color='A8C0D8'>C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis</font>.  †1-3
+4.<font color='A8C0D8'>C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis</font>.  †1-3
 
-6. <font color='A8C0D8'>scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease</font>. Co-author (Nucleic Acids Research)
+5.<font color='A8C0D8'>scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease</font>. Co-author (Nucleic Acids Research)
 
-7. <font color='A8C0D8'>GABAergic Neuronal Conversion in a Mouse Model of Alzheimer's Disease</font>. Co-author
+6.<font color='A8C0D8'>GABAergic Neuronal Conversion in a Mouse Model of Alzheimer's Disease</font>. Co-author
 
 <br>
 
 **Manuscript in preparation**
 
-8. <font color='A8C0D8'>Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses</font>. †1-2
+7.<font color='A8C0D8'>Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses</font>. †1-2
 
-9. <font color='A8C0D8'>Stroke+SVD</font>. †1-1
+8.<font color='A8C0D8'>Stroke+SVD</font>. †1-1
 
-10. <font color='A8C0D8'>Stroke+Hells</font>. †1-1
+9.<font color='A8C0D8'>Stroke+Hells</font>. †1-1
 
-11. <font color='A8C0D8'>Stroke+mitoNSC</font>. †1-4
+10.<font color='A8C0D8'>Stroke+mitoNSC</font>. †1-4
 
-12. <font color='A8C0D8'>DNAH10OS</font>. Co-author
+11.<font color='A8C0D8'>DNAH10OS</font>. Co-author
 
-13. <font color='A8C0D8'>AD+SST</font>. Co-author
+12.<font color='A8C0D8'>AD+SST</font>. Co-author
 
 ---
 
