@@ -5,19 +5,13 @@ title: Publications
 classes: wide
 ---
 
-## Papers
-
 > (†: equal contribution, #: corresponding author)
 
-
-
-**Published Articles**
+## **Published Articles**
 
 - Tingting Zhang†, Da Li†, **Qibiao Guan**, Bin An, Yun Sun, Qiang Wang, Yukai Wang#, Baoyang Hu#. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). **CNS Neuroscience & Therapeutics**. 2026.<br>
 
-<br>
-
-**Manuscripts Under Review**
+## **Manuscripts Under Review**
 
 - <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke. <strong>†1-3</strong> (Acta Pharmaceutica Sinica B)</font>
 
@@ -26,9 +20,7 @@ classes: wide
 - <font color='A8C0D8'>scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease. Co-author (Nucleic Acids Research)</font>
 - <font color='A8C0D8'>GABAergic Neuronal Conversion in a Mouse Model of Alzheimer's Disease. Co-author</font>
 
-<br>
-
-**Manuscript in preparation**
+## **Manuscript in preparation**
 
 - <font color='A8C0D8'>Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses. <strong>†1-2</strong></font>
 - <font color='A8C0D8'>Stroke+SVD. <strong>†1-1</strong></font>
@@ -40,8 +32,6 @@ classes: wide
 ---
 
 ## Projects
-
-<br>
 
 - 2021/09 - 2027/06<br>
 
