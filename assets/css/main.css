@@ -445,3 +445,10 @@ footer a:hover {
     -moz-hyphens: auto;
     hyphens: auto;
 }
+
+
+
+/* 只让 publication-list 里的有序列表显示为阿拉伯数字 */
+.publication-list ol {
+    list-style-type: decimal !important;
+}
