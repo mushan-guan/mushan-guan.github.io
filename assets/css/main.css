@@ -419,3 +419,14 @@ footer a:hover {
     text-decoration: none !important;
     border-bottom: none !important;
 }
+
+
+
+/* 让 wide 页面里的文章内容真正铺开 */
+.wide #main article,
+.wide article {
+    width: 100% !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+    max-width: 100% !important;  /* 如果有 max-width 限制，也一并去掉 */
+}
