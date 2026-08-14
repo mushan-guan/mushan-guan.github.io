@@ -33,7 +33,7 @@ classes: wide
 
 ## Projects
 
-- 2021/09 - 2027/06<br>中国科学院动物研究所 -- 器官再生与智造重点实验室，师从[胡宝洋研究员](https://ioz.cas.cn/sourcedb/zw/zjrc/201104/t20110428_3122823.html)，同时接受首都医科大学[朱彦兵教授](https://yjsh.ccmu.edu.cn/dsdw/dsjj/ssyjsds/sdykdxfsbjyyyy1/sjbx07/202520527387932041748491.htm)指导<br>
+- 2021/09 - 至今<br>中国科学院动物研究所 -- 器官再生与智造重点实验室，师从[胡宝洋研究员](https://ioz.cas.cn/sourcedb/zw/zjrc/201104/t20110428_3122823.html)，同时接受首都医科大学[朱彦兵教授](https://yjsh.ccmu.edu.cn/dsdw/dsjj/ssyjsds/sdykdxfsbjyyyy1/sjbx07/202520527387932041748491.htm)指导<br>
 
 <br>
 
