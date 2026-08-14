@@ -21,19 +21,17 @@ Hi! Here is **Qibiao Guan (管其标)**. I am a Ph.D. candidate in Regenerative 
 
 ## Education
 
-- 2016/09 – 2021/06 **南京农业大学**，动物医学，农学学士
+- Sep 2016 – Jun 2021 **Nanjing Agricultural University**, Veterinary Medicine, Bachelor of Agriculture
 
-- 2021/09 – 至今 **中国科学院大学**，再生医学，医学博士在读，培养单位为中国科学院动物研究所<br>
+- Sep 2021 – present **University of Chinese Academy of Sciences**, Regenerative Medicine, Ph.D. candidate in Medicine (training at the Institute of Zoology, Chinese Academy of Sciences)<br>
 
 
 ------
 
 ## Contact
 
-- 中国科学院动物研究所
-- 器官再生与智造全国重点实验室
+- Key Laboratory of Organ Regeneration and Reconstruction, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, China.
 - E-mail: qibiaoguan@ioz.ac.cn; qibiaoguan@163.com
-- Address: 北京市朝阳区大屯路甲3号，100101
 - [This website](https://github.com/mushan-guan/mushan-guan.github.io)
 
 <br>
