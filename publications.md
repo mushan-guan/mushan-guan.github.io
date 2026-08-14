@@ -17,22 +17,23 @@ classes: wide
 
 **Manuscripts Under Review**
 
-- <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke</font>.†1-3 (Acta Pharmaceutica Sinica B)
-- <font color='A8C0D8'>CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle</font>.†1-2
-- <font color='A8C0D8'>C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis</font>. †1-3
-- <font color='A8C0D8'>scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease</font>.Co-author (Nucleic Acids Research)
-- <font color='A8C0D8'>GABAergic Neuronal Conversion in a Mouse Model of Alzheimer's Disease</font>.Co-author
+- <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke. **†1-3** (Acta Pharmaceutica Sinica B)</font>
+
+- <font color='A8C0D8'>CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle. **†1-2**</font>
+- <font color='A8C0D8'>C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis. **†1-3**</font>
+- <font color='A8C0D8'>scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease. Co-author (Nucleic Acids Research)</font>
+- <font color='A8C0D8'>GABAergic Neuronal Conversion in a Mouse Model of Alzheimer's Disease. Co-author</font>
 
 <br>
 
 **Manuscript in preparation**
 
-- <font color='A8C0D8'>Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses</font>.†1-2
-- <font color='A8C0D8'>Stroke+SVD</font>.†1-1
-- <font color='A8C0D8'>Stroke+Hells</font>.†1-1
-- <font color='A8C0D8'>Stroke+mitoNSC</font>.†1-4
-- <font color='A8C0D8'>DNAH10OS</font>.Co-author
-- <font color='A8C0D8'>AD+SST</font>.Co-author
+- <font color='A8C0D8'>Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses. **†1-2**</font>
+- <font color='A8C0D8'>Stroke+SVD. **†1-1**</font>
+- <font color='A8C0D8'>Stroke+Hells. **†1-1**</font>
+- <font color='A8C0D8'>Stroke+mitoNSC. **†1-4**</font>
+- <font color='A8C0D8'>DNAH10OS. Co-author</font>
+- <font color='A8C0D8'>AD+SST. Co-author</font>
 
 ---
 
@@ -40,7 +41,7 @@ classes: wide
 
 <br>
 
-- 2021/09 - 至今<br>
+- 2021/09 - 2027/06<br>
 
   中国科学院动物研究所 -- 器官再生与智造重点实验室，师从[胡宝洋研究员](https://ioz.cas.cn/sourcedb/zw/zjrc/201104/t20110428_3122823.html)，同时接受首都医科大学[朱彦兵教授](https://yjsh.ccmu.edu.cn/dsdw/dsjj/ssyjsds/sdykdxfsbjyyyy1/sjbx07/202520527387932041748491.htm)指导<br>
 
