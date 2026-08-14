@@ -5,7 +5,7 @@ classes: wide
 
 # About Me
 
-<img src="https://mushan-guan.github.io/guanqibiao.jpg" class="floatpic" style="zoom:40%;">
+<img src="https://mushan-guan.github.io/guanqibiao.jpg" class="floatpic" style="zoom:20%;">
 
 Hi! Here is **Qibiao Guan (管其标)**.
 
