@@ -430,3 +430,18 @@ footer a:hover {
     margin-right: 0 !important;
     max-width: 100% !important;  /* 如果有 max-width 限制，也一并去掉 */
 }
+
+
+
+/* 全局两端对齐：让正文段落和列表项两端对齐 */
+#main p,
+#main li,
+#main .article-wrap,
+#main .page__content,
+#main .entry-content {
+    text-align: justify;
+    text-justify: inter-ideograph;  /* 对中文/日文等表意文字优化对齐效果 */
+    -webkit-hyphens: auto;          /* 允许自动断词，减少单词间过大空白（英文） */
+    -moz-hyphens: auto;
+    hyphens: auto;
+}
