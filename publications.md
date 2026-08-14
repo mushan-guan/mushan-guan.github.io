@@ -15,14 +15,23 @@ classes: wide
 
 **Manuscripts Under Review**
 
-1. C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis. co-author 1-3
-2. UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke. co-author 1-3 (Acta Pharmaceutica Sinica B)
-
-
+- C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis. Co-first author 1-3
+- UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke. Co-first author 1-3 (Acta Pharmaceutica Sinica B)
+- scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease. Co-author (Nucleic Acids Research)
+- CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle. Co-first author 1-2
+- Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses. Co-first author 1-2
+- GABAergic Neuronal Conversion in a Mouse Model of Alzheimer's Disease. Co-author
+- Stroke+SVD. Co-first author 1-1
+- Stroke+Hells. Co-first author 1-1
+- Stroke+mitoNSC. Co-first author 1-4
+- DNAH10OS. Co-author
+- AD+SST. Co-author
 
 ---
 
 ## Projects
+
+
 
 - 2021/09 - 至今<br>
 
