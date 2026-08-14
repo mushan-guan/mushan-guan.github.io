@@ -7,19 +7,20 @@ classes: wide
 
 <img src="https://mushan-guan.github.io/guanqibiao.jpg" style="width: 80px; height: auto; float: right; margin-left: 1em;">
 
-Hi! Here is **Qibiao Guan (管其标)**.
-
-我是一名再生医学专业的研究生，目前正在**中国科学院动物研究所**攻读医学博士学位，研究方向包括：利用单细胞多组学等技术系统解析神经损伤疾病（如缺血性脑卒中）以及脑室罕见肿瘤等儿童罕见神经疾病的病理机制<br>
+Hi! Here is **Qibiao Guan (管其标)**. I am a Ph.D. candidate in Regenerative Medicine at the **Institute of Zoology, Chinese Academy of Sciences**, where I am pursuing a medical doctorate. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
 
 ------
 
 ## Skill
 
-- **数据分析**：我擅长基于linux、R、Python的生物信息学数据分析
+**Data Analysis**
+I am proficient in bioinformatics data analysis using Linux, R, and Python.
 
-- **实验技术**：我基本掌握常规分子细胞实验，小鼠行为学测试，实验动物灌注、组织切片与免疫荧光等技术
+**Experimental Techniques**
+I have a solid command of routine molecular and cellular biology experiments, mouse behavioral tests, as well as animal perfusion, tissue sectioning, and immunofluorescence.
 
-- **英语水平**：我已经通过大学英语四六级考试，能够熟练阅读英文文献
+**English Proficiency**
+I have passed the College English Test (CET‑4 and CET‑6) and am able to read English scientific literature fluently.
 
 ------
 
