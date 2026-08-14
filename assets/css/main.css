@@ -451,7 +451,7 @@ footer a:hover {
 /* 缩小列表项之间的行距（适用于正文中的列表） */
 #main li,
 .page__content li {
-    margin-bottom: 0.1em !important;   /* 控制项目之间的上下间距，数值越小越紧凑 */
+    margin-bottom: 0.15em !important;   /* 控制项目之间的上下间距，数值越小越紧凑 */
     line-height: 1.2 !important;       /* 控制单行文字的高度，默认1.65，调小可压缩 */
 }
 
