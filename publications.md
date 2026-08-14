@@ -17,10 +17,10 @@ classes: wide
 
 **Manuscripts Under Review**
 
-- <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke. **†1-3** (Acta Pharmaceutica Sinica B)</font>
+- <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke. <strong>†1-3</strong> (Acta Pharmaceutica Sinica B)</font>
 
-- <font color='A8C0D8'>CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle. **†1-2**</font>
-- <font color='A8C0D8'>C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis. **†1-3**</font>
+- <font color='A8C0D8'>CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle. <strong>†1-2</strong></font>
+- <font color='A8C0D8'>C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis. <strong>†1-3</strong></font>
 - <font color='A8C0D8'>scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease. Co-author (Nucleic Acids Research)</font>
 - <font color='A8C0D8'>GABAergic Neuronal Conversion in a Mouse Model of Alzheimer's Disease. Co-author</font>
 
@@ -28,10 +28,10 @@ classes: wide
 
 **Manuscript in preparation**
 
-- <font color='A8C0D8'>Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses. **†1-2**</font>
-- <font color='A8C0D8'>Stroke+SVD. **†1-1**</font>
-- <font color='A8C0D8'>Stroke+Hells. **†1-1**</font>
-- <font color='A8C0D8'>Stroke+mitoNSC. **†1-4**</font>
+- <font color='A8C0D8'>Dnmt3a Deficiency in Myeloid Cells Accelerates Ischemic Stroke by Reprogramming Neuroimmune Responses. <strong>†1-2</strong></font>
+- <font color='A8C0D8'>Stroke+SVD. <strong>†1-1</strong></font>
+- <font color='A8C0D8'>Stroke+Hells. <strong>†1-1</strong></font>
+- <font color='A8C0D8'>Stroke+mitoNSC. <strong>†1-4</strong></font>
 - <font color='A8C0D8'>DNAH10OS. Co-author</font>
 - <font color='A8C0D8'>AD+SST. Co-author</font>
 
