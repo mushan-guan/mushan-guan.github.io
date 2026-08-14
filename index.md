@@ -35,6 +35,21 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 - 2021/09 – 至今<br>**中国科学院大学**，再生医学，医学博士在读，培养单位为中国科学院动物研究所<br>
 
+
+
+<ul class="edu-list">
+  <li>
+    <div class="edu-degree">再生医学，博士在读</div>
+    <div class="edu-meta"><span>中国科学院大学，培养单位为中国科学院动物研究所</span><time>2021/09 – 至今</time></div>
+  </li>
+  <li>
+    <div class="edu-degree">动物医学，农学学士</div>
+    <div class="edu-meta"><span>南京农业大学</span><time>2016 – 2020</time></div>
+  </li>
+</ul>
+
+
+
 ------
 
 ## Contact
