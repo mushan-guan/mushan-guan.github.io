@@ -7,7 +7,7 @@ classes: wide
 
 <img src="https://mushan-guan.github.io/guanqibiao.jpg" style="width: 90px; height: auto; float: right; margin-left: 1em;">
 
-Hi! Here is **Qibiao Guan (管其标)**. I am a Ph.D. candidate in Regenerative Medicine at the **Institute of Zoology, Chinese Academy of Sciences**, where I am pursuing a medical doctorate. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
+Hi! Here is **Qibiao Guan (管其标)**. I am a Ph.D. candidate in Regenerative Medicine at the **Institute of Zoology, Chinese Academy of Sciences**. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
 
 ------
 
