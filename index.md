@@ -28,9 +28,15 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 ## Education
 
-<font color="#000000">2016/09 – 2021/06</font><br><font color="#000000">南京农业大学，动物医学，农学学士</font>
+<font color="#000000">2016/09 – 2021/06</font>
 
-<font color="#000000">2021/09 – 至今</font><br><font color="#000000">中国科学院大学，再生医学，医学博士在读，培养单位为中国科学院动物研究所</font><br>
+<font color="#000000">南京农业大学，动物医学，农学学士</font>
+
+<br>
+
+<font color="#000000">2021/09 – 至今</font>
+
+<font color="#000000">中国科学院大学，再生医学，医学博士在读，培养单位为中国科学院动物研究所</font><br>
 
 
 ------
