@@ -452,7 +452,7 @@ footer a:hover {
 #main li,
 .page__content li {
     margin-bottom: 0.15em !important;   /* 控制项目之间的上下间距，数值越小越紧凑 */
-    line-height: 1.4 !important;       /* 控制单行文字的高度，默认1.65，调小可压缩 */
+    line-height: 1.65 !important;       /* 控制单行文字的高度，默认1.65，调小可压缩 */
 }
 
 /* 如果列表项里的文字有段落标签，也一并压缩 */
