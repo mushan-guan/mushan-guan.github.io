@@ -30,7 +30,7 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 <font color="#000000">2016/09 – 2021/06</font>
 
-<font color="#000000">南京农业大学，动物医学，农学学士
+南京农业大学，动物医学，农学学士
 
 <br>
 
@@ -45,8 +45,8 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 - 中国科学院动物研究所
 - 器官再生与智造全国重点实验室
-- E-mail: <font color="#1E90FF">qibiaoguan@ioz.ac.cn</font>; <font color="#1E90FF">qibiaoguan@163.com</font>
+- E-mail: qibiaoguan@ioz.ac.cn; qibiaoguan@163.com
 - Address: 北京市朝阳区大屯路甲3号，100101
-- <font color="#1E90FF">[This website](https://github.com/mushan-guan/mushan-guan.github.io)</font>
+- [This website](https://github.com/mushan-guan/mushan-guan.github.io)
 
 <br>
