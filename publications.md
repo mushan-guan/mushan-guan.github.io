@@ -17,7 +17,7 @@ classes: wide
 
 **Manuscripts Under Review**
 
-- <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke</font>. †1-3 (Acta Pharmaceutica Sinica B)
+- <font color='A8C0D8'>UCP1 Protects Oligodendrocyte Lineage Cells Against Ferroptosis and Drives Myelin Regeneration Post Stroke</font> †1-3 (Acta Pharmaceutica Sinica B)
 - <font color='A8C0D8'>CD73-High Tumor Cells Drive Paroxysmal Ocular Movements and Hemifacial Spasm in Pontine Gangliogliomas Adjacent to the Fourth Ventricle</font>. †1-2
 - <font color='A8C0D8'> C1q/TNF‑related protein 4 regulates TLR2 pathway and suppresses herpes simplex encephalitis</font>.  †1-3
 - <font color='A8C0D8'>scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease</font>. Co-author (Nucleic Acids Research)
