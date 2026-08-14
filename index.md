@@ -5,7 +5,7 @@ classes: wide
 
 # About Me
 
-<img src="https://mushan-guan.github.io/guanqibiao.jpg" class="floatpic" width = 80 height = 106.6>
+<img src="https://mushan-guan.github.io/guanqibiao.jpg" class="floatpic" style="zoom:40%;">
 
 Hi! Here is **Qibiao Guan (管其标)**.
 
@@ -25,9 +25,9 @@ Hi! Here is **Qibiao Guan (管其标)**.
 
 ## Education
 
-- 2016/09 – 2021/06 南京农业大学，动物医学，农学学士
+- 2016/09 – 2021/06 **南京农业大学**，动物医学，农学学士
 
-- 2021/09 – 至今 中国科学院大学，再生医学，医学博士在读，培养单位为中国科学院动物研究所<br>
+- 2021/09 – 至今        **中国科学院大学**，再生医学，医学博士在读，培养单位为中国科学院动物研究所<br>
 
 
 ------
