@@ -30,7 +30,7 @@ classes: wide
 
 ## Contact
 
-- <font color='#014099'><strong>Key Laboratory of Organ Regeneration and Reconstruction</strong></font>, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, China.
+- <font color='#014099'>Key Laboratory of Organ Regeneration and Reconstruction</font>, Institute of Zoology, Chinese Academy of Sciences, Beijing 100101, China.
 - E-mail: qibiaoguan@ioz.ac.cn; qibiaoguan@163.com
 - [This website](https://github.com/mushan-guan/mushan-guan.github.io)
 
