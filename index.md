@@ -7,7 +7,7 @@ classes: wide
 
 <img src="https://mushan-guan.github.io/guanqibiao.jpg" style="width: 90px; height: auto; float: right; margin-left: 1em;">
 
-<font color='#BF002D'><strong>Hi! Here is</strong></font> <strong>Qibiao Guan (管其标)</strong>. I am a Ph.D. candidate in Regenerative Medicine at the <font color='#014099'><strong>Institute of Zoology, Chinese Academy of Sciences</strong></font>. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
+<span style="color:#BF002D; font-size: 2em; font-weight: bold;">Hi! Here is</span> <strong>Qibiao Guan (管其标)</strong>. I am a Ph.D. candidate in Regenerative Medicine at the <font color='#014099'><strong>Institute of Zoology, Chinese Academy of Sciences</strong></font>. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
 
 ------
 
@@ -15,7 +15,7 @@ classes: wide
 
 - **Data Analysis**: I am proficient in bioinformatics data analysis using Linux, R, and Python.
 - **Experimental Techniques**: I have a solid command of routine molecular and cellular biology experiments, mouse behavioral tests, as well as animal perfusion, tissue sectioning, and immunofluorescence.
-- **English Proficiency**: I have passed the College English Test (CET‑4 and CET‑6) and am able to read English scientific literature fluently.
+- **English Proficiency**: I have passed the College English Test (CET‑6) and am able to read English scientific literature fluently.
 
 ------
 
