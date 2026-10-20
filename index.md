@@ -7,7 +7,7 @@ classes: wide
 
 <img src="https://mushan-guan.github.io/guanqibiao.jpg" style="width: 90px; height: auto; float: right; margin-left: 1em;">
 
-Hi! Here is <font color='#014099'>**Qibiao Guan (管其标)**</font>. I am a Ph.D. candidate in Regenerative Medicine at the **Institute of Zoology, Chinese Academy of Sciences**. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
+<font color='#BF002D'><strong>Hi! Here is</strong></font> <strong>Qibiao Guan (管其标)</strong>. I am a Ph.D. candidate in Regenerative Medicine at the <font color='#014099'><strong>Institute of Zoology, Chinese Academy of Sciences</strong></font>. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
 
 ------
 
@@ -21,9 +21,9 @@ Hi! Here is <font color='#014099'>**Qibiao Guan (管其标)**</font>. I am a Ph.
 
 ## Education
 
-- Sep 2016 – Jun 2021 **Nanjing Agricultural University**, Veterinary Medicine, Bachelor of Agriculture
+- Sep 2016 – Jun 2021 <font color='#00A73C'><strong>Nanjing Agricultural University</strong></font>, Veterinary Medicine, Bachelor of Agriculture
 
-- Sep 2021 – present **University of Chinese Academy of Sciences**, Regenerative Medicine, Ph.D. candidate in Medicine (training at the Institute of Zoology, Chinese Academy of Sciences)<br>
+- Sep 2021 – present <font color='#014099'><strong>University of Chinese Academy of Sciences</strong></font>, Regenerative Medicine, Ph.D. candidate in Medicine<br>
 
 
 ------
