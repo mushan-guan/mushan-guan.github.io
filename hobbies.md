@@ -24,7 +24,7 @@ title: Hobbies
 
 ------
 
-- 2021/11 - 2025<br>中国科学院大学，春分工程科普宣讲团成员<br>因团队入选中国科协主办[“典赞·2023 科普中国”](https://www.kepuchina.cn/article/articleinfo?business_type=100&ar_id=490165)年度科普人物，<br>本人荣幸参与了**CCTV 10**节目录制，并接受[《中国青年报》](http://zqb.cyol.com/html/2024-04/01/nw.D110000zgqnb_20240401_1-05.htm)采访<br>
+- 2021/11 - 2025<br>中国科学院大学，春分工程科普宣讲团成员<br>因团队入选中国科协主办[“典赞·2023 科普中国”](https://www.kepuchina.cn/article/articleinfo?business_type=100&ar_id=490165)年度科普人物，本人荣幸参与了**CCTV 10**节目录制，并接受[《中国青年报》](http://zqb.cyol.com/html/2024-04/01/nw.D110000zgqnb_20240401_1-05.htm)采访<br>
 - 2022/4/2<br>在中国科学院大学官方公众号参与发表蝽类科普文章[不瞒你说，这篇推文有点“臭”！](https://mp.weixin.qq.com/s/WrZ61y_5FgXF3VJMmBb7Kw)<br>
 
 
