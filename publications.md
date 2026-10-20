@@ -13,22 +13,22 @@ classes: wide
 
 ## **Manuscripts Under Review**
 
-- <font color='A8C0D8'>UCP1. <strong>†1-3</strong> (Acta Pharmaceutica Sinica B)</font>
+- <font color='A8C0D8'>UCP*. <strong>†1-3</strong> </font>
 
-- <font color='A8C0D8'>CD73. <strong>†1-2</strong></font>
-- <font color='A8C0D8'>C1q/TNF. <strong>†1-3</strong></font>
-- <font color='A8C0D8'>Database. Co-author (Nucleic Acids Research)</font>
-- <font color='A8C0D8'>Neuronal Conversion. Co-author</font>
+- <font color='A8C0D8'>CD7*. <strong>†1-2</strong></font>
+- <font color='A8C0D8'>C4*. <strong>†1-3</strong></font>
+- <font color='A8C0D8'>Data*. Co-author</font>
+- <font color='A8C0D8'>Neuro*. Co-author</font>
 
 ## **Manuscript in preparation**
 
-- <font color='A8C0D8'>Dnmt3a. <strong>†1-2</strong></font>
-- <font color='A8C0D8'>PSCI. <strong>†1-1</strong></font>
-- <font color='A8C0D8'>Hells. <strong>†1-1</strong></font>
-- <font color='A8C0D8'>mito. <strong>†1-4</strong></font>
-- <font color='A8C0D8'>cec. Co-author</font>
-- <font color='A8C0D8'>Novel gene. Co-author</font>
-- <font color='A8C0D8'>AD+SST. Co-author</font>
+- <font color='A8C0D8'>Stroke+Dn. <strong>†1-2</strong></font>
+- <font color='A8C0D8'>Stroke+VD. <strong>†1-1</strong></font>
+- <font color='A8C0D8'>Stroke+He. <strong>†1-1</strong></font>
+- <font color='A8C0D8'>Stroke+mi. <strong>†1-4</strong></font>
+- <font color='A8C0D8'>Stroke+ce. Co-author</font>
+- <font color='A8C0D8'>New. Co-author</font>
+- <font color='A8C0D8'>AD+SS. Co-author</font>
 
 ---
 
@@ -38,7 +38,7 @@ classes: wide
 
 
 
-- 2021/01 – 2021/09<br>南京农业大学 -- 农业农村部动物细菌学重点实验室，师从[杨振副教授](https://faculty.njau.edu.cn/~zYnUNf/zh_CN/index.htm)，主持本科毕设(经费来源: 江苏省优势学科人才引进科研启动费(80900213)&南京农业大学高层次引进人才启动经费(804126))，撰写[学士学位论文: 江苏省非洲马瘟传入和传播的定性风险分析和管理](https://mushan-guan.github.io/mypaper/thesis/NJAU.pdf)，此外还参与了非洲猪瘟在南京市野猪中的流行病学调查
+- 2021/01 – 2021/09<br>南京农业大学 -- 农业农村部动物细菌学重点实验室，师从[杨振副教授](https://faculty.njau.edu.cn/~zYnUNf/zh_CN/index.htm)，主持本科毕设，撰写[学士学位论文: 江苏省非洲马瘟传入和传播的定性风险分析和管理](https://mushan-guan.github.io/mypaper/thesis/NJAU.pdf)，此外还参与了非洲猪瘟在南京市野猪中的流行病学调查
 
 
 
@@ -50,4 +50,4 @@ classes: wide
 
 
 
-- 2018/03 – 2019/05<br>南京农业大学 -- 教育部动物健康与食品安全国际联合实验室，师从[芮荣教授](https://faculty.njau.edu.cn/~ANZvei/zh_CN/index.htm)，主持校级SRT项目(经费来源: 南京农业大学SRT计划(1817A10)&国家自然科学基金面上项目(31572589))，参与发表[白藜芦醇对猪卵母细胞体外老化的抑制作用. 畜牧与兽医. 2019年  第51卷 第5期](https://mushan-guan.github.io/mypaper/thesis/VET.pdf)
+- 2018/03 – 2019/05<br>南京农业大学 -- 教育部动物健康与食品安全国际联合实验室，师从[芮荣教授](https://faculty.njau.edu.cn/~ANZvei/zh_CN/index.htm)，主持校级SRT项目(经费来源: 南京农业大学SRT计划(1817A10))，参与发表[白藜芦醇对猪卵母细胞体外老化的抑制作用. 畜牧与兽医. 2019年  第51卷 第5期](https://mushan-guan.github.io/mypaper/thesis/VET.pdf)
