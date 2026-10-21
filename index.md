@@ -7,14 +7,14 @@ classes: wide
 
 <img src="https://mushan-guan.github.io/guanqibiao.jpg" style="width: 90px; height: auto; float: right; margin-left: 1em;">
 
-<span style="font-size: 1.4em; font-weight: bold;">Hi! Here is Qibiao Guan</span>. I am a Ph.D. candidate in Regenerative Medicine at the <font color='#014099'><strong>Institute of Zoology, Chinese Academy of Sciences</strong></font>. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
+<span style="font-size: 1.4em; font-weight: bold;">Hi! Here is Qibiao Guan</span>. I am a Ph.D. candidate in Regenerative Medicine at the <span style="font-size: 1em; font-weight: bold;">Institute of Zoology, Chinese Academy of Sciences</span>. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
 
 ------
 
 ## Skill
 
 - **Data Analysis**: I am proficient in bioinformatics data analysis using Linux, R, and Python.
-- **Experimental Techniques**: I have a solid command of routine molecular and cellular biology experiments, mouse behavioral tests.
+- **Experimental Techniques**: I have solid hands-on experience with routine molecular and cellular biology techniques and mouse behavioral assays.
 - **English Proficiency**: I have passed the College English Test (CET‑6) and am able to read English scientific literature fluently.
 
 ------
