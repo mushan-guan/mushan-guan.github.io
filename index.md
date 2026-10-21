@@ -21,12 +21,6 @@ classes: wide
 
 ## Education
 
-- Sep 2016 – Jun 2021 <font color='##005245'><strong>Nanjing Agricultural University</strong></font>, Veterinary Medicine, Bachelor of Agriculture
-
-- Sep 2021 – present <font color='#014099'><strong>University of Chinese Academy of Sciences</strong></font>, Regenerative Medicine, Ph.D. candidate in Medicine<br>
-
-
-
 <div class="timeline">
   <div class="timeline-item">
     <div class="timeline-date">Sep 2016 – Jun 2021</div>
