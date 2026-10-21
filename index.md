@@ -7,7 +7,7 @@ classes: wide
 
 <img src="https://mushan-guan.github.io/guanqibiao.jpg" style="width: 90px; height: auto; float: right; margin-left: 1em;">
 
-<span style="color:#BF002D; font-size: 2em; font-weight: bold;">Hi! Here is Qibiao Guan</span>. I am a Ph.D. candidate in Regenerative Medicine at the <font color='#014099'><strong>Institute of Zoology, Chinese Academy of Sciences</strong></font>. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
+<span style="color:#BF002D; font-size: 1.4em; font-weight: bold;">Hi! Here is Qibiao Guan</span>. I am a Ph.D. candidate in Regenerative Medicine at the <font color='#014099'><strong>Institute of Zoology, Chinese Academy of Sciences</strong></font>. My research focuses on systematically deciphering the pathological mechanisms of neurological injury diseases (e.g., ischemic stroke) and rare pediatric neurological disorders, such as ventricular rare tumors, using technologies including single-cell multi-omics.<br>
 
 ------
 
@@ -19,15 +19,7 @@ classes: wide
 
 ------
 
-## 
-
-
-
-```html
-<h2 class="section-title"><i class="fas fa-graduation-cap" aria-hidden="true"></i> Education</h2>
-```
-
-
+## Education
 
 
 
