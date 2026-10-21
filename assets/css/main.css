@@ -566,7 +566,7 @@ footer a:hover {
 @media (prefers-color-scheme: dark) {
   .timeline::before { background: #3a3a3a; }
   .timeline-item::before { background: #252525; border-color: #66b2ff; }
-  .timeline-date { color: #66b2ff; }
+  .timeline-date { color: #ffffff; }
   .timeline-title { color: #e6e6e6; }
   .timeline-institution { color: #aaa; }
   
