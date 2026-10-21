@@ -14,7 +14,7 @@ classes: wide
 ## Skill
 
 - **Data Analysis**: I am proficient in bioinformatics data analysis using Linux, R, and Python.
-- **Experimental Techniques**: I have solid hands-on experience with routine molecular and cellular biology techniques and mouse behavioral assays.
+- **Experimental Techniques**: I have solid hands-on experience with routine molecular and cellular biology techniques.
 - **English Proficiency**: I have passed the College English Test (CET‑6) and am able to read English scientific literature fluently.
 
 ------
