@@ -31,7 +31,7 @@ classes: wide
   <div class="timeline-item">
     <div class="timeline-date">Sep 2016 – Jun 2021</div>
     <h3 class="timeline-title">
-      <span class="school-green">Nanjing Agricultural University</span>
+      <span class="school-#005245">Nanjing Agricultural University</span>
     </h3>
     <p class="timeline-institution">Veterinary Medicine, Bachelor of Agriculture</p>
   </div>
@@ -39,10 +39,11 @@ classes: wide
   <div class="timeline-item">
     <div class="timeline-date">Sep 2021 – present</div>
     <h3 class="timeline-title">
-      <span class="school-blue">University of Chinese Academy of Sciences</span>
+      <span class="school-#014099">University of Chinese Academy of Sciences</span>
     </h3>
     <p class="timeline-institution">Regenerative Medicine, Ph.D. candidate in Medicine</p>
   </div>
+
 </div>
 
 
