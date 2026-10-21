@@ -26,6 +26,28 @@ classes: wide
 - Sep 2021 – present <font color='#014099'><strong>University of Chinese Academy of Sciences</strong></font>, Regenerative Medicine, Ph.D. candidate in Medicine<br>
 
 
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">Sep 2016 – Jun 2021</div>
+    <h3 class="timeline-title">
+      <span class="school-green">Nanjing Agricultural University</span>
+    </h3>
+    <p class="timeline-institution">Veterinary Medicine, Bachelor of Agriculture</p>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">Sep 2021 – present</div>
+    <h3 class="timeline-title">
+      <span class="school-blue">University of Chinese Academy of Sciences</span>
+    </h3>
+    <p class="timeline-institution">Regenerative Medicine, Ph.D. candidate in Medicine</p>
+  </div>
+</div>
+
+
+
+
 ------
 
 ## Contact

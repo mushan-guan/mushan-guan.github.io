@@ -497,3 +497,80 @@ footer a:hover {
   img { opacity: 0.92; }
   ::selection { background: #444 !important; color: #fff !important; }
 }
+
+
+/* ===== 1. 时间线基础结构 ===== */
+.timeline {
+  position: relative;
+  padding-left: 1.5rem;
+  margin: 1.5rem 0;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0.25rem; 
+    top: 0.25rem;
+    bottom: 0.25rem;
+    width: 2px;
+    background: #e0e0e0; /* 竖线颜色 */
+  }
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 2rem;
+  padding-left: 1rem;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: -1.35rem; 
+    top: 0.35rem;
+    width: 10px;
+    height: 10px;
+    background: #fff;
+    border: 2px solid #1478A8; /* 圆点边框色 */
+    border-radius: 50%;
+    z-index: 1;
+  }
+
+  &:last-child { margin-bottom: 0; }
+}
+
+.timeline-date {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #1478A8; 
+  margin-bottom: 0.25rem;
+}
+
+.timeline-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 0.25rem 0;
+  line-height: 1.4;
+}
+
+.timeline-institution {
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0;
+}
+
+/* ===== 2. 自定义学校颜色 (浅色模式) ===== */
+.school-green { color: #005245; font-weight: bold; }
+.school-blue { color: #014099; font-weight: bold; }
+
+
+/* ===== 3. 深色模式适配 ===== */
+@media (prefers-color-scheme: dark) {
+  .timeline::before { background: #3a3a3a; }
+  .timeline-item::before { background: #252525; border-color: #66b2ff; }
+  .timeline-date { color: #66b2ff; }
+  .timeline-title { color: #e6e6e6; }
+  .timeline-institution { color: #aaa; }
+  
+  /* 深色背景下使用更亮的绿色和蓝色，保证对比度 */
+  .school-green { color: #4ade80; } /* 亮绿色 */
+  .school-blue { color: #60a5fa; }  /* 亮蓝色 */
+}
