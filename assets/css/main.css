@@ -571,6 +571,6 @@ footer a:hover {
   .timeline-institution { color: #aaa; }
   
   /* 直接用原色（注意：这样在黑背景下可能会很难看清） */
-  .school-green { color: #005245 !important; } 
-  .school-blue { color: #014099 !important; }  
+  .school-green { color: #DCDCDC !important; } 
+  .school-blue { color: #DCDCDC !important; }  
 }
