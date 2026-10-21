@@ -19,14 +19,7 @@ classes: wide
 
 ------
 
-```
-<h2 class="section-title">
-  <i class="fas fa-graduation-cap" aria-hidden="true"></i>
-  Education
-</h2>
-```
-
-## 
+## <i class="fas fa-graduation-cap" aria-hidden="true"></i> Education
 
 <div class="timeline">
   <div class="timeline-item">
