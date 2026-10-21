@@ -7,6 +7,8 @@ classes: wide
 
 > (†: equal contribution, #: corresponding author)
 
+------
+
 ## **Published Articles**
 
 - Zhang T†, Li D†, **Guan Q**, An B, Sun Y, Wang Q, Wang Y, Hu B. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). **CNS Neurosci Ther**. 2026 Jan;32(1):e70701. doi: 10.1002/cns.70701.<br>
