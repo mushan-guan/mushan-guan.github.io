@@ -5,9 +5,9 @@ title: Publications
 classes: wide
 ---
 
-> (†: equal contribution, #: corresponding author)
-
 ------
+
+> (†: equal contribution, #: corresponding author)
 
 ## **Published Articles**
 
@@ -30,6 +30,12 @@ classes: wide
 - <font color='A8C0D8'>New*. Co-author</font>
 - <font color='A8C0D8'>AD+SS*. Co-author</font>
 - <font color='A8C0D8'>AD+Neuro*. Co-author</font>
+
+------
+
+## **Tools**
+
+- [cellLink](https://github.com/mushan-guan/cellLink): Map cells between various dimensionality reduction plots.
 
 ---
 
