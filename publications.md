@@ -18,11 +18,11 @@ classes: wide
 - <font color='A8C0D8'>UCP*. <strong>†1-3</strong> </font>
 - <font color='A8C0D8'>CD7*. <strong>†1-2</strong></font>
 - <font color='A8C0D8'>C4*. <strong>†1-3</strong></font>
+- <font color='A8C0D8'>Stroke+Dn*. <strong>†1-2</strong></font>
 - <font color='A8C0D8'>Data*. Co-author</font>
 
 ## **Manuscript in preparation**
 
-- <font color='A8C0D8'>Stroke+Dn*. <strong>†1-2</strong></font>
 - <font color='A8C0D8'>Stroke+VD*. <strong>†1-1</strong></font>
 - <font color='A8C0D8'>Stroke+He*. <strong>†1-1</strong></font>
 - <font color='A8C0D8'>Stroke+mi*. <strong>†1-4</strong></font>
