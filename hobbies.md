@@ -10,7 +10,7 @@ title: Hobbies
 
 ## 自然观察
 
-长期从事自然观察，记录国内近八千种野生生物，记录北京四千多种野生生物<br>记录详见[iNaturalist](https://www.inaturalist.org/people/6364475)、[小红书](https://www.xiaohongshu.com/user/profile/63f389a4000000001001ce80?xhsshare=CopyLink&appuid=63f389a4000000001001ce80&apptime=1684507060)、[中国观鸟记录中心](http://www.birdreport.cn/member/index.html)
+长期从事自然观察，记录国内近八千种野生生物，记录北京四千多种野生生物，记录详见[iNaturalist](https://www.inaturalist.org/people/6364475)、[小红书](https://www.xiaohongshu.com/user/profile/63f389a4000000001001ce80?xhsshare=CopyLink&appuid=63f389a4000000001001ce80&apptime=1684507060)、[中国观鸟记录中心](http://www.birdreport.cn/member/index.html)
 
 ------
 
