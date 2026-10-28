@@ -19,7 +19,7 @@ title: Hobbies
 - 2018/07/11 - 2018/08/18<br>上海佩仕动物诊疗有限公司，宠物医疗助理
 - 2018/07/25 - 2018/08/02<br>广西桂林市力源集团，饲料部门调研生
 - 2019/07/15 - 2019/07/21<br>南京农业大学马科学研究中心，马工
-- 2019/10/21 - 2019/12/28<br>南京农业大学，教学动物医院，宠物医疗助理
+- 2019/10/21 - 2019/12/28<br>南京农业大学教学动物医院，宠物医疗助理
 - 2020/04/18 - 2020/05/19<br>南京卧龙湖乡村休闲俱乐部有限公司，西尔维娅马术学院，马工
 - 2020/07/01 - 2020/08/06<br>南京汉世伟食品有限公司，南京市浦口区星甸猪场，饲养技术员
 - 2020/08/10 - 2020/08/23<br>江苏省农业科学院，江苏省农学会，科技服务助理
@@ -36,7 +36,7 @@ title: Hobbies
 - 2025/06/12、15、19、21、26，07/22，08/31<br>在北京市奥林匹克森林公园北园开展昆虫科普活动
 - 2025/09/18、23、24<br>与北京市企业家环保基金会 (SEE) 合作，在北京市温榆河公园拍摄昆虫
 - 2025/10/15<br>中国科学院大学心赏计划“风雨同舟”活动暨动物研究所研究生心理健康系列活动，昆虫旅馆科普讲师，[“共建昆虫家园，守护自然之美”——昆虫旅馆搭建活动](https://mp.weixin.qq.com/s/riNtdN1aflmwcocR3yyi4A)
-- 2025/11/14 - 2025/11/17<br>云南南滚河国家级自然保护区与班老乡，鸟类调查志愿者
+- 2025/11/14 - 2025/11/17<br>云南南滚河国家级自然保护区与沧源县班老乡，鸟类调查志愿者
 - 2026/02/21<br>南京长江江豚省级自然保护区与南京江豚水生生物保护协会，长江江豚调查志愿者
 
 ------
@@ -47,7 +47,7 @@ title: Hobbies
 - 巴西圣卡塔琳娜联邦大学和费拉迪圣安娜州立大学的学者在一篇发表于巴西科学院年鉴的文章中展示我的一则[铗蠓外寄生美国白蛾](https://www.inaturalist.org/observations/316275415)的照片。详见：CAIO CEZAR D. CORRÊA, CAIQUE D. VASCONCELOS. [Uncovering host diversity and global distribution of Forcipomyia Meigen (Diptera: Ceratopogonidae) ectoparasitism on Lepidoptera larvae using citizen science records](https://mushan-guan.github.io/mypaper/thesis/2026 Uncovering host diversity and global distribution of Forcipomyia Meigen (Diptera Ceratopogonidae) ectoparasitism on Lepidoptera larvae using citizen science records.pdf). ANAIS DA ACADEMIA BRASILEIRA DE CIENCIAS. 2026. doi.org/10.1590/0001-3765202620260135.<br>
 - 波兰罗兹大学 https://www.inaturalist.org/observations/371467947<br>
 - 纽约大学生物系、瑞士圣加仑自然历史博物馆、上海自然博物馆、上海海洋大学、江苏宝华山国家森林公园.etc<br>
-- 广西昆虫名录<br>
+- 广西昆虫名录供图<br>
 - 北京两爬图鉴供图<br>
 - 烟台昆嵛山图鉴供图<br>
 - 关注类群：钩虾、圆䖴.etc<br>
