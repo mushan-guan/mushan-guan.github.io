@@ -10,7 +10,9 @@ title: Hobbies
 
 ## 自然观察
 
-详见[iNaturalist](https://www.inaturalist.org/people/6364475)、[小红书](https://www.xiaohongshu.com/user/profile/63f389a4000000001001ce80?xhsshare=CopyLink&appuid=63f389a4000000001001ce80&apptime=1684507060)、[中国观鸟记录中心](http://www.birdreport.cn/member/index.html)
+长期从事自然观察，记录国内近八千种野生生物，记录北京四千多种野生生物
+
+记录详见[iNaturalist](https://www.inaturalist.org/people/6364475)、[小红书](https://www.xiaohongshu.com/user/profile/63f389a4000000001001ce80?xhsshare=CopyLink&appuid=63f389a4000000001001ce80&apptime=1684507060)、[中国观鸟记录中心](http://www.birdreport.cn/member/index.html)
 
 ------
 
@@ -23,7 +25,7 @@ title: Hobbies
 - 2020/04/18 - 2020/05/19<br>南京卧龙湖乡村休闲俱乐部有限公司，西尔维娅马术学院，马工
 - 2020/07/01 - 2020/08/06<br>南京汉世伟食品有限公司，南京市浦口区星甸猪场，饲养技术员
 - 2020/08/10 - 2020/08/23<br>江苏省农业科学院，江苏省农学会，科技服务助理
-- 2021/11 - 2025<br>中国科学院大学，春分工程科普宣讲团成员<br>因团队入选中国科协主办[“典赞·2023 科普中国”](https://www.kepuchina.cn/article/articleinfo?business_type=100&ar_id=490165)年度科普人物，本人荣幸参与了**CCTV 10**节目录制，并接受[《中国青年报》](http://zqb.cyol.com/html/2024-04/01/nw.D110000zgqnb_20240401_1-05.htm)采访<br>
+- 2021/11 - 2025<br>中国科学院大学，春分工程科普宣讲团成员<br>团队入选中国科协主办[“典赞·2023 科普中国”](https://www.kepuchina.cn/article/articleinfo?business_type=100&ar_id=490165)年度科普人物，本人参与**CCTV 10**节目录制，并接受[《中国青年报》](http://zqb.cyol.com/html/2024-04/01/nw.D110000zgqnb_20240401_1-05.htm)采访<br>
 - 2022/04/02<br>在中国科学院大学官方公众号参与发表蝽类科普文章[不瞒你说，这篇推文有点“臭”！](https://mp.weixin.qq.com/s/WrZ61y_5FgXF3VJMmBb7Kw)<br>
 - 2022/06/18<br>山水自然，志愿者，参与调查国家植物园北园昆虫
 - 2023/05/01<br>国家动物博物馆，志愿者
