@@ -11,8 +11,8 @@ classes: wide
 
 ## **Published Articles**
 
-- Zhang T†, Li D†, <font color='A8C0D8'>Guan Q</font>, An B, Sun Y, Wang Q, Wang Y, Hu B. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). <font color='A8C0D8'>**CNS Neurosci Ther**</font>. 2026 Jan;32(1):e70701. doi: 10.1002/cns.70701.<br>
-- Zhou L†, Qian F†, Li D†, Wang Q, Wang H, Li B, <font color='A8C0D8'>Guan Q</font>, Wang Q, Yin K, Liu J, Sun Y, Li C, Zhu Y, Hu B. scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease. <font color='A8C0D8'>**Nucleic Acids Research**</font>. doi.org/10.1093/nar/gkag1198. <br>
+- Zhang T†, Li D†, <font color='4BD9DE'>Guan Q</font>, An B, Sun Y, Wang Q, Wang Y, Hu B. [Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke](https://mushan-guan.github.io/mypaper/thesis/2026 Lineage-Biased Neural Stem Cell Grafting Promotes Neuronal Differentiation and Vascular Repair in the Chronic Phase of Stroke.pdf). <font color='f8c03a'>**CNS Neurosci Ther**</font>. 2026 Jan;32(1):e70701. doi: 10.1002/cns.70701.<br>
+- Zhou L†, Qian F†, Li D†, Wang Q, Wang H, Li B, <font color='4BD9DE'>Guan Q</font>, Wang Q, Yin K, Liu J, Sun Y, Li C, Zhu Y, Hu B. scCVD: a comprehensive single-cell omics atlas of cerebrovascular disease. <font color='fd612b'>**Nucleic Acids Research**</font>. doi.org/10.1093/nar/gkag1198. <br>
 
 ## **Manuscripts Under Review**
 
